@@ -23,11 +23,12 @@ def get_report_urls(summary_url):
     reports = [(atag.text,atag['href']) for trtag in reports_table.select('tr') for tdtag in trtag.select('td') if len(tdtag.select('a')) != 0 for atag in tdtag.select('a')]
     
     # 过滤去2017年的URL
-    report_urls = [x for x in get_report_urls(SUMMARY_URL) if x[0] != '2017']
+    report_urls = [x for x in reports if x[0] != '2017']
+    print report_urls
     report_urls.append(('2017',REPORT2017_URL))
     # 按照年份升序排序
     report_urls = sorted(report_urls,key = lambda item:item[0])
-    return reports
+    return report_urls
 
 # 从报告页面html中解析出正文内容
 # 考虑到不同年份报告的2种不同的html结构，采用两种解析方案
@@ -68,6 +69,7 @@ def get_topn_words_yearly(report_urls,topn):
     for year,url in report_urls:
         print 'start to parse {year} report...'.format(year = year)
         keywords[year] = get_topn_words(url,topn)
+    return keywords
 
 # 根据传入的每年的政府工作报告全文URL，解析出每个十年的合并topn关键词
 def get_topn_words_decadal(report_urls,topn):
@@ -83,11 +85,24 @@ def get_topn_words_decadal(report_urls,topn):
     for years,decade in decade_items:
         urls = [item[1] for item in report_urls if item[0] in decade]
         keywords[years] = get_topn_words_from_urls(urls,topn)
+        
+    return keywords
 
 def main():
     # 设置字节流编码方式为utf-8
     reload(sys)
     sys.setdefaultencoding('utf-8')
+    
+    report_urls = get_report_urls(SUMMARY_URL)
+    #print report_urls[0]
+    #parse_report_article(report_urls[0])
+    
+    
+    keywords = get_topn_words_decadal(report_urls,30)
+    with open('out.tmp','w+') as fout:
+        fout.write(json.dumps(keywords))
+    
+    
     
 if __name__ == '__main__':
     main()
