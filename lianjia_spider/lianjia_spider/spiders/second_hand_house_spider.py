@@ -74,21 +74,10 @@ class SecondHandHouseSpider(scrapy.Spider):
         for info in house_info_list:
             # 标题
             title = info.xpath('.//div[@class="title"]/a[re:test(@href, "https://sz\.lianjia\.com/ershoufang/\d+\.html$")]/text()').extract_first()
-            # 房屋详细信息，这里用'string(.)'解析出多个不同标签的内容
+            
+            # 房屋详细信息，这里用'string(.)'解析出多个不同标签的文本内容
             house_detail = info.xpath('.//div[@class="houseInfo"]').xpath('string(.)').extract_first()
 
             print house_detail
             
-        '''
-        for title in titles:
-            print title
-        '''
             
-        '''
-        for info in house_info_list:
-            title = info.xpath('//div[@class="title"]/a/text()').extract_first()
-            print title
-        '''
-        
-        
-        
