@@ -26,7 +26,7 @@ def main():
     sys.setdefaultencoding('utf-8')
     
     with open('out.tmp','w+') as fout:
-        fout.write(str(get_topn_words(REPORT_URL,50)))
+        fout.write(str(get_topn_words(REPORT_URL,20)))
     
 if __name__ == '__main__':
     main()

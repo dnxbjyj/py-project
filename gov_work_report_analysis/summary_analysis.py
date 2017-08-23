@@ -7,6 +7,7 @@ from bs4 import BeautifulSoup as BS
 import html_utils
 from html_utils import HtmlParseError
 import cut_text_utils
+import visual_utils
 
 # 汇总URL
 SUMMARY_URL = 'http://www.gov.cn/guoqing/2006-02/16/content_2616810.htm'
@@ -24,7 +25,6 @@ def get_report_urls(summary_url):
     
     # 过滤去2017年的URL
     report_urls = [x for x in reports if x[0] != '2017']
-    print report_urls
     report_urls.append(('2017',REPORT2017_URL))
     # 按照年份升序排序
     report_urls = sorted(report_urls,key = lambda item:item[0])
@@ -83,6 +83,7 @@ def get_topn_words_decadal(report_urls,topn):
     keywords = OrderedDict()
     decade_items = [('1954-1964',decade1),('1975-1987',decade2),('1988-1997',decade3),('1998-2007',decade4),('2008-2017',decade5)]
     for years,decade in decade_items:
+        print 'start to parse {years} reports...'.format(years = years)
         urls = [item[1] for item in report_urls if item[0] in decade]
         keywords[years] = get_topn_words_from_urls(urls,topn)
         
@@ -93,16 +94,22 @@ def main():
     reload(sys)
     sys.setdefaultencoding('utf-8')
     
+    # 按年代分析每10年的政府工作报告
     report_urls = get_report_urls(SUMMARY_URL)
-    #print report_urls[0]
-    #parse_report_article(report_urls[0])
+    keywords = get_topn_words_decadal(report_urls,20)
     
-    
-    keywords = get_topn_words_decadal(report_urls,30)
+    # 将结果保存到文件
     with open('out.tmp','w+') as fout:
-        fout.write(json.dumps(keywords))
+        for years,words in keywords.items():
+            fout.write('【{years}】\n'.format(years = years.decode('unicode-escape').encode('utf-8')))
+            for word,count in words:
+                fout.write('{word}:{count};'.format(word = word,count = count))
+            fout.write('\n\n')
+            
+    # 绘出散点图
+    for years,words in keywords.items():
+        visual_utils.draw_keywords_scatter(words[:20],u'{years}年政府工作报告关键词Top{topn}'.format(years = years,topn = 20),u'关键词',u'出现总次数')
     
-    
-    
+
 if __name__ == '__main__':
     main()

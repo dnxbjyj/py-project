@@ -22,4 +22,4 @@ if __name__ == '__main__':
     
     s = u'我想和女朋友一起去北京故宫博物院参观和闲逛。'
     # print cut_text(s)
-    print get_topn_words(s,10)
+    print get_topn_words(s,5)
