@@ -1,0 +1,1931 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>全国所有城市2018年02月住宅房价数据查询—中国房价行情</title>
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta http-equiv="Cache-Control" content="no-transform " />
+ <link rel="shortcut icon" href="/images/img2015/favico.ico" />
+<link rel="stylesheet" type="text/css" media="screen" href="/css/creprice_reset2015.css" />
+<script type="text/javascript" src="/js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="/js/layer/layer.js"></script>
+<script type="text/javascript" src="/js/tools.js"></script>
+<script type="text/javascript" src="/js/base64.js"></script>
+<script type="text/javascript" src="/js/creprice-main.js"></script>
+</head>
+<body>
+
+<!--模板内容-->
+<script src="/js/clearCache.js"></script>
+<script src="/js/layer/layer.js"></script>
+<!-- BUG: 大通栏 -->
+<div class="nav-top">
+  <div class="toolbar">
+  <div class="inner">
+    <div class="hp-tb-fr clearfix">
+	    <div class="fl" style="position:relative;">
+	      <a rel="nofollow" target="_blank" href="/user/aboutus.html" class="link">公司简介</a>
+         <a style="margin-left:20px;" rel="nofollow" href="/vip/service.html" target="_blank" class="link">服务方式和说明</a>
+          <a style="margin-left:20px;" rel="nofollow" href="/user/datades.html" target="_blank" class="link">数据说明</a>
+
+                    <a style="margin-left:20px;" rel="nofollow" onclick="showBuyMsgBox_danci('login')" href="javascript:void(0);" class="link">登录</a>
+          <span class="line">|</span>
+          <a rel="nofollow" href="/user/reg.html?matchrand=a0b92382" target="_blank" class="link">注册</a>
+                    <span class="line">|</span>
+          <img class="cart_header" src="/images/2016/cart_header.png" alt="">
+          <a rel="nofollow" href="/user/scart.html" target="_blank" class="link" style="margin-left:17px;">购物车</a>
+	    </div>
+    </div>
+  </div>
+</div>
+
+     <div class="navBox_header">
+         <div class="logoBox_header">
+             <img src="/images/2016/logo_header.png" alt="" onclick="location.href='/'" style="cursor: pointer;"/>
+             <span class="lc_changecity" style="cursor: pointer;">
+             <a class="citySelect_header" href="javascript:void(0);">广州</a>
+             <img class="selectIcon_header" src="/images/icon4.png" alt="">
+             </span>
+         </div>
+         <div class="checkBox_header">
+              <div class="search-cont fr">
+                <form id="searchf" class="form mr40" method="post" action="/ha/search.html?city=gz"> 
+  <input id="search" place='查询城市、区市县、楼盘小区、地标' type="text" onkeydown="this.style.color=''" onblur="if(this.value==''){this.value='查询城市、区市县、楼盘小区、地标';this.style.color='';this.className='sr';}" onfocus="this.className=' sr'; if(this.value!='查询城市、区市县、楼盘小区、地标'){this.style.color='';}else{this.value='';this.style.color=''}" autocomplete="off" name="key" value="查询城市、区市县、楼盘小区、地标" class="sr" />
+  <input id="submit" type="submit" name="" class="sub" value="搜 索" />
+</form>              </div>
+              <!--<div class="oneMapLink_header fr">
+                <img src="/images/2016/oneMapIcon.png" alt="">
+                <a href="/naprice/funation.html">禧泰一张图</a>
+              </div>-->
+
+         </div>
+         <ul class="menuBox_header">
+           <!--<li><a href="/">首页</a></li>-->
+           <li><a href="/naprice/funation.html"  hightkey='funation'>禧泰一张图</a></li>
+           <li>
+               <a href="/market/gz/forsale/ALL/11.html" hightkey='market|halist|rank'>房价行情查询</a><span></span>
+               <ul class="menuBox_slide_header">
+                   <!--<li><a href="/naprice/funation.html">全国行情（禧泰一张图）</a></li>-->
+                   <li><a href="/rank/nationranking.html">全国房地产排行数据</a></li>
+                   <li><a href="/market/gz/forsale/ALL/11.html">广州行情</a></li>
+                   <li><a href="/halist/cigz.html">楼盘小区行情</a></li>
+               </ul>
+           </li>
+           <li>
+               <a href="/depth/index.html" hightkey='depth|database'>数据深度应用</a><span></span>
+               <ul class="menuBox_slide_header">
+                   <li><a href="/depth/yearBookAll.html">全国房地产数据年鉴</a></li>
+                   <li><a href="/database/basics.html">全国房地产数据库销售系统</a></li>
+                   <!--<li><a href="/rank/nationranking.html">全国房地产排行数据查询</a></li>-->
+                   <li><a href="http://www.crevalue.cn" target="_blank">房产自动估价</a></li>
+                   <li><a href="http://data.cityhouse.cn/ad/dataReport.html" target="_blank">房地产数据报告系统</a></li>
+               </ul>
+           </li>
+           <li>
+               <a href="/solution/index.html" hightkey='solution'>行业解决方案</a><span></span>
+               <ul class="menuBox_slide_header">
+                   <li><a href="/solutiondetail/1.html">房地产企业</a></li>
+                   <li><a href="/solutiondetail/2.html">银行等金融机构</a></li>
+                   <li><a href="/solution/detailzj.html">房产中介</a></li>
+                   <li><a href="/solutiondetail/3.html">资产运营及管理机构</a></li>
+               </ul>
+           </li>
+         </ul>
+
+     </div>
+  </div>
+</div>
+
+<script>
+$(function () {
+    // 导航条下拉菜单
+    var slide = $(".menuBox_slide_header").children("li");
+    var btn = $(".menuBox_header").children("li");
+    btn.mouseenter(function () {
+        $(this).find(slide).slideDown("fast");
+        /*$(this).siblings("li").find(slide).stop().slide();*/
+    });
+    btn.mouseleave(function () {
+        slide.stop().hide();
+    });
+
+});
+$(function(){
+    //根据url关键词添加高亮状态
+    if(location.href.substr(-12).replace('/','')=='creprice.cn'){//首页
+        $('.menuBox_header a').eq(0).addClass('active');
+    }else{//其他页面
+        $('.menuBox_header a').each(function(){
+            if($(this).attr('hightkey')){
+                var hightkey=$(this).attr('hightkey');
+                hightkeyary=hightkey.split('|');
+                for(x in hightkeyary){
+                    if(location.href.indexOf(hightkeyary[x])>=0){
+                        $(this).addClass('active');
+                    }
+                }
+            }
+        })
+    }
+})
+</script>
+
+<!-- 统计访问量start -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-64216322-4', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- end -->
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"2sP1o1QolK10/9", domain:"creprice.cn",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=2sP1o1QolK10/9" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
+
+
+  <!-- BUG: 下载是用的 -->
+<iframe id="downtarget" name="downtarget" style="display: none;" width="1" height="1"></iframe>
+<div id="downwaiting" style="display:none; position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; z-index: 9999;">
+    <div style="position: fixed; top: 0px; right: 0px; bottom: 0px; left: 0px; z-index: 501; background-color: rgb(0, 0, 0); opacity: 0.5;filter:alpha(opacity=50);"></div>
+
+    <div id="downinfobox" style="position: fixed; top: 182.5px; width: 440px; background-color: rgb(255, 255, 255); box-shadow: 0px 10px 15px 0px rgb(102, 102, 102); overflow: hidden; z-index: 502; line-height: 41px;">
+        <div class="pop-ajaxbox">
+	    	<div class="cat-title">
+	        	<div class="tc mb"><img src="/images/loading.gif"></div>
+	            <div class="tith tc mb">正在下载，请耐心等待！</div>
+	            <div class="ajax-close al">×</div>
+	        </div>
+
+	       <div class="fk-bottomwz mt20">
+	       	下载完毕后请关闭弹出窗口
+	       </div>
+	    </div>
+    </div>
+</div>
+<form id="downform" action="" method="post">
+<input name="downinfo" type="hidden" />
+<input name="params" type="hidden" /></form>
+<script>
+$('.ajax-close').click(function (){
+    $('#downwaiting').hide();
+})
+
+$('#downinfobox').css('left',$(window).width()/2-200);//为弹出的登录框添加属性，使其居中显示
+
+function downLoadData (city,soustr,purl,pdata,authStr) {
+	auth = checkauth(city,soustr,'download');
+	if (!auth.isallow) {
+		auth = checkauth_2(authStr);
+	}
+	if (auth.isallow || soustr == 'haIndex') {
+		$('#downform input').val('')
+		for(var k in pdata){
+			$('input[name="'+k+'"]').val(pdata[k])
+		}
+		$('#downform').attr('action',purl)
+		$('#downform').submit()
+		$('#downwaiting').show();
+		return ;
+	} else if(0 && auth.ugroup == 'guest'){
+		if(confirm('请登录后下载数据，是否现在登录？')){
+			location.href='/user/login.html?matchrand=a0b92382&fromurl=aHR0cDovL3d3dy5jcmVwcmljZS5jbi9yYW5rL2NpdHlmb3JzYWxlLmh0bWw/dHlwZT0xMSZjaXR5bGV2ZWw9MiZ5PTIwMTgmbT0wMg==';
+		}
+	} else {
+		if (soustr == 'marketChartsdata') {
+                showAuthMsgBox(auth.isallow + '|' + auth.isallowCity + '|' + auth.ugroup,level,content,dealtype,proptype,sinceyear,city,contentname);
+        } else if (soustr == 'marketHaChartsdata2') {
+               showAuthMsgBox(auth.isallow + '|' + auth.isallowCity + '|' + auth.ugroup,level,content,dealtype,proptype,sinceyear,city,contentname);
+        } else if (soustr == 'marketNewha') {
+               if(purl.indexOf('downloadnewha')>=0){
+                  showMsgBox(encodeURIComponent('3|' + cityname + distname + proptypeT + sinceyear + '年新楼盘|' + sinceyear + '|' + city + '|' + distname + '|' + proptype + '|' + contentname + '|' + content + '|' + level),1);
+               }
+        }
+	}
+}
+function downLoadDataHa (purl,pdata) {
+		$('#downform input').val('')
+		for(var k in pdata){
+			$('input[name="'+k+'"]').val(pdata[k])
+		}
+		$('#downform').attr('action',purl)
+		$('#downform').submit()
+		$('#downwaiting').show();
+		return ;
+}
+</script>
+<!-- BUG: 下载是用的结束 -->
+<!--/ #header-->
+<style>
+.tith > span {
+  font-size: 17px;
+}
+</style>
+<script>
+$(function(){
+    var showtext='';
+    var t1=$('.title-style2 .tith').text();
+    var t2=$('.utitle h2').html();
+   
+    showtext+='<span>'+t1+'</span>';
+    showtext+='<span>'+t2+'</span>';
+    $('#nowselectshow').html(showtext);
+    $('#nowselectshow').parent().show();
+})
+
+</script>
+
+
+<div class="layout-uibox-bg">
+  <div id="content">
+      <div class="newcrumbs"><a href="/"> 中国房价行情 </a>  > <a href="/naprice/funation.html">全国房价 </a> > <a href="/rank/nationranking.html">全国房地产数据查询 </a></div>
+
+      <div class="title-style2">
+      	<div class="tith">全国房价行情城市查询<span> (住宅)</span></div>
+    </div>
+    
+    <div class="box850 fl mr30">
+    
+       <div class="uibox2">
+            <div class="utitle">
+                <h2 class="ranktit">2018年02月</h2>
+                <div class="fl mt">
+                    (28条)&nbsp;&nbsp;&nbsp;&nbsp;
+                    <!-- BUG: 大于20条才收费，数据小于20条做免费展示处理 -->
+                     
+                                                        <a class="blue pop-login" onclick="showBuyMsgBox_rank('login');" href="javascript:void(0);">登录</a>后可以查看全部数据
+                                		                   </div>
+				<div class="select-sy1 fr">
+                <a class="active" href="/rank/cityforsale.html?type=11">住宅</a>
+                <a class="" href="/rank/cityforsale.html?type=21">办公</a>
+                <a class="" href="/rank/cityforsale.html?type=22">商铺</a>
+                </div> 
+            </div>
+		   <!--城市分级-->
+		   <span class="city-rank">
+			   城市分级
+			  <span class="all "><a href="/rank/cityforsale.html?type=11&y=2018&m=02" style="margin:0;">全部</a></span>
+			  <span class="gray6">[</span>
+				  <a class="" href="/rank/cityforsale.html?type=11&citylevel=1&y=2018&m=02">一级</a>
+				  <a class="active" href="/rank/cityforsale.html?type=11&citylevel=2&y=2018&m=02">二级</a>
+				  <a class="" href="/rank/cityforsale.html?type=11&citylevel=3&y=2018&m=02">三级</a>
+				  <a class="" href="/rank/cityforsale.html?type=11&citylevel=4&y=2018&m=02">四级</a>
+			  <span class="gray6">]</span>
+		  </span>
+            <!--/ title-->
+            <div class="ucont2 clearfix">
+            
+				<div class="tips-sy2 mb">地级以上城市的小区在当月出售的存量住宅均价的算术平均值(元/㎡)。</div>
+
+				<div class="w690 fl mr30">
+                <div id="nowmonthshow" class=""> 
+                <table id="px" class="table-style5 tablesorter">
+                  <thead>
+                    <tr class="bg-color">
+                      <th width="10%">序号</th>
+                      <th width="20%">城市名称</th>
+                      <!-- BUG: 只有付费用户才有排序功能 -->
+                                            <th width="25%"><div><span>平均房价(元/㎡)</span></div></th>
+                      <th><div><span>环比上月</span></div></th>
+                      <th><div><span>同比上年</span></div></th>
+                                            
+                    </tr>
+                  </thead>
+                  <tbody id="order_f">
+                     
+                    <tr>
+                      <td>1</td>
+                      <td><a href="/market/cc/forsale/ALL/11.html" target="_blank">长春</a></td>
+                      <td>  
+                      7,691                      </td>
+                        
+                      <td class="green">
+                          -0.43%                      </td>
+                      
+                        
+                      <td class="red">
+                          +15.82%                      </td>
+                          
+                          
+                    </tr>
+                      
+                    <tr>
+                      <td>2</td>
+                      <td><a href="/market/cd/forsale/ALL/11.html" target="_blank">成都</a></td>
+                      <td>  
+                      15,833                      </td>
+                        
+                      <td class="red">
+                          +5.02%                      </td>
+                      
+                        
+                      <td class="">
+                          --                      </td>
+                          
+                          
+                    </tr>
+                      
+                    <tr>
+                      <td>3</td>
+                      <td><a href="/market/cs/forsale/ALL/11.html" target="_blank">长沙</a></td>
+                      <td>  
+                      10,535                      </td>
+                        
+                      <td class="red">
+                          +0.09%                      </td>
+                      
+                        
+                      <td class="red">
+                          +34.00%                      </td>
+                          
+                          
+                    </tr>
+                      
+                    <tr>
+                      <td>4</td>
+                      <td><a href="/market/dl/forsale/ALL/11.html" target="_blank">大连</a></td>
+                      <td>  
+                      13,284                      </td>
+                        
+                      <td class="red">
+                          +2.81%                      </td>
+                      
+                        
+                      <td class="red">
+                          +32.91%                      </td>
+                          
+                          
+                    </tr>
+                      
+                    <tr>
+                      <td>5</td>
+                      <td><a href="/market/fz/forsale/ALL/11.html" target="_blank">福州</a></td>
+                      <td>  
+                      28,504                      </td>
+                        
+                      <td class="red">
+                          +3.06%                      </td>
+                      
+                        
+                      <td class="red">
+                          +42.11%                      </td>
+                          
+                          
+                    </tr>
+                      
+                    <tr>
+                      <td>6</td>
+                      <td><a href="/market/gy/forsale/ALL/11.html" target="_blank">贵阳</a></td>
+                      <td>  
+                      8,226                      </td>
+                        
+                      <td class="red">
+                          +1.16%                      </td>
+                      
+                        
+                      <td class="red">
+                          +31.18%                      </td>
+                          
+                          
+                    </tr>
+                      
+                    <tr>
+                      <td>7</td>
+                      <td><a href="/market/hb/forsale/ALL/11.html" target="_blank">哈尔滨</a></td>
+                      <td>  
+                      9,110                      </td>
+                        
+                      <td class="red">
+                          +2.19%                      </td>
+                      
+                        
+                      <td class="red">
+                          +19.22%                      </td>
+                          
+                          
+                    </tr>
+                      
+                    <tr>
+                      <td>8</td>
+                      <td><a href="/market/hf/forsale/ALL/11.html" target="_blank">合肥</a></td>
+                      <td>  
+                      14,742                      </td>
+                        
+                      <td class="green">
+                          -0.19%                      </td>
+                      
+                        
+                      <td class="red">
+                          +1.52%                      </td>
+                          
+                          
+                    </tr>
+                      
+                    <tr>
+                      <td>9</td>
+                      <td><a href="/market/hh/forsale/ALL/11.html" target="_blank">呼和浩特</a></td>
+                      <td>  
+                      8,636                      </td>
+                        
+                      <td class="red">
+                          +0.10%                      </td>
+                      
+                        
+                      <td class="red">
+                          +33.35%                      </td>
+                          
+                          
+                    </tr>
+                      
+                    <tr>
+                      <td>10</td>
+                      <td><a href="/market/hk/forsale/ALL/11.html" target="_blank">海口</a></td>
+                      <td>  
+                      13,441                      </td>
+                        
+                      <td class="red">
+                          +2.04%                      </td>
+                      
+                        
+                      <td class="">
+                          --                      </td>
+                          
+                          
+                    </tr>
+                      
+                    <tr>
+                      <td>11</td>
+                      <td><a href="/market/hz/forsale/ALL/11.html" target="_blank">杭州</a></td>
+                      <td>  
+                      31,388                      </td>
+                        
+                      <td class="red">
+                          +1.58%                      </td>
+                      
+                        
+                      <td class="red">
+                          +39.34%                      </td>
+                          
+                          
+                    </tr>
+                      
+                    <tr>
+                      <td>12</td>
+                      <td><a href="/market/jn/forsale/ALL/11.html" target="_blank">济南</a></td>
+                      <td>  
+                      19,049                      </td>
+                        
+                      <td class="red">
+                          +6.80%                      </td>
+                      
+                        
+                      <td class="red">
+                          +38.09%                      </td>
+                          
+                          
+                    </tr>
+                      
+                    <tr>
+                      <td>13</td>
+                      <td><a href="/market/km/forsale/ALL/11.html" target="_blank">昆明</a></td>
+                      <td>  
+                      10,636                      </td>
+                        
+                      <td class="red">
+                          +0.93%                      </td>
+                      
+                        
+                      <td class="red">
+                          +23.55%                      </td>
+                          
+                          
+                    </tr>
+                      
+                    <tr>
+                      <td>14</td>
+                      <td><a href="/market/lz/forsale/ALL/11.html" target="_blank">兰州</a></td>
+                      <td>  
+                      10,061                      </td>
+                        
+                      <td class="green">
+                          -0.28%                      </td>
+                      
+                        
+                      <td class="red">
+                          +11.47%                      </td>
+                          
+                          
+                    </tr>
+                      
+                    <tr>
+                      <td>15</td>
+                      <td><a href="/market/nb/forsale/ALL/11.html" target="_blank">宁波</a></td>
+                      <td>  
+                      15,946                      </td>
+                        
+                      <td class="red">
+                          +2.76%                      </td>
+                      
+                        
+                      <td class="red">
+                          +25.44%                      </td>
+                          
+                          
+                    </tr>
+                      
+                    <tr>
+                      <td>16</td>
+                      <td><a href="/market/nc/forsale/ALL/11.html" target="_blank">南昌</a></td>
+                      <td>  
+                      10,322                      </td>
+                        
+                      <td class="green">
+                          -5.50%                      </td>
+                      
+                        
+                      <td class="red">
+                          +7.49%                      </td>
+                          
+                          
+                    </tr>
+                      
+                    <tr>
+                      <td>17</td>
+                      <td><a href="/market/nj/forsale/ALL/11.html" target="_blank">南京</a></td>
+                      <td>  
+                      28,627                      </td>
+                        
+                      <td class="red">
+                          +0.62%                      </td>
+                      
+                        
+                      <td class="red">
+                          +13.63%                      </td>
+                          
+                          
+                    </tr>
+                      
+                    <tr>
+                      <td>18</td>
+                      <td><a href="/market/nn/forsale/ALL/11.html" target="_blank">南宁</a></td>
+                      <td>  
+                      10,446                      </td>
+                        
+                      <td class="red">
+                          +1.87%                      </td>
+                      
+                        
+                      <td class="red">
+                          +35.57%                      </td>
+                          
+                          
+                    </tr>
+                      
+                    <tr>
+                      <td>19</td>
+                      <td><a href="/market/qd/forsale/ALL/11.html" target="_blank">青岛</a></td>
+                      <td>  
+                      21,473                      </td>
+                        
+                      <td class="red">
+                          +3.63%                      </td>
+                      
+                        
+                      <td class="">
+                          --                      </td>
+                          
+                          
+                    </tr>
+                      
+                    <tr>
+                      <td>20</td>
+                      <td><a href="/market/sj/forsale/ALL/11.html" target="_blank">石家庄</a></td>
+                      <td>  
+                      15,649                      </td>
+                        
+                      <td class="green">
+                          -1.12%                      </td>
+                      
+                        
+                      <td class="red">
+                          +13.08%                      </td>
+                          
+                          
+                    </tr>
+                      
+                    <tr>
+                      <td>21</td>
+                      <td><a href="/market/sy/forsale/ALL/11.html" target="_blank">沈阳</a></td>
+                      <td>  
+                      --                      </td>
+                        
+                      <td class="">
+                          --                      </td>
+                      
+                        
+                      <td class="">
+                          --                      </td>
+                          
+                          
+                    </tr>
+                      
+                    <tr>
+                      <td>22</td>
+                      <td><a href="/market/ty/forsale/ALL/11.html" target="_blank">太原</a></td>
+                      <td>  
+                      --                      </td>
+                        
+                      <td class="">
+                          --                      </td>
+                      
+                        
+                      <td class="">
+                          --                      </td>
+                          
+                          
+                    </tr>
+                      
+                    <tr>
+                      <td>23</td>
+                      <td><a href="/market/wh/forsale/ALL/11.html" target="_blank">武汉</a></td>
+                      <td>  
+                      --                      </td>
+                        
+                      <td class="">
+                          --                      </td>
+                      
+                        
+                      <td class="">
+                          --                      </td>
+                          
+                          
+                    </tr>
+                      
+                    <tr>
+                      <td>24</td>
+                      <td><a href="/market/wl/forsale/ALL/11.html" target="_blank">乌鲁木齐</a></td>
+                      <td>  
+                      --                      </td>
+                        
+                      <td class="">
+                          --                      </td>
+                      
+                        
+                      <td class="">
+                          --                      </td>
+                          
+                          
+                    </tr>
+                      
+                    <tr>
+                      <td>25</td>
+                      <td><a href="/market/xa/forsale/ALL/11.html" target="_blank">西安</a></td>
+                      <td>  
+                      --                      </td>
+                        
+                      <td class="">
+                          --                      </td>
+                      
+                        
+                      <td class="">
+                          --                      </td>
+                          
+                          
+                    </tr>
+                      
+                    <tr>
+                      <td>26</td>
+                      <td><a href="/market/xm/forsale/ALL/11.html" target="_blank">厦门</a></td>
+                      <td>  
+                      --                      </td>
+                        
+                      <td class="">
+                          --                      </td>
+                      
+                        
+                      <td class="">
+                          --                      </td>
+                          
+                          
+                    </tr>
+                      
+                    <tr>
+                      <td>27</td>
+                      <td><a href="/market/yc/forsale/ALL/11.html" target="_blank">银川</a></td>
+                      <td>  
+                      --                      </td>
+                        
+                      <td class="">
+                          --                      </td>
+                      
+                        
+                      <td class="">
+                          --                      </td>
+                          
+                          
+                    </tr>
+                      
+                    <tr>
+                      <td>28</td>
+                      <td><a href="/market/zz/forsale/ALL/11.html" target="_blank">郑州</a></td>
+                      <td>  
+                      --                      </td>
+                        
+                      <td class="">
+                          --                      </td>
+                      
+                        
+                      <td class="">
+                          --                      </td>
+                          
+                          
+                    </tr>
+                                     
+                  </tbody>
+                </table>
+                
+               	 </div>
+                </div>
+                <!--/w690-->
+
+          
+                <div id="timew" class="timeline-box fl" style="margin-top:0;">               
+                  <!--end model_wp-->
+
+<div class="timeline">
+        <i class="time-null">时间选择</i>
+        <div class="linebox">
+            <div class="timeline-cont">
+            	<div class="year">
+                    <i class="time-y"></i><a href="javascript:void(0);">2018年</a>
+                </div>
+                <ul class="month" style="display:  block;">
+                                        <li class="active"><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2018&m=2&citylevel=2" title="2018年2月">2月</a></li>
+                                        <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2018&m=1&citylevel=2" title="2018年1月">1月</a></li>
+                                    </ul>
+            </div>
+            <!--/timeline-cont-->
+                            <div class="timeline-cont">
+                	<div class="year ">
+                        <i class="time-y"></i><a href="javascript:void(0);">2017年</a>
+                    </div>
+                    <ul class="month" style="display: none;">
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2017&m=12&citylevel=2" title="2017年12月">12月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2017&m=11&citylevel=2" title="2017年11月">11月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2017&m=10&citylevel=2" title="2017年10月">10月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2017&m=9&citylevel=2" title="2017年9月">9月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2017&m=8&citylevel=2" title="2017年8月">8月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2017&m=7&citylevel=2" title="2017年7月">7月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2017&m=6&citylevel=2" title="2017年6月">6月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2017&m=5&citylevel=2" title="2017年5月">5月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2017&m=4&citylevel=2" title="2017年4月">4月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2017&m=3&citylevel=2" title="2017年3月">3月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2017&m=2&citylevel=2" title="2017年2月">2月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2017&m=1&citylevel=2" title="2017年1月">1月</a></li>
+                                            </ul>
+                </div>
+                
+                                <div class="timeline-cont">
+                	<div class="year ">
+                        <i class="time-y"></i><a href="javascript:void(0);">2016年</a>
+                    </div>
+                    <ul class="month" style="display: none;">
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2016&m=12&citylevel=2" title="2016年12月">12月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2016&m=11&citylevel=2" title="2016年11月">11月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2016&m=10&citylevel=2" title="2016年10月">10月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2016&m=9&citylevel=2" title="2016年9月">9月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2016&m=8&citylevel=2" title="2016年8月">8月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2016&m=7&citylevel=2" title="2016年7月">7月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2016&m=6&citylevel=2" title="2016年6月">6月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2016&m=5&citylevel=2" title="2016年5月">5月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2016&m=4&citylevel=2" title="2016年4月">4月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2016&m=3&citylevel=2" title="2016年3月">3月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2016&m=2&citylevel=2" title="2016年2月">2月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2016&m=1&citylevel=2" title="2016年1月">1月</a></li>
+                                            </ul>
+                </div>
+                
+                                <div class="timeline-cont">
+                	<div class="year ">
+                        <i class="time-y"></i><a href="javascript:void(0);">2015年</a>
+                    </div>
+                    <ul class="month" style="display: none;">
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2015&m=12&citylevel=2" title="2015年12月">12月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2015&m=11&citylevel=2" title="2015年11月">11月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2015&m=10&citylevel=2" title="2015年10月">10月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2015&m=9&citylevel=2" title="2015年9月">9月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2015&m=8&citylevel=2" title="2015年8月">8月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2015&m=7&citylevel=2" title="2015年7月">7月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2015&m=6&citylevel=2" title="2015年6月">6月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2015&m=5&citylevel=2" title="2015年5月">5月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2015&m=4&citylevel=2" title="2015年4月">4月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2015&m=3&citylevel=2" title="2015年3月">3月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2015&m=2&citylevel=2" title="2015年2月">2月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2015&m=1&citylevel=2" title="2015年1月">1月</a></li>
+                                            </ul>
+                </div>
+                
+                                <div class="timeline-cont">
+                	<div class="year ">
+                        <i class="time-y"></i><a href="javascript:void(0);">2014年</a>
+                    </div>
+                    <ul class="month" style="display: none;">
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2014&m=12&citylevel=2" title="2014年12月">12月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2014&m=11&citylevel=2" title="2014年11月">11月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2014&m=10&citylevel=2" title="2014年10月">10月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2014&m=9&citylevel=2" title="2014年9月">9月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2014&m=8&citylevel=2" title="2014年8月">8月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2014&m=7&citylevel=2" title="2014年7月">7月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2014&m=6&citylevel=2" title="2014年6月">6月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2014&m=5&citylevel=2" title="2014年5月">5月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2014&m=4&citylevel=2" title="2014年4月">4月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2014&m=3&citylevel=2" title="2014年3月">3月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2014&m=2&citylevel=2" title="2014年2月">2月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2014&m=1&citylevel=2" title="2014年1月">1月</a></li>
+                                            </ul>
+                </div>
+                
+                                <div class="timeline-cont">
+                	<div class="year ">
+                        <i class="time-y"></i><a href="javascript:void(0);">2013年</a>
+                    </div>
+                    <ul class="month" style="display: none;">
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2013&m=12&citylevel=2" title="2013年12月">12月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2013&m=11&citylevel=2" title="2013年11月">11月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2013&m=10&citylevel=2" title="2013年10月">10月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2013&m=9&citylevel=2" title="2013年9月">9月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2013&m=8&citylevel=2" title="2013年8月">8月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2013&m=7&citylevel=2" title="2013年7月">7月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2013&m=6&citylevel=2" title="2013年6月">6月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2013&m=5&citylevel=2" title="2013年5月">5月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2013&m=4&citylevel=2" title="2013年4月">4月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2013&m=3&citylevel=2" title="2013年3月">3月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2013&m=2&citylevel=2" title="2013年2月">2月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2013&m=1&citylevel=2" title="2013年1月">1月</a></li>
+                                            </ul>
+                </div>
+                
+                                <div class="timeline-cont">
+                	<div class="year ">
+                        <i class="time-y"></i><a href="javascript:void(0);">2012年</a>
+                    </div>
+                    <ul class="month" style="display: none;">
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2012&m=12&citylevel=2" title="2012年12月">12月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2012&m=11&citylevel=2" title="2012年11月">11月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2012&m=10&citylevel=2" title="2012年10月">10月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2012&m=9&citylevel=2" title="2012年9月">9月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2012&m=8&citylevel=2" title="2012年8月">8月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2012&m=7&citylevel=2" title="2012年7月">7月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2012&m=6&citylevel=2" title="2012年6月">6月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2012&m=5&citylevel=2" title="2012年5月">5月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2012&m=4&citylevel=2" title="2012年4月">4月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2012&m=3&citylevel=2" title="2012年3月">3月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2012&m=2&citylevel=2" title="2012年2月">2月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2012&m=1&citylevel=2" title="2012年1月">1月</a></li>
+                                            </ul>
+                </div>
+                
+                                <div class="timeline-cont">
+                	<div class="year ">
+                        <i class="time-y"></i><a href="javascript:void(0);">2011年</a>
+                    </div>
+                    <ul class="month" style="display: none;">
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2011&m=12&citylevel=2" title="2011年12月">12月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2011&m=11&citylevel=2" title="2011年11月">11月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2011&m=10&citylevel=2" title="2011年10月">10月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2011&m=9&citylevel=2" title="2011年9月">9月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2011&m=8&citylevel=2" title="2011年8月">8月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2011&m=7&citylevel=2" title="2011年7月">7月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2011&m=6&citylevel=2" title="2011年6月">6月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2011&m=5&citylevel=2" title="2011年5月">5月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2011&m=4&citylevel=2" title="2011年4月">4月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2011&m=3&citylevel=2" title="2011年3月">3月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2011&m=2&citylevel=2" title="2011年2月">2月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2011&m=1&citylevel=2" title="2011年1月">1月</a></li>
+                                            </ul>
+                </div>
+                
+                                <div class="timeline-cont">
+                	<div class="year ">
+                        <i class="time-y"></i><a href="javascript:void(0);">2010年</a>
+                    </div>
+                    <ul class="month" style="display: none;">
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2010&m=12&citylevel=2" title="2010年12月">12月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2010&m=11&citylevel=2" title="2010年11月">11月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2010&m=10&citylevel=2" title="2010年10月">10月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2010&m=9&citylevel=2" title="2010年9月">9月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2010&m=8&citylevel=2" title="2010年8月">8月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2010&m=7&citylevel=2" title="2010年7月">7月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2010&m=6&citylevel=2" title="2010年6月">6月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2010&m=5&citylevel=2" title="2010年5月">5月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2010&m=4&citylevel=2" title="2010年4月">4月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2010&m=3&citylevel=2" title="2010年3月">3月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2010&m=2&citylevel=2" title="2010年2月">2月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2010&m=1&citylevel=2" title="2010年1月">1月</a></li>
+                                            </ul>
+                </div>
+                
+                                <div class="timeline-cont">
+                	<div class="year ">
+                        <i class="time-y"></i><a href="javascript:void(0);">2009年</a>
+                    </div>
+                    <ul class="month" style="display: none;">
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2009&m=12&citylevel=2" title="2009年12月">12月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2009&m=11&citylevel=2" title="2009年11月">11月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2009&m=10&citylevel=2" title="2009年10月">10月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2009&m=9&citylevel=2" title="2009年9月">9月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2009&m=8&citylevel=2" title="2009年8月">8月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2009&m=7&citylevel=2" title="2009年7月">7月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2009&m=6&citylevel=2" title="2009年6月">6月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2009&m=5&citylevel=2" title="2009年5月">5月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2009&m=4&citylevel=2" title="2009年4月">4月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2009&m=3&citylevel=2" title="2009年3月">3月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2009&m=2&citylevel=2" title="2009年2月">2月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2009&m=1&citylevel=2" title="2009年1月">1月</a></li>
+                                            </ul>
+                </div>
+                
+                                <div class="timeline-cont">
+                	<div class="year ">
+                        <i class="time-y"></i><a href="javascript:void(0);">2008年</a>
+                    </div>
+                    <ul class="month" style="display: none;">
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2008&m=12&citylevel=2" title="2008年12月">12月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2008&m=11&citylevel=2" title="2008年11月">11月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2008&m=10&citylevel=2" title="2008年10月">10月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2008&m=9&citylevel=2" title="2008年9月">9月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2008&m=8&citylevel=2" title="2008年8月">8月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2008&m=7&citylevel=2" title="2008年7月">7月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2008&m=6&citylevel=2" title="2008年6月">6月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2008&m=5&citylevel=2" title="2008年5月">5月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2008&m=4&citylevel=2" title="2008年4月">4月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2008&m=3&citylevel=2" title="2008年3月">3月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2008&m=2&citylevel=2" title="2008年2月">2月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2008&m=1&citylevel=2" title="2008年1月">1月</a></li>
+                                            </ul>
+                </div>
+                
+                                <div class="timeline-cont">
+                	<div class="year ">
+                        <i class="time-y"></i><a href="javascript:void(0);">2007年</a>
+                    </div>
+                    <ul class="month" style="display: none;">
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2007&m=12&citylevel=2" title="2007年12月">12月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2007&m=11&citylevel=2" title="2007年11月">11月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2007&m=10&citylevel=2" title="2007年10月">10月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2007&m=9&citylevel=2" title="2007年9月">9月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2007&m=8&citylevel=2" title="2007年8月">8月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2007&m=7&citylevel=2" title="2007年7月">7月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2007&m=6&citylevel=2" title="2007年6月">6月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2007&m=5&citylevel=2" title="2007年5月">5月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2007&m=4&citylevel=2" title="2007年4月">4月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2007&m=3&citylevel=2" title="2007年3月">3月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2007&m=2&citylevel=2" title="2007年2月">2月</a></li>
+                                                <li class=""><i class="time-m"></i><a href="/rank/cityforsale.html?type=11&y=2007&m=1&citylevel=2" title="2007年1月">1月</a></li>
+                                            </ul>
+                </div>
+                
+                        
+        </div>
+        <!--/linebox-->
+        <i class="time-last"></i>
+    </div>
+
+
+<!--end clearfix-->
+<script type="text/javascript">
+/**
+* 时间轴
+*/
+$(function(){
+    $('.linebox .year a').click(function(){
+//        $('.linebox .year').removeClass('active')
+//        $(this).closest('.year').addClass('active')
+        
+        $('.linebox .month').hide()        
+        $(this).parent().next().show();
+        var firstchild = $(this).parent().next().children(":first");
+        firstchild.addClass('active');
+        nowurl = firstchild.children(":last").attr('href');
+        location.href=nowurl;
+    })
+})
+//时间轴隐藏显示切换
+    $('.data-time-title').hover(
+        function(){ showtimew() },function(){ hidetimew() }
+    )
+    function showtimew(){
+        $('.data-time-title').addClass('active')
+        $('.data-time-box').show()
+    }
+    function hidetimew(){
+        $('.data-time-box').hide()
+        $('.data-time-title').removeClass('active')
+    }
+</script>
+	
+                </div>
+                <!--/data-time-box-->
+                <div class="clear"></div>
+    
+
+            </div>   
+             <!-- BUG: 展开收起 -->
+            <div class="rankfoot">
+    
+    <div class="fl mt">
+        <!-- BUG: 大于20条才收费，数据小于20条做免费展示处理 -->
+         
+                                <a class="blue pop-login" onclick="showBuyMsgBox_rank('login');" href="javascript:void(0);">登录</a>后可以查看全部数据(28条)
+                            
+           </div>
+    <div  class="blue rankMore js-lookmore"><span>︾</span>展开</div>
+</div>
+
+<script>
+    var lookmore=0;
+    $(function(){
+        
+        var str = $('.pop-login').attr("onclick");
+        $('#js-buy').attr("onclick",str);
+
+        //20条之后全部隐藏，点击更多展开
+        $("#px tr").eq(20).nextAll().hide()
+        $(".js-lookmore").click(function(){
+            lookmore=Math.abs(lookmore-1);
+            redolookmore()
+        })
+    })
+    function redolookmore(){
+        if(lookmore==1){
+            $("#px tr").eq(20).nextAll().show();
+            y = $('.rankMore').offset().left+"px";
+            $('.rankMore').css({'position':'fixed',"top":"800px","left":y});
+            $(".rankMore").html('<span style="top:9px;">︽</span>收起');
+            $('.rankall').hide();
+        }else{
+            $("#px tr").eq(20).nextAll().hide();
+            $('.rankMore').css({"position":"relative","top":"","left":""});
+            $(".rankMore").html('<span>︾</span>展开');
+            $('.rankall').show();
+        }
+    }
+</script>
+
+
+
+  
+             
+                 			<div class="bottomtipbox">
+              <ul class="clearfix">
+                <li class="last bk"> <span id="forLoadSwf"></span> </li>
+              </ul>
+            </div>
+            <script src="/js/copynew/copy.js" type="text/javascript"></script>
+            <script type="text/javascript">
+                copy.id='px';
+                copy.swfid='forLoadSwf';
+                copy.width=51;
+                copy.height=46;
+                copy.imgsrc='/images/copy1.png';
+                copy.init();
+            </script>
+		      
+                 
+            
+            
+        </div>
+        <div class="tips-sy2 mt20">提供广州各区市县住宅、办公、商铺的房价排行、同比上年、环比上月内容，可以复制、下载数据内容。 </div>
+    </div>
+    
+    <div class="box300 fl">
+    <div class="uibox1 mb20">
+    <div class="menu-list1">
+      <ul>
+         <li><a href="/rank/capitalforsale.html">全国省会城市房价查询</a></li>
+         <li><a href="/rank/cityforsale.html">全国城市房价查询</a></li>
+         <li><a href="/rank/distforsale.html">全国行政区房价查询</a></li>
+         <li><a href="/rank/townforsale.html">全国小城镇房价查询</a></li>
+         <li><a href="/rank/haforsale.html">全国物业小区房价查询</a></li>
+         <li><a href="/rank/newha.html">全国新楼盘房价查询</a></li>
+         <li><a href="/rank/cityarea.html">全国城市房产户型面积查询</a></li>
+         <li><a href="/rank/forsalehousenum.html">全国城市出售房屋数量查询</a></li>
+         <li><a href="/rank/forsalehousevalue.html">全国城市出售房屋市场价值查询</a></li>
+     </ul>
+
+    <div class="gmore"><a class="blue simsun" href="/rank/nationranking.html">更多全国城市查询&gt;&gt;</a></div>
+    </div>
+    <!--/ menu-list1-->
+    
+    
+</div>
+<!--/ uibox1-->    
+           <div class="uibox1 mb20">
+            <div class="utitle">
+                <h2 class="utith">全国城市房价对比</h2>
+            </div>
+            <!--/ title-->
+            <div class="ucont2">
+           
+                <div class="compare-select">
+  
+                  <div class="selectbox">
+                    <div class="input_select_menu mb"> 
+                    <span class="select_item">请选择</span> 
+                    <span class="select_item_val dn"></span>
+                      <ul class="item_list">
+                                            	<li><span class="split">A</span></li>
+                      	                        <li><span code="ab">阿坝</span></li>
+                                                <li><span code="aks">阿克苏</span></li>
+                                                <li><span code="ale">阿拉尔</span></li>
+                                                <li><span code="als">阿拉善</span></li>
+                                                <li><span code="alt">阿勒泰</span></li>
+                                                <li><span code="al">阿里</span></li>
+                                                <li><span code="ak">安康</span></li>
+                                                <li><span code="aq">安庆</span></li>
+                                                <li><span code="anshun">安顺</span></li>
+                                                <li><span code="ay">安阳</span></li>
+                                                <li><span code="as">鞍山</span></li>
+                                                                    	<li><span class="split">B</span></li>
+                      	                        <li><span code="byne">巴彦淖尔</span></li>
+                                                <li><span code="bazhong">巴中</span></li>
+                                                <li><span code="bazhou">巴州</span></li>
+                                                <li><span code="bc">白城</span></li>
+                                                <li><span code="baisha">白沙</span></li>
+                                                <li><span code="baishan">白山</span></li>
+                                                <li><span code="by">白银</span></li>
+                                                <li><span code="baise">百色</span></li>
+                                                <li><span code="bengbu">蚌埠</span></li>
+                                                <li><span code="bt">包头</span></li>
+                                                <li><span code="baoji">宝鸡</span></li>
+                                                <li><span code="bd">保定</span></li>
+                                                <li><span code="bs">保山</span></li>
+                                                <li><span code="baoting">保亭</span></li>
+                                                <li><span code="bh">北海</span></li>
+                                                <li><span code="bj">北京</span></li>
+                                                <li><span code="beitun">北屯</span></li>
+                                                <li><span code="bx">本溪</span></li>
+                                                <li><span code="bijie">毕节</span></li>
+                                                <li><span code="bz">滨州</span></li>
+                                                <li><span code="bozhou">亳州</span></li>
+                                                <li><span code="bozhouxj">博州</span></li>
+                                                                    	<li><span class="split">C</span></li>
+                      	                        <li><span code="cangzhou">沧州</span></li>
+                                                <li><span code="changdu">昌都</span></li>
+                                                <li><span code="cj">昌吉</span></li>
+                                                <li><span code="changjiang">昌江</span></li>
+                                                <li><span code="cc">长春</span></li>
+                                                <li><span code="cs">长沙</span></li>
+                                                <li><span code="changzhi">长治</span></li>
+                                                <li><span code="changde">常德</span></li>
+                                                <li><span code="cz">常州</span></li>
+                                                <li><span code="cy">朝阳</span></li>
+                                                <li><span code="chaozhou">潮州</span></li>
+                                                <li><span code="chenzhou">郴州</span></li>
+                                                <li><span code="cd">成都</span></li>
+                                                <li><span code="chengde">承德</span></li>
+                                                <li><span code="cm">澄迈</span></li>
+                                                <li><span code="chizhou">池州</span></li>
+                                                <li><span code="cf">赤峰</span></li>
+                                                <li><span code="chongzuo">崇左</span></li>
+                                                <li><span code="chuzhou">滁州</span></li>
+                                                <li><span code="cx">楚雄</span></li>
+                                                <li><span code="cq">重庆</span></li>
+                                                                    	<li><span class="split">D</span></li>
+                      	                        <li><span code="dazhou">达州</span></li>
+                                                <li><span code="dali">大理</span></li>
+                                                <li><span code="dl">大连</span></li>
+                                                <li><span code="dq">大庆</span></li>
+                                                <li><span code="dt">大同</span></li>
+                                                <li><span code="dxal">大兴安岭</span></li>
+                                                <li><span code="dd">丹东</span></li>
+                                                <li><span code="danzhou">儋州</span></li>
+                                                <li><span code="dh">德宏</span></li>
+                                                <li><span code="deyang">德阳</span></li>
+                                                <li><span code="dz">德州</span></li>
+                                                <li><span code="diqing">迪庆</span></li>
+                                                <li><span code="da">定安</span></li>
+                                                <li><span code="dx">定西</span></li>
+                                                <li><span code="df">东方</span></li>
+                                                <li><span code="dg">东莞</span></li>
+                                                <li><span code="dy">东营</span></li>
+                                                                    	<li><span class="split">E</span></li>
+                      	                        <li><span code="eds">鄂尔多斯</span></li>
+                                                <li><span code="ez">鄂州</span></li>
+                                                <li><span code="es">恩施</span></li>
+                                                                    	<li><span class="split">F</span></li>
+                      	                        <li><span code="fcg">防城港</span></li>
+                                                <li><span code="fs">佛山</span></li>
+                                                <li><span code="fz">福州</span></li>
+                                                <li><span code="fushun">抚顺</span></li>
+                                                <li><span code="fuzhou">抚州</span></li>
+                                                <li><span code="fx">阜新</span></li>
+                                                <li><span code="fy">阜阳</span></li>
+                                                                    	<li><span class="split">G</span></li>
+                      	                        <li><span code="gn">甘南</span></li>
+                                                <li><span code="ganzi">甘孜</span></li>
+                                                <li><span code="ganzhou">赣州</span></li>
+                                                <li><span code="guyuan">固原</span></li>
+                                                <li><span code="ga">广安</span></li>
+                                                <li><span code="guangyuan">广元</span></li>
+                                                <li><span code="gz">广州</span></li>
+                                                <li><span code="gg">贵港</span></li>
+                                                <li><span code="gy">贵阳</span></li>
+                                                <li><span code="gl">桂林</span></li>
+                                                <li><span code="guoluo">果洛</span></li>
+                                                                    	<li><span class="split">H</span></li>
+                      	                        <li><span code="hm">哈密</span></li>
+                                                <li><span code="hb">哈尔滨</span></li>
+                                                <li><span code="haibei">海北</span></li>
+                                                <li><span code="haidong">海东</span></li>
+                                                <li><span code="hk">海口</span></li>
+                                                <li><span code="hnz">海南州</span></li>
+                                                <li><span code="hx">海西</span></li>
+                                                <li><span code="hd">邯郸</span></li>
+                                                <li><span code="hanzhong">汉中</span></li>
+                                                <li><span code="hz">杭州</span></li>
+                                                <li><span code="hf">合肥</span></li>
+                                                <li><span code="ht">和田</span></li>
+                                                <li><span code="hc">河池</span></li>
+                                                <li><span code="heyuan">河源</span></li>
+                                                <li><span code="heze">菏泽</span></li>
+                                                <li><span code="hezhou">贺州</span></li>
+                                                <li><span code="hebi">鹤壁</span></li>
+                                                <li><span code="hegang">鹤岗</span></li>
+                                                <li><span code="heihe">黑河</span></li>
+                                                <li><span code="hengshui">衡水</span></li>
+                                                <li><span code="hy">衡阳</span></li>
+                                                <li><span code="honghe">红河</span></li>
+                                                <li><span code="hh">呼和浩特</span></li>
+                                                <li><span code="hlbe">呼伦贝尔</span></li>
+                                                <li><span code="huzhou">湖州</span></li>
+                                                <li><span code="hld">葫芦岛</span></li>
+                                                <li><span code="huaihua">怀化</span></li>
+                                                <li><span code="ha">淮安</span></li>
+                                                <li><span code="huaibei">淮北</span></li>
+                                                <li><span code="hn">淮南</span></li>
+                                                <li><span code="hg">黄冈</span></li>
+                                                <li><span code="huangnan">黄南</span></li>
+                                                <li><span code="huangshan">黄山</span></li>
+                                                <li><span code="hs">黄石</span></li>
+                                                <li><span code="huizhou">惠州</span></li>
+                                                                    	<li><span class="split">J</span></li>
+                      	                        <li><span code="jixi">鸡西</span></li>
+                                                <li><span code="ja">吉安</span></li>
+                                                <li><span code="jl">吉林</span></li>
+                                                <li><span code="jn">济南</span></li>
+                                                <li><span code="jining">济宁</span></li>
+                                                <li><span code="jiyuan">济源</span></li>
+                                                <li><span code="jms">佳木斯</span></li>
+                                                <li><span code="jx">嘉兴</span></li>
+                                                <li><span code="jyg">嘉峪关</span></li>
+                                                <li><span code="jm">江门</span></li>
+                                                <li><span code="jiaozuo">焦作</span></li>
+                                                <li><span code="jy">揭阳</span></li>
+                                                <li><span code="jinchang">金昌</span></li>
+                                                <li><span code="jh">金华</span></li>
+                                                <li><span code="jz">锦州</span></li>
+                                                <li><span code="jc">晋城</span></li>
+                                                <li><span code="jinzhong">晋中</span></li>
+                                                <li><span code="jingmen">荆门</span></li>
+                                                <li><span code="jingzhou">荆州</span></li>
+                                                <li><span code="jdz">景德镇</span></li>
+                                                <li><span code="jj">九江</span></li>
+                                                <li><span code="jq">酒泉</span></li>
+                                                                    	<li><span class="split">K</span></li>
+                      	                        <li><span code="ks">喀什</span></li>
+                                                <li><span code="kf">开封</span></li>
+                                                <li><span code="kkdl">可克达拉</span></li>
+                                                <li><span code="klmy">克拉玛依</span></li>
+                                                <li><span code="kz">克州</span></li>
+                                                <li><span code="km">昆明</span></li>
+                                                <li><span code="ky">昆玉</span></li>
+                                                                    	<li><span class="split">L</span></li>
+                      	                        <li><span code="lasa">拉萨</span></li>
+                                                <li><span code="lb">来宾</span></li>
+                                                <li><span code="lw">莱芜</span></li>
+                                                <li><span code="lz">兰州</span></li>
+                                                <li><span code="lf">廊坊</span></li>
+                                                <li><span code="ledong">乐东</span></li>
+                                                <li><span code="leshan">乐山</span></li>
+                                                <li><span code="lj">丽江</span></li>
+                                                <li><span code="ls">丽水</span></li>
+                                                <li><span code="lyg">连云港</span></li>
+                                                <li><span code="liangshan">凉山</span></li>
+                                                <li><span code="liaoyang">辽阳</span></li>
+                                                <li><span code="liaoyuan">辽源</span></li>
+                                                <li><span code="lc">聊城</span></li>
+                                                <li><span code="linzhi">林芝</span></li>
+                                                <li><span code="lincang">临沧</span></li>
+                                                <li><span code="linfen">临汾</span></li>
+                                                <li><span code="lg">临高</span></li>
+                                                <li><span code="lx">临夏</span></li>
+                                                <li><span code="linyi">临沂</span></li>
+                                                <li><span code="lingshui">陵水</span></li>
+                                                <li><span code="liuzhou">柳州</span></li>
+                                                <li><span code="la">六安</span></li>
+                                                <li><span code="lps">六盘水</span></li>
+                                                <li><span code="longyan">龙岩</span></li>
+                                                <li><span code="ln">陇南</span></li>
+                                                <li><span code="ld">娄底</span></li>
+                                                <li><span code="luzhou">泸州</span></li>
+                                                <li><span code="ll">吕梁</span></li>
+                                                <li><span code="ly">洛阳</span></li>
+                                                <li><span code="lh">漯河</span></li>
+                                                                    	<li><span class="split">M</span></li>
+                      	                        <li><span code="mas">马鞍山</span></li>
+                                                <li><span code="mm">茂名</span></li>
+                                                <li><span code="ms">眉山</span></li>
+                                                <li><span code="mz">梅州</span></li>
+                                                <li><span code="my">绵阳</span></li>
+                                                <li><span code="mdj">牡丹江</span></li>
+                                                                    	<li><span class="split">N</span></li>
+                      	                        <li><span code="neijiang">内江</span></li>
+                                                <li><span code="nq">那曲</span></li>
+                                                <li><span code="nc">南昌</span></li>
+                                                <li><span code="nanchong">南充</span></li>
+                                                <li><span code="nj">南京</span></li>
+                                                <li><span code="nn">南宁</span></li>
+                                                <li><span code="np">南平</span></li>
+                                                <li><span code="nt">南通</span></li>
+                                                <li><span code="ny">南阳</span></li>
+                                                <li><span code="nb">宁波</span></li>
+                                                <li><span code="nd">宁德</span></li>
+                                                <li><span code="nujiang">怒江</span></li>
+                                                                    	<li><span class="split">P</span></li>
+                      	                        <li><span code="pzh">攀枝花</span></li>
+                                                <li><span code="pj">盘锦</span></li>
+                                                <li><span code="pds">平顶山</span></li>
+                                                <li><span code="pl">平凉</span></li>
+                                                <li><span code="px">萍乡</span></li>
+                                                <li><span code="pt">莆田</span></li>
+                                                <li><span code="py">濮阳</span></li>
+                                                <li><span code="pe">普洱</span></li>
+                                                                    	<li><span class="split">Q</span></li>
+                      	                        <li><span code="qth">七台河</span></li>
+                                                <li><span code="qq">齐齐哈尔</span></li>
+                                                <li><span code="qianjiang">潜江</span></li>
+                                                <li><span code="qdn">黔东南</span></li>
+                                                <li><span code="qn">黔南</span></li>
+                                                <li><span code="qxn">黔西南</span></li>
+                                                <li><span code="qinzhou">钦州</span></li>
+                                                <li><span code="qhd">秦皇岛</span></li>
+                                                <li><span code="qd">青岛</span></li>
+                                                <li><span code="qy">清远</span></li>
+                                                <li><span code="qingyang">庆阳</span></li>
+                                                <li><span code="qh">琼海</span></li>
+                                                <li><span code="qiongzhong">琼中</span></li>
+                                                <li><span code="qj">曲靖</span></li>
+                                                <li><span code="quzhou">衢州</span></li>
+                                                <li><span code="qz">泉州</span></li>
+                                                                    	<li><span class="split">R</span></li>
+                      	                        <li><span code="rkz">日喀则</span></li>
+                                                <li><span code="rz">日照</span></li>
+                                                                    	<li><span class="split">S</span></li>
+                      	                        <li><span code="smx">三门峡</span></li>
+                                                <li><span code="sm">三明</span></li>
+                                                <li><span code="ss">三沙</span></li>
+                                                <li><span code="sanya">三亚</span></li>
+                                                <li><span code="shannan">山南</span></li>
+                                                <li><span code="st">汕头</span></li>
+                                                <li><span code="sw">汕尾</span></li>
+                                                <li><span code="sl">商洛</span></li>
+                                                <li><span code="shangqiu">商丘</span></li>
+                                                <li><span code="sh">上海</span></li>
+                                                <li><span code="sr">上饶</span></li>
+                                                <li><span code="sg">韶关</span></li>
+                                                <li><span code="shaoyang">邵阳</span></li>
+                                                <li><span code="sx">绍兴</span></li>
+                                                <li><span code="sz">深圳</span></li>
+                                                <li><span code="snj">神农架</span></li>
+                                                <li><span code="sy">沈阳</span></li>
+                                                <li><span code="shiyan">十堰</span></li>
+                                                <li><span code="shz">石河子</span></li>
+                                                <li><span code="sj">石家庄</span></li>
+                                                <li><span code="szs">石嘴山</span></li>
+                                                <li><span code="shuanghe">双河</span></li>
+                                                <li><span code="sys">双鸭山</span></li>
+                                                <li><span code="shuozhou">朔州</span></li>
+                                                <li><span code="sp">四平</span></li>
+                                                <li><span code="songyuan">松原</span></li>
+                                                <li><span code="su">苏州</span></li>
+                                                <li><span code="sq">宿迁</span></li>
+                                                <li><span code="suzhouah">宿州</span></li>
+                                                <li><span code="suihua">绥化</span></li>
+                                                <li><span code="suizhou">随州</span></li>
+                                                <li><span code="sn">遂宁</span></li>
+                                                                    	<li><span class="split">T</span></li>
+                      	                        <li><span code="tacheng">塔城</span></li>
+                                                <li><span code="tz">台州</span></li>
+                                                <li><span code="ty">太原</span></li>
+                                                <li><span code="taian">泰安</span></li>
+                                                <li><span code="taizhoujs">泰州</span></li>
+                                                <li><span code="ts">唐山</span></li>
+                                                <li><span code="tj">天津</span></li>
+                                                <li><span code="tm">天门</span></li>
+                                                <li><span code="tianshui">天水</span></li>
+                                                <li><span code="tieling">铁岭</span></li>
+                                                <li><span code="tmg">铁门关</span></li>
+                                                <li><span code="th">通化</span></li>
+                                                <li><span code="tl">通辽</span></li>
+                                                <li><span code="tc">铜川</span></li>
+                                                <li><span code="tongling">铜陵</span></li>
+                                                <li><span code="tr">铜仁</span></li>
+                                                <li><span code="tmsk">图木舒克</span></li>
+                                                <li><span code="tlf">吐鲁番</span></li>
+                                                <li><span code="tunchang">屯昌</span></li>
+                                                                    	<li><span class="split">W</span></li>
+                      	                        <li><span code="wanning">万宁</span></li>
+                                                <li><span code="weihai">威海</span></li>
+                                                <li><span code="wf">潍坊</span></li>
+                                                <li><span code="wn">渭南</span></li>
+                                                <li><span code="wz">温州</span></li>
+                                                <li><span code="wc">文昌</span></li>
+                                                <li><span code="ws">文山</span></li>
+                                                <li><span code="wuhai">乌海</span></li>
+                                                <li><span code="wlcb">乌兰察布</span></li>
+                                                <li><span code="wl">乌鲁木齐</span></li>
+                                                <li><span code="wx">无锡</span></li>
+                                                <li><span code="wuzhong">吴忠</span></li>
+                                                <li><span code="wuhu">芜湖</span></li>
+                                                <li><span code="wuzhou">梧州</span></li>
+                                                <li><span code="wjq">五家渠</span></li>
+                                                <li><span code="wzs">五指山</span></li>
+                                                <li><span code="wh">武汉</span></li>
+                                                <li><span code="ww">武威</span></li>
+                                                                    	<li><span class="split">X</span></li>
+                      	                        <li><span code="xa">西安</span></li>
+                                                <li><span code="xn">西宁</span></li>
+                                                <li><span code="xsbn">西双版纳</span></li>
+                                                <li><span code="xlgl">锡林郭勒</span></li>
+                                                <li><span code="xm">厦门</span></li>
+                                                <li><span code="xiantao">仙桃</span></li>
+                                                <li><span code="xianning">咸宁</span></li>
+                                                <li><span code="xianyang">咸阳</span></li>
+                                                <li><span code="xiangtan">湘潭</span></li>
+                                                <li><span code="xx">湘西</span></li>
+                                                <li><span code="xy">襄阳</span></li>
+                                                <li><span code="xg">孝感</span></li>
+                                                <li><span code="xinzhou">忻州</span></li>
+                                                <li><span code="xinxiang">新乡</span></li>
+                                                <li><span code="xinyu">新余</span></li>
+                                                <li><span code="xinyang">信阳</span></li>
+                                                <li><span code="xingan">兴安</span></li>
+                                                <li><span code="xt">邢台</span></li>
+                                                <li><span code="xz">徐州</span></li>
+                                                <li><span code="xc">许昌</span></li>
+                                                <li><span code="xuancheng">宣城</span></li>
+                                                                    	<li><span class="split">Y</span></li>
+                      	                        <li><span code="yaan">雅安</span></li>
+                                                <li><span code="yt">烟台</span></li>
+                                                <li><span code="ya">延安</span></li>
+                                                <li><span code="yanbian">延边</span></li>
+                                                <li><span code="yancheng">盐城</span></li>
+                                                <li><span code="yz">扬州</span></li>
+                                                <li><span code="yj">阳江</span></li>
+                                                <li><span code="yq">阳泉</span></li>
+                                                <li><span code="yichun">伊春</span></li>
+                                                <li><span code="yili">伊犁</span></li>
+                                                <li><span code="yb">宜宾</span></li>
+                                                <li><span code="yichang">宜昌</span></li>
+                                                <li><span code="yichunjx">宜春</span></li>
+                                                <li><span code="yiyang">益阳</span></li>
+                                                <li><span code="yc">银川</span></li>
+                                                <li><span code="yingtan">鹰潭</span></li>
+                                                <li><span code="yk">营口</span></li>
+                                                <li><span code="yongzhou">永州</span></li>
+                                                <li><span code="yl">榆林</span></li>
+                                                <li><span code="yulin">玉林</span></li>
+                                                <li><span code="ys">玉树</span></li>
+                                                <li><span code="yx">玉溪</span></li>
+                                                <li><span code="yy">岳阳</span></li>
+                                                <li><span code="yf">云浮</span></li>
+                                                <li><span code="yuncheng">运城</span></li>
+                                                                    	<li><span class="split">Z</span></li>
+                      	                        <li><span code="zaozhuang">枣庄</span></li>
+                                                <li><span code="zj">湛江</span></li>
+                                                <li><span code="zjj">张家界</span></li>
+                                                <li><span code="zjk">张家口</span></li>
+                                                <li><span code="zhangye">张掖</span></li>
+                                                <li><span code="zhangzhou">漳州</span></li>
+                                                <li><span code="zt">昭通</span></li>
+                                                <li><span code="zq">肇庆</span></li>
+                                                <li><span code="zhenjiang">镇江</span></li>
+                                                <li><span code="zz">郑州</span></li>
+                                                <li><span code="zhongshan">中山</span></li>
+                                                <li><span code="zw">中卫</span></li>
+                                                <li><span code="zs">舟山</span></li>
+                                                <li><span code="zk">周口</span></li>
+                                                <li><span code="zhuzhou">株洲</span></li>
+                                                <li><span code="zh">珠海</span></li>
+                                                <li><span code="zmd">驻马店</span></li>
+                                                <li><span code="ziyang">资阳</span></li>
+                                                <li><span code="zb">淄博</span></li>
+                                                <li><span code="zg">自贡</span></li>
+                                                <li><span code="zy">遵义</span></li>
+                                                                    </ul>
+                    </div>
+                  </div>
+                  <div class="butbox"> <a href="javascript:void(0)" class="empty fr">清空</a>
+                    <input type="button" id="ksdb" name="" class="sub" value="开始对比">
+                  </div>
+                </div>
+                           
+            </div>
+            <!--/ ucont-->
+        </div>
+        <!--/ uibox1--> 
+        
+        <script type="text/javascript" src="/js/admin.js"></script>
+	    <script> var tendencyUrl='/rank/tendency/type/price.html?flag=1';</script>
+	    <script type="text/javascript" src="/js/rank/tendencybox.js"></script>    
+<div class="uibox1">
+            <div class="utitle">
+                <h2 class="utith">浏览记录</h2>
+            </div>
+            <!--/ title-->
+            <div class="ucont1 news-list1">
+            <ul class="historyBoxForStorage">
+
+            </ul>
+            </div>
+            <!--/ ucont-->
+</div>
+<script>
+$(function(){    
+
+// 浏览记录
+function createStorageForHistory () {
+
+    // 存储storage
+    function setStorage (n,t) {
+        if (typeof t != 'string')  t = JSON.stringify(t)
+        window.localStorage.setItem(n,t)
+    }
+    // 获取storage
+    function getStorage (n) {
+        return JSON.parse(window.localStorage.getItem(n))
+    }
+
+    // 首次调用localStorage时放入空数组
+    var emptyStorage = []
+    
+    // 查找localStorage中是否含有浏览记录数组
+    if (localStorage.hasOwnProperty('historyLog')) {
+        var oldStorage = getStorage('historyLog')
+        if (typeof markettitle == 'undefined' && typeof marketurl == 'undefined') {
+            markettitle = 0
+            marketurl = 0
+        } else {
+            var itemObj = {
+                tit : markettitle,
+                url : marketurl
+            }
+            oldStorage.unshift(itemObj)
+        }
+        // 判断浏览记录中是否有相同记录 有则删除
+        for (var i = 1; i < oldStorage.length; i++) {
+            if (oldStorage[0].tit == oldStorage[i].tit) {
+                oldStorage.splice(i,1)
+                setStorage('historyLog',oldStorage)
+            }
+        }
+        // 限制浏览记录不超过5条
+        if (oldStorage.length > 5) {
+            oldStorage.pop()
+            setStorage('historyLog',oldStorage)
+        } else {
+            setStorage('historyLog',oldStorage)
+        }
+    } else {
+            setStorage('historyLog',emptyStorage)
+    }
+
+    // 绑定到元素 
+    var logBox = $(".historyBoxForStorage")
+    var g = getStorage('historyLog')
+    var createLi = ''
+    for (var i = 0; i < g.length; i++) {
+        createLi += '<li><a class="blue" href="'+ g[i].url +'">' + g[i].tit + '</a></li>'
+    }
+    logBox.append(createLi)
+}
+    createStorageForHistory ()
+})
+</script>
+<!--/ uibox1-->           
+
+	    </div>
+    
+    <div class="clear"></div>
+    
+  </div>  
+</div>
+
+  
+<script>
+
+function ajax_rank(type){
+	//判断orderby
+	if(type == 'price') {
+		if($('#price_order').attr("class")=='string-bottom tablesorter-header tablesorter-headerDesc'){
+			orderby = 12;
+		}else{
+			orderby = 11;
+		}
+	}else if(type == 'hb'){
+		if($('#hb_order').attr("class")=='tablesorter-header tablesorter-headerDesc'){
+			orderby = 22;
+		}else{
+			orderby = 21;
+		}
+	}else{
+		if($('#tb_order').attr("class")=='tablesorter-header tablesorter-headerDesc'){
+			orderby = 32;
+		}else{
+			orderby = 31;
+		}
+	}
+	var url = location.href;
+	if(url.indexOf('html?') >= 0){
+		url = location.href+'&isAjax=1&orderby='+orderby;
+	}else{
+		url = location.href+'?isAjax=1&orderby='+orderby;
+	}
+	$.ajax({
+    	global: false,
+       	url: url,
+        type: 'get',
+        dataType: "json",
+        beforeSend:function(){
+            $('#order_f').html('<tr><td colspan="5" style="text-align:center;"><img src="/images/loading.gif"/></td></tr>');
+        },
+        success: function(result) {
+			var all_tr = '';
+        	for(i=0;i<result.length;i++){
+        		if(parseFloat(result[i].link) < 0){
+        			hbclass = 'green';
+        		}else if(parseFloat(result[i].link) > 0){
+        			hbclass = 'red';
+        		}else{
+        			hbclass = '';
+        		}
+        		if(parseFloat(result[i].like) < 0){
+        			tbclass = 'green';
+        		}else if(parseFloat(result[i].like) > 0){
+        			tbclass = 'red';
+        		}else{
+        			tbclass = '';
+        		}
+
+        		//要替换的内容
+	        		var tr = "\
+						<tr>\
+	        			<td>"+(i+1)+"</td>\
+						<td><a target='_blank' href='/market/"+result[i].code+"/forsale/ALL/11.html'>"+result[i].key+"</a></td>\
+						<td>"+result[i].price+"</td>";
+	        			if(result[i].link!='--'){
+	        				tr = tr+"<td class='"+hbclass+"'> "+result[i].link+"</td>";
+	        			}else{
+	        				tr = tr+"<td class='' data-text='0'> -- </td>";
+	        			}
+                        
+                        if(result[i].like!='--'){
+    	        			tr = tr+"<td class='"+tbclass+"'> "+result[i].like+"</td></tr>";
+    	        		}else{
+    	        			tr = tr+"<td class='' data-text='0'> -- </td></tr>";
+    	        		}
+                        
+	        		//$("#order_f > tr").eq(i).replaceWith(tr);
+	        		all_tr = all_tr + tr;
+        	}
+        	$("#order_f").html(all_tr);
+        	//加载修改样式
+	        	if(type == 'price') {
+	        		
+					if($('#price_order').attr("class")=='string-bottom tablesorter-header tablesorter-headerDesc'){
+						$('#price_order').attr("class",'string-bottom tablesorter-header tablesorter-headerAsc');
+					}else{
+						$('#price_order').attr("class",'string-bottom tablesorter-header tablesorter-headerDesc');
+					}
+	        	}else if(type == 'hb'){
+					if($('#hb_order').attr("class")=='tablesorter-header tablesorter-headerDesc'){
+						$('#hb_order').attr("class",'tablesorter-header tablesorter-headerAsc');
+					}else{
+						$('#hb_order').attr("class",'tablesorter-header tablesorter-headerDesc');
+					}
+				}else{
+					if($('#tb_order').attr("class")=='tablesorter-header tablesorter-headerDesc'){
+						$('#tb_order').attr("class",'tablesorter-header tablesorter-headerAsc');
+					}else{
+						$('#tb_order').attr("class",'tablesorter-header tablesorter-headerDesc');
+					}
+				}
+				//复制内容
+	  			copy.init();
+                //展开函数
+                                redolookmore()
+                        }
+  	});
+    
+}
+</script>
+
+<!--QQ客服-->
+
+<style media="screen">
+#sideMenu {height: 220px;position: fixed;right: -2px;top: 300px;z-index: 9999;color: #000;}
+
+.sideMenu_menu {width: 54px;height: 220px;float: right;background-color: rgba(193,193,193,0.95);position: absolute;right:0;z-index: 9999;}
+.sideMenu_menu>li {width: 54px;height: 54px;position: relative;border-bottom: 1px solid #cfcfcf;cursor: pointer;}
+.sideMenu_menu>li img {width: 36px;height: 36px;position: absolute;left: 50%;top: 50%;margin-top: -18px;margin-left: -18px;}
+
+.sideMenu_con {height: 210px;float: right;position: relative;}
+.sideMenu_con>li {width: 140px;height: 80px;background-color: rgba(255,255,255,0.95);display: none;}
+
+.sideMenu_con .sideMenu_li0 {display: block;height: 60px;border:1px solid #eeeeee;position: absolute;right: -194px;z-index: 9998;}
+.sideMenu_con .sideMenu_li0 ul  {float: right;width: 120px;height: 40px;margin:0 10px 0 10px;}
+.sideMenu_con .sideMenu_li0 li  {height: 30px;line-height: 30px;text-align: center;font-size: 14px;}
+
+.sideMenu_con .sideMenu_li1 {display: block;height: 100px;border:1px solid #eeeeee;position: absolute;top: 30px;right: -194px;z-index: 9998;}
+.sideMenu_con .sideMenu_li1 li {width: 140px;height: 32px;line-height: 32px;margin: 0 auto;}
+.sideMenu_con .sideMenu_li1 li img {width: 16px;height: 16px;float: left;margin: 8px 0 0 8px;}
+.sideMenu_con .sideMenu_li1 li p {width: 107px;height: 24px;float: left;margin-left: 8px;font-size: 13px;}
+
+.sideMenu_con .sideMenu_li2 {display: block;height: 270px;border:1px solid #eeeeee;text-align: center;position: absolute;top: 26px;right: -194px;z-index: 9998;}
+.sideMenu_con .sideMenu_li2 img {width: 100px;height: 100px;margin: 0 auto;margin-top: 8px;background-color: yellow;}
+.sideMenu_con .sideMenu_li2 p   {font-size: 14px;}
+
+.sideMenu_con .sideMenu_li3 {display: block;height: 36px;border:1px solid #eeeeee;text-align: center;font-size: 16px;position: absolute;bottom: 0;line-height: 36px;right: -194px;z-index: 9998;}
+
+</style>
+<div id="sideMenu">
+    <ul class="sideMenu_menu">
+        <li><img src="/images/2016/qq_sideMenu.png" alt=""></li>
+        <li><img src="/images/2016/phone_sideMenu.png" alt=""></li>
+        <li><img src="/images/2016/code_sideMenu.png" alt=""></li>
+        <li><img src="/images/2016/backInfo_sideMenu.png" alt=""></li>
+    </ul>
+    <ul class="sideMenu_con">
+        <li class="sideMenu_li0">
+            <ul>
+                <li style="border-bottom:1px solid #fff;">在线客服</li>
+                <li style="font-size:12px;"><a class="blue" target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=2934735531&amp;site=qq&amp;menu=yes">2934735531</a></li>
+            </ul>
+        </li>
+        <li class="sideMenu_li1">
+            <ul>
+                <li style="border-bottom:1px solid #fff;">
+                    <img src="/images/2016/tel_sideMenu.png" alt="">
+                    <p>0532-58860566</p>
+                </li>
+                <li style="border-bottom:1px solid #fff;">
+                    <img src="/images/2016/phone2_sideMenu.png" alt="">
+                    <p>4006004577</p>
+                </li>
+                <li>
+                    <img src="/images/2016/mail_sideMenu.png" alt="">
+                    <p><a href="mailto:price@cityre.cn">price@cityre.cn</a></p>
+                </li>
+            </ul>
+        </li>
+        <li class="sideMenu_li2">
+            <ul>
+                <li>
+                    <img src="/images/2016/footer_img2.png" alt="">
+                    <p>房价行情客户端</p>
+                </li>
+                <li>
+                    <img src="/images/2016/footer_img1.png" alt="">
+                    <p>微信公众平台</p>
+                </li>
+            </ul>
+        </li>
+        <li class="sideMenu_li3"><a class="blue" href="javascript:void(0);" id="feedbackxuqiu">意见反馈</a></li>
+    </ul>
+</div>
+<script type="text/javascript">
+
+$(document).ready(function() {
+
+        // 浏览器右侧边栏
+        var cl = $(".sideMenu_con").children("li");
+        var ml = $(".sideMenu_menu").children("li");
+
+        ml.mouseenter (function () {
+            slideAnimate (cl.eq($(this).index()),true);
+            slideAnimate (cl.eq($(this).index()).siblings("li"),false);
+        });
+        $("#sideMenu").mouseleave (function () {
+            slideAnimate (cl,false);
+        });
+
+        const widthMenu = ml.width();
+        const widthCon  = 200;
+        function slideAnimate (e,b) {
+            if (b == true) {
+                e.stop().animate({right:widthMenu + "px"}, 400);
+            } else if (b == false) {
+                e.stop().animate({right:-widthCon + "px"}, 300);
+            }
+        }
+    });
+
+//弹出需求反馈
+$(function(){
+    $('#feedbackxuqiu').click(function(){
+        layer.open({
+          type: 2,
+          title: false,
+          shadeClose: true,
+          shade: 0.3,
+          area: ['600px','430px'],
+          content: "/default/feedBackXuqiu.html" //iframe的url
+        });
+    })
+})
+</script>
+
+
+<div class="foot-msg clearfix">
+    <div class="inner">
+        <li  class="" style="margin-bottom: 4px;list-style: none;"><b>友情链接 ：</b> &nbsp;&nbsp;<a class="blue simsun" href="http://www.fangchan.com/" target="_blank">中国房地产业协会</a>  &nbsp;&nbsp;|&nbsp;&nbsp;  <a class="blue simsun" href="http://www.cityre.cn" target="_blank">禧泰公司</a>  &nbsp;&nbsp;|&nbsp;&nbsp;  <a class="blue simsun" href="http://cityre.cn/creprice.html" target="_blank">中国房价行情</a>  &nbsp;&nbsp;|&nbsp;&nbsp;  <a class="blue simsun" href="http://my.crevalue.cn" target="_blank">房产自动估价</a>  &nbsp;&nbsp;|&nbsp;&nbsp;  <a class="blue simsun" href="http://www.cityhouse.cn" target="_blank">城市房产</a>
+    </div>
+</div>
+
+<div id="footer">
+    <ul class="conBox_footer">
+        <ul class="conBox_ul_footer">
+            <h2><a href="/" class="conBox_tit_footer">首页</a></h2>
+            <h2><a href="/naprice/funation.html" class="conBox_tit_footer">禧泰一张图</a></h2>
+            <h2><a href="/market/gz/forsale/ALL/11.html" class="conBox_tit_footer">房价行情</a></h2>
+        </ul>
+        <ul class="conBox_ul_footer">
+            <h2>数据深度应用</h2>
+            <li><a href="/database/basics.html">全国房地产数据库</a></li>
+            <li><a href="/depth/yearBookAll.html">全国房地产数据年鉴</a></li>
+            <li><a href="/rank/nationranking.html">全国房地产数据查询</a></li>
+            <li><a href="http://data.cityhouse.cn/ad/dataReport.html" target="_blank">房地产数据报告</a></li>
+            <li><a href="http://www.crevalue.cn" target="_blank">房地产自动估价</a></li>
+        </ul>
+        <ul class="conBox_ul_footer">
+            <h2>行业应用方案</h2>
+            <li><a href="/solutiondetail/1.html">房地产企业</a></li>
+            <li><a href="/solutiondetail/2.html">银行等金融机构</a></li>
+            <li><a href="/solution/detailzj.html">房产中介</a></li>
+            <li><a href="/solutiondetail/3.html">资产运营及管理机构</a></li>
+        </ul>
+        <ul class="conBox_ul_footer" style="margin-right:0;">
+            <h2>关于</h2>
+            <li><a href="/user/aboutus.html">公司简介</a></li>
+            <li><a href="/vip/service.html">服务方式及说明</a></li>
+            <li><a href="/user/datades.html">数据说明</a></li>
+            <li><a href="/user/contact.html">联系我们</a></li>
+        </ul>
+        <div class="cut_footer"></div>
+        <ul class="conBox_download_footer">
+            <img src="/images/2016/footer_img3.jpg" alt="" width="99px" height="99px">
+            <li>手机客户端下载</li>
+        </ul>
+        <ul class="conBox_download_footer">
+            <img src="/images/2016/footer_img1.png" alt="">
+            <li>关注微信公众号</li>
+        </ul>
+    </ul>
+  </div>
+<div class="down_footer">
+    <div class="copy" style="text-align:center;">
+      <p><span class="mr20">版权所有 ©<a href="http://www.cityre.cn" target="_blank"> 禧泰房地产数据有限公司</a>  Copyright 2011 creprice.cn ,All Rights Reserved</span>鲁ICP备05026887号 <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=37020602000007" style="display: inline-block; text-decoration: none; height: 20px; line-height: 20px;"><img style="float: left;" src="http://www.credata.cn/images/gongan.png"> 鲁公网安备 37020602000007号</a><a target="_blank" href="http://www.gsxt.gov.cn/%7B0RxT-kJjXilMSZZJdqJ01g6P6tu_BidYKnL4gIHCZ_1_2_jR6S4skJJO6uxgyw3OF-m1k7SdFvf3SAWU10LLrEVF0Nu3Tfi2kAs4NZNfIG5Dnx8iPJW-6bq6NRSz-0H65j9dsV3D2VX9FHB833zSMnXcCe3Fx-iW4KyCfa44SCc-1519871385868%7D#0-qzone-1-41846-d020d2d2a4e8d1a374a433f596ad1440" style="display: inline-block; text-decoration: none; height: 20px; line-height: 20px;margin-left: 10px;vertical-align: middle;"><img src="/images/2016/logogx.png"></a></p>
+    </div>
+</div>
+<!--/ footer-->
+
+
+<script>
+    /*顶部跟随窗口显示*/
+function fixSearch(){
+	var scrt = $(window).scrollTop();
+	if(scrt > 200){
+		$(".indexFixedSea").css({"visibility":"visible"}).addClass('fadeInDown')
+	}else{
+		$(".indexFixedSea").css({"visibility":"hidden"}).removeClass('fadeInDown')
+	}
+}
+$(window).scroll( function() {
+	fixSearch();
+});
+</script>
+
+
+</body>
+</html>
