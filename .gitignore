@@ -1,3 +1,8 @@
+# other
+*.ttf
+*.pdf
+.idea/
+CHN_adm_shp/
 data-tmp/
 *.tmp
 .idea/
