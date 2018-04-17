@@ -1,4 +1,5 @@
 # 分析了六十多年间100万字的政府工作报告，我看到了这样的变迁
+
 > 版权声明：本文为博主m2fox原创文章，转载请注明出处：http://www.jianshu.com/p/bfde4f742294
 
 每年我国政府都会发布年度政府工作报告，而报告中出现最多的TopN关键词都会成为媒体热议的焦点，更是体现了过去一年和未来政府工作的重点和趋势。
@@ -482,8 +483,8 @@ if __name__ == '__main__':
 
 # 获取本文项目源码
 
-[dnxbjyj · GitHub](https://github.com/dnxbjyj/py-project/tree/master/gov_work_report_analysis)
+[dnxbjyj · GitHub](https://github.com/dnxbjyj/py-project/tree/master/GovWorkReportAnalysis)
 
 # 1954~2017政府工作报告原文汇总
 
-https://github.com/dnxbjyj/py-project/blob/master/gov_work_report_analysis/reports-bak.txt
+https://github.com/dnxbjyj/py-project/blob/master/GovWorkReportAnalysis/reports-bak.txt
