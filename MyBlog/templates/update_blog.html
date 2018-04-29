@@ -1,0 +1,11 @@
+<h1>更新博文</h1>
+<!-- HTML表单 -->
+<form action="/blogs/update/{{blog.id}}" method="POST">
+    <label>标题：</label>
+    <input type="text" name="title" value="{{blog.title}}">
+    <br><br>
+    <label>正文：</label>
+    <input type="text" name="text" value="{{blog.text}}">
+    <br><br>
+    <input type="submit" value="提交">
+</form>

@@ -1,0 +1,11 @@
+<h3><a href="/">< 回到首页</a></h3>
+<h1>博文列表</h1>
+<!-- Jinja模板语法 -->
+{% if blogs %}
+    {% for blog in blogs%}
+        <h3><a href="/blogs/{{blog.id}}">{{blog.title}}</a></h3>
+    {% endfor %}
+{% else %}
+    <p>还没有一篇博文，去写一篇吧~</p>
+    <a href="/blogs/create">去写一篇</a>
+{% endif %}

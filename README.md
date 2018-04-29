@@ -11,6 +11,9 @@
 ### CrepricecnHousePriceSpider
 近十几年来多个城市的房价爬虫。数据来源：中国房价行情网，http://www.creprice.cn
 
+### DoXPath
+用XPath路径表达式解析各种网站典型页面的实战，用以熟悉XPath的用法。
+
 ### GovWorkReportAnalysis
 爬虫爬取数十年来我国政府的所有政府工作报告，并进行分析。数据来源：中国政府网，http://www.gov.cn
 

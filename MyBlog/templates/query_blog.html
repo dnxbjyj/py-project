@@ -1,0 +1,37 @@
+<h3><a href="/blogs">< 回到博文列表</a></h3>
+<h1>博文详情</h1>
+<div>
+    <a href="/blogs/update/{{blog.id}}" id="{{blog.id}}">更新</a>
+    <h3>{{blog.title}}</h3>
+    <p>{{blog.text}}</p>
+    <a href="#" class="btn-delete" id="{{blog.id}}">删除</a>
+</div>
+
+<!-- 先引入jquery，下面要用到-->
+<script src="https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js"></script>
+<!--发送ajax请求删除博文 -->
+<script type="text/javascript">
+    $('a.btn-delete').on('click',function(evt){
+        // 通知浏览器不要执行与事件关联的默认动作
+        evt.preventDefault();
+        // 获取博文ID
+        var blogid = $(this).attr('id');
+        $.ajax({
+            // 请求URL
+            url: "/blogs/" + blogid,
+            // 请求方法类型
+            type: "DELETE",
+            contentType:"application/json",
+            // 删除成功响应函数
+            success:function(resp){
+                // 在当前页面打开博文列表页面
+                window.open("/blogs","_self");
+            },
+            // 删除失败响应函数
+            error:function(resp){
+                // 删除失败，给出错误提示
+                alert("删除博文失败！详情：" + resp.message);
+            }
+        })
+    });
+</script>
