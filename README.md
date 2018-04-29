@@ -20,6 +20,9 @@
 ### LianjiaHousePriceSpider
 基于scrapy框架的链家网二手房房价数据爬虫项目（未完工）。数据来源：链家网，https://lianjia.com
 
+### MyBlog
+一个Demo项目，讲述Flask从HelloWorld到增删改查。
+
 ### SantiCut
 三体三部曲全文文本中文分词。
 
