@@ -132,7 +132,7 @@ def sample():
             # 页码（范围）
             page_seq = config.get(name,bookmark)
             # 添加带书签的页面
-            pages.save_pages_with_bookmark(bookmark,page_seq)
+            pages.save_pages_with_bookmark(bookmark.upper(),page_seq)
         # 把pages对象保存成文件
         pages.save_as_file('{name}-CONCEPT CHECKERS.pdf'.format(name = name))
         print 'finish {name}'.format(name = name)
