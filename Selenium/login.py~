@@ -1,0 +1,2 @@
+# coding:utf-8
+# 用webdriver登录并获取cookies，并用requests发送请求

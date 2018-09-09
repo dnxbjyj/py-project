@@ -1,0 +1,32 @@
+# coding:utf-8
+# 自如租房爬虫
+import re
+import webutil as wu
+import sys
+reload(sys)
+sys.setdefaultencoding('utf-8')
+
+def get_urls_from_first_page(page_url_tpl):
+    '''
+    从页面的第一页获取所有网页的URL
+    :param page_url_tpl: 页面URL模板
+    :return: URL列表
+    '''
+    first_page_url = page_url_tpl.format(page = 1)
+    html = wu.get_html(first_page_url)
+    # 解析出总页数
+    total_page_matcher = re.search(r'共(\d+)页',html)
+    if not total_page_matcher:
+        raise Exception('parse total page number error!')
+    total_page_num = int(total_page_matcher.group(1))
+    print total_page_num
+    
+def main():
+    # 网页url：自如整租、南山区、地铁不限、租金不限、1居室、面积不限、地铁十分钟
+    url_tpl = 'http://sz.ziroom.com/z/nl/z1-d23008679-u1-x6.html?p={page}'
+    
+
+    
+
+if __name__ == '__main__':
+    main()

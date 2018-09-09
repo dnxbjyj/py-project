@@ -1,0 +1,2100 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>深圳合租房子|深圳房屋合租_深圳合租房信息【自如网】区域找房</title>
+        <link rel="icon" href="//static8.ziroom.com/phoenix/pc/images/common/favicon.ico" type="image/x-icon" />
+        <link rel="shortcut icon" href="//static8.ziroom.com/phoenix/pc/images/common/favicon.ico" type="image/x-icon" />
+        <meta name="keywords" content="合租房,合租房子,合租房信息,房屋合租,深圳合租,深圳合租房" />
+        <meta name="description" content="品质房源、线上订房、非中介！高品质深圳合租房品牌“自如”让您享受高品质生活。自如承诺：3天不满意全额退款！自如网区域找房提供准确的深圳合租房信息。" />
+        <meta content="width=1200, initial-scale=1, maximum-scale=1, user-scalable=1" name="viewport">
+        <link href="//static8.ziroom.com/phoenix/pc/css/common.css?v=1533455603" rel="stylesheet" type="text/css">
+        <link href="//static8.ziroom.com/phoenix/pc/css/list.css?v=1533455603" rel="stylesheet" type="text/css">
+        <script type="text/javascript" src="//static8.ziroom.com/fecommon/library/jquery/jquery-1.8.3.min.js"></script>
+        <!--北京-->
+        <script src="http://contentful.ziroom.com/online/zuzhu/www/list/d645920e395fedad7bbbed0eca3fe2e0.js?v=1533455603" type="text/javascript" charset="utf-8"></script>
+        <!--上海-->
+        <script src="http://contentful.ziroom.com/online/zuzhu/mwww/mlist/67c6a1e7ce56d3d6fa748ab6d9af3fd7.js?v=1533455603" type="text/javascript" charset="utf-8"></script>
+        <!--深圳-->
+        <script src="http://contentful.ziroom.com/online/zuzhu/www/list/642e92efb79421734881b53e1e1b18b6.js?v=1533455603" type="text/javascript" charset="utf-8"></script>
+                <script type='text/javascript'>
+        var _vds = _vds || [];
+        window._vds = _vds;
+        (function(){
+          _vds.push(['uid', '']);
+          _vds.push(['setAccountId', '8da2730aaedd7628']);
+          (function() {
+            var vds = document.createElement('script');
+            vds.type='text/javascript';
+            vds.async = true;
+            vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'dn-growing.qbox.me/vds.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(vds, s);
+          })();
+        })();
+        </script>
+    </head>
+    <body>
+    <script type="text/javascript">var ZRCONFIG = {"CSS_DOMAIN":"http://static8.ziroom.com/","JS_DOMAIN":"http://static8.ziroom.com/","URL_LIST":"//sz.ziroom.com/z/nl/z1-u1-x6.html","URL_HISTORY":"//sz.ziroom.com/hz/list/history","URL_PROMOTION":"//sz.ziroom.com/hz/list/promotion?q=z1-d23008679-u1-x6&qwd=","URL_SUGGESTION":"//sz.ziroom.com/hz/list/suggest","URL_REDIRECT_PAGING":"//sz.ziroom.com/z/nl/z1-d23008679-u1-x6.html?p=","URL_GET_LOGIN_STATE":"//sz.ziroom.com/user/check-login?url=http%3A%2F%2Fsz.ziroom.com%2Fz%2Fnl%2Fz1-d23008679-u1-x6.html%3Fp%3D1","URL_RENTAL":"/z/nl/z1-r"};</script>        <script type="text/javascript" src="//static8.ziroom.com/phoenix/pc/js/2017/common.min.js?v=1533455603"></script>
+        <div id="sub-header">
+            <div class="area clearfix">
+                <h1 class="logo">
+                    <a href="/"><img src="http://static8.ziroom.com/phoenix/pc/map/2017/img/logo.png"><div id="logoSvg"><span class="icon-logo"><span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span><span class="path5"></span><span class="path6"></span><span class="path7"></span><span class="path8"></span><span class="path9"></span><span class="path10"></span></span></div></a>
+                </h1>
+                <dl class="changeCityList">
+                    <dt><span id="curCityName">深圳</span></dt>
+                    <dd>
+                                        <a href="//www.ziroom.com/z/nl/z3.html" class="bor ">北京<b><s class="ani"></s></b></a>
+                                                    <a href="//sh.ziroom.com/z/nl/z3.html" class="bor ">上海<b><s class="ani"></s></b></a>
+                                                    <a href="//sz.ziroom.com/z/nl/z3.html" class="bor active">深圳<b><s class="ani"></s></b></a>
+                                                    <a href="//hz.ziroom.com/z/nl/z3.html" class="bor ">杭州<b><s class="ani"></s></b></a>
+                                                    <a href="//nj.ziroom.com/z/nl/z3.html" class="bor ">南京<b><s class="ani"></s></b></a>
+                                                    <a href="//cd.ziroom.com/z/nl/z3.html" class="bor ">成都<b><s class="ani"></s></b></a>
+                                                    <a href="//wh.ziroom.com/z/nl/z3.html" class="bor ">武汉<b><s class="ani"></s></b></a>
+                                                    <a href="//gz.ziroom.com/z/nl/z3.html" class="bor ">广州<b><s class="ani"></s></b></a>
+                                                    <a href="//tj.ziroom.com/z/nl/z3.html" class="bor ">天津<b><s class="ani"></s></b></a>
+                                                    </dd>
+                </dl>
+               
+                <div class="nav">
+                    <ul class="clearfix">
+                        <li><a href="/" title="首页" class=" s">首页</a></li>
+                        <li><a href="//www.ziroomapartment.com/" title="自如寓" target="_blank" class="s">自如寓</a></li>
+                        <li><a href="//www.ziroom.com/zhuanti/2016/zinn/" title="自如寓" target="_blank" class="s">自如驿</a></li>
+                        <li><a href="//www.ziroom.com/zhuanti/minsu/index.html" title="民宿" target="_blank" class="s">民宿</a></li>
+                        <li><a href="//www.ziroom.com/ziroomer/" title="生活" target="_blank" class=" s">生活</a></li>
+                        <li><a href="//yezhu.ziroom.com/" title="业主" target="_blank" class="s">业主</a></li>
+                    </ul>
+                </div>
+                <ul class="fr" id="topRightList">
+                    <li class="app">
+                        <a rel="nofollow" target="_blank" href="//www.ziroom.com/static/201401/androidapp.html"><b></b>移动自如</a>
+                        <div class="box">
+                            <img src="//static8.ziroom.com/phoenix/pc/images/qrcode/2017/pc-homepage-mainnav-free-qrcode.png">
+                            <p>下载自如app</p>
+                            <p>立即签约好房源</p>
+                        </div>
+                    </li>
+                    <li><a rel="nofollow" target="_blank" href="//www.ziroom.com/servicecentre/">在线服务</a></li>
+                    <li><a rel="nofollow" target="_blank" href="//www.ziroom.com/vip/">企悦会</a></li>
+                    <li id="ziroom_login"><a href="//passport.ziroom.com/login.html?return_url=http://sz.ziroom.com/z/nl/z1-d23008679-u1-x6.html?p=1" rel="nofollow">登录</a></li>
+                    <li id="ziroom_reg"><a href="//passport.ziroom.com/register.html" rel="nofollow">注册</a></li>
+                </ul>
+            </div>
+        </div>
+        
+<input type="hidden" id="CURRENT_CITY_CODE" value='440300'/> <!--/-->
+<input type="hidden" id="for_zry_type" value='1'/> <!--/-->
+<input type="hidden" id="for_zry_qwd" value=''/><!--/关键字-->
+<input type="hidden" id="for_zry_district" value='南山区'/><!--/区域-->
+<input type="hidden" id="for_zry_business" value=''/><!--/商圈-->
+<input type="hidden" id="for_zry_subway" value=''/><!--/地铁-->
+<input type="hidden" id="for_zry_station" value=''/><!--/地铁站-->
+
+<div class="node_infor area">
+    <a href="/">首页</a>
+    <span class="org">&gt;</span>
+    <a href="//sz.ziroom.com/z/nl/z3.html">自如找房</a>
+</div>
+<div class="area clearfix pr t_zindex6">
+    <div class="search pr">
+        <input type="text" value="" id="i_q_keyword_1" class="txt  textipt" placeholder="请输入区域、地铁、小区名开始找房...">
+        <input name="1" class="btn btn_sub" type="button">
+        <div class="t_ajaxbox"><ul id="suggestion"></ul></div>
+    </div>
+    <a href="/map/" target="_blank" class="toMapGif" onclick="window.location.href='/map/'"><img src="//static8.ziroom.com/phoenix/pc/images/list/map.gif"><span><img src="//static8.ziroom.com/phoenix/pc/images/list/maphover.png"></span></a>
+</div>
+
+<div class="t_myarea mt20 t_zindex1">
+    <div id="selection">
+        <div class="selection_box">
+            <div class="selection_con">
+                                <dl class="clearfix">
+                    <dt>类型：</dt>
+                    <dd>
+                        <div class="clearfix t">
+                                                        <a href="//sz.ziroom.com/z/nl/z3-d23008679-u1-x6.html"  >不限</a>
+                                                        <a href="//sz.ziroom.com/z/nl/z2-d23008679-u1-x6.html"  >友家合租</a>
+                                                        <a href="//sz.ziroom.com/z/nl/z1-d23008679-u1-x6.html"  class="active2">自如整租</a>
+                                                        <a href="//sz.ziroom.com/z/nl/z6-d23008679-u1-x6.html"  >自如精选</a>
+                                                    </div>
+                    </dd>
+                </dl>
+                                                <dl class="clearfix zIndex6">
+                    <dt>区域：</dt>
+                    <dd>
+                        <ul class="clearfix filterList">
+                                                        <li>
+                                                                <a href="//sz.ziroom.com/z/nl/z1-u1-x6.html" >不限</a><b></b>
+                                                                </li>
+                                                        <li>
+                                                                <span class="tag">
+                                    <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008679.html" class="active2">南山区</a><b></b>
+                                </span>
+                                <div class="con">
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008679.html" class="active2">全部</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008679-b612400051.html" >蛇口</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008679-b612400048.html" >南头</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008679-b611100902.html" >西丽</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008679-b611100877.html" >科技园北</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008679-b611100855.html" >科技园南</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008679-b611100857.html" >前海</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008679-b612400044.html" >后海</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008679-b611100879.html" >世界之窗</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008679-b612400047.html" >南山中心</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008679-b612400049.html" >南油</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008679-b612400045.html" >华侨城</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008679-b611100897.html" >大学城</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008679-b611100871.html" >桂庙</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008679-b611100898.html" >留仙</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008679-b611100944.html" >花园城</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008679-b611100864.html" >太古城</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008679-b611100870.html" >桃源村</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008679-b611100943.html" >海上世界</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008679-b611100978.html" >侨城东</a>
+                                    </span>
+                                                                    </div>
+                                                                </li>
+                                                        <li>
+                                                                <span class="tag">
+                                    <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008677.html" >龙华区</a><b></b>
+                                </span>
+                                <div class="con">
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008677.html" >全部</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008677-b611100858.html" >民治</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008677-b612400027.html" >坂田</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008677-b612400032.html" >龙华中心</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008677-b611100866.html" >深圳北站</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008677-b611100964.html" >清湖</a>
+                                    </span>
+                                                                    </div>
+                                                                </li>
+                                                        <li>
+                                                                <span class="tag">
+                                    <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008676.html" >龙岗区</a><b></b>
+                                </span>
+                                <div class="con">
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008676.html" >全部</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008676-b612400028.html" >布吉</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008676-b611100888.html" >大运</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008676-b612400027.html" >坂田</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008676-b612400029.html" >横岗</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008676-b611100969.html" >天安数码城（龙岗）</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008676-b612400030.html" >龙岗中心城</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008676-b611100895.html" >南联</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008676-b1100001245.html" >丹竹头</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008676-b1100001244.html" >大芬</a>
+                                    </span>
+                                                                    </div>
+                                                                </li>
+                                                        <li>
+                                                                <span class="tag">
+                                    <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008672.html" >宝安区</a><b></b>
+                                </span>
+                                <div class="con">
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008672.html" >全部</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008672-b611100865.html" >西乡</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008672-b611100878.html" >宝安中心</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008672-b611100876.html" >新安</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008672-b611100880.html" >碧海</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008672-b611100882.html" >翻身</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008672-b611100875.html" >桃源居</a>
+                                    </span>
+                                                                    </div>
+                                                                </li>
+                                                        <li>
+                                                                <span class="tag">
+                                    <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008674.html" >福田区</a><b></b>
+                                </span>
+                                <div class="con">
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008674.html" >全部</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008674-b611100874.html" >梅林</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008674-b611100954.html" >景田</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008674-b611100884.html" >华强北</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008674-b611100957.html" >石厦</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008674-b612400013.html" >车公庙</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008674-b611100956.html" >岗厦</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008674-b612400022.html" >新洲</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008674-b612400019.html" >上下沙</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008674-b612400017.html" >莲花</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008674-b611100979.html" >竹子林</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008674-b612400015.html" >皇岗</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008674-b612400009.html" >八卦岭</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008674-b611100893.html" >福田中心</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008674-b611100958.html" >福田口岸</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008674-b612400010.html" >百花</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008674-b611100883.html" >华强南</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008674-b612400011.html" >福田保税区</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008674-b611100860.html" >香蜜湖</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008674-b612400021.html" >香蜜湖东</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008674-b611100889.html" >上步</a>
+                                    </span>
+                                                                    </div>
+                                                                </li>
+                                                        <li>
+                                                                <span class="tag">
+                                    <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008678.html" >罗湖区</a><b></b>
+                                </span>
+                                <div class="con">
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008678.html" >全部</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008678-b612400038.html" >黄贝岭</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008678-b612400036.html" >东门</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008678-b612400035.html" >翠竹</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008678-b612400033.html" >布心</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008678-b611100859.html" >地王</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008678-b611100960.html" >百仕达</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008678-b611100959.html" >新秀</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008678-b611100881.html" >万象城</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008678-b1100000591.html" >春风路</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008678-b612400041.html" >人民南</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008678-b612400037.html" >洪湖</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008678-b612400043.html" >笋岗</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008678-b1100000733.html" >清水河</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008678-b611100904.html" >莲塘</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008678-b611100873.html" >凤凰</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-d23008678-b612400028.html" >布吉</a>
+                                    </span>
+                                                                    </div>
+                                                                </li>
+                                                    </ul>
+                    </dd>
+                </dl>
+                                                <dl class="clearfix zIndex5">
+                    <dt>地铁：</dt>
+                    <dd>
+                        <ul class="clearfix filterList">
+                                                        <li>
+                                                                <a href="//sz.ziroom.com/z/nl/z1-u1-x6.html" class="active2">不限</a><b></b>
+                                                            </li>
+                                                        <li>
+                                                                <span class="tag">
+                                    <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s1%E5%8F%B7%E7%BA%BF%28%E7%BD%97%E5%AE%9D%E7%BA%BF%29.html" >1号线(罗宝线)</a><b></b>
+                                </span>
+                                <div class="con">
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s1%E5%8F%B7%E7%BA%BF%28%E7%BD%97%E5%AE%9D%E7%BA%BF%29.html" >全部</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s1%E5%8F%B7%E7%BA%BF%28%E7%BD%97%E5%AE%9D%E7%BA%BF%29-t%E7%BD%97%E6%B9%96.html" >罗湖</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s1%E5%8F%B7%E7%BA%BF%28%E7%BD%97%E5%AE%9D%E7%BA%BF%29-t%E5%9B%BD%E8%B4%B8.html" >国贸</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s1%E5%8F%B7%E7%BA%BF%28%E7%BD%97%E5%AE%9D%E7%BA%BF%29-t%E8%80%81%E8%A1%97.html" >老街</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s1%E5%8F%B7%E7%BA%BF%28%E7%BD%97%E5%AE%9D%E7%BA%BF%29-t%E7%A7%91%E5%AD%A6%E9%A6%86.html" >科学馆</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s1%E5%8F%B7%E7%BA%BF%28%E7%BD%97%E5%AE%9D%E7%BA%BF%29-t%E5%8D%8E%E5%BC%BA%E8%B7%AF.html" >华强路</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s1%E5%8F%B7%E7%BA%BF%28%E7%BD%97%E5%AE%9D%E7%BA%BF%29-t%E5%B2%97%E5%8E%A6.html" >岗厦</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s1%E5%8F%B7%E7%BA%BF%28%E7%BD%97%E5%AE%9D%E7%BA%BF%29-t%E4%BC%9A%E5%B1%95%E4%B8%AD%E5%BF%83.html" >会展中心</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s1%E5%8F%B7%E7%BA%BF%28%E7%BD%97%E5%AE%9D%E7%BA%BF%29-t%E8%B4%AD%E7%89%A9%E5%85%AC%E5%9B%AD.html" >购物公园</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s1%E5%8F%B7%E7%BA%BF%28%E7%BD%97%E5%AE%9D%E7%BA%BF%29-t%E9%A6%99%E8%9C%9C%E6%B9%96.html" >香蜜湖</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s1%E5%8F%B7%E7%BA%BF%28%E7%BD%97%E5%AE%9D%E7%BA%BF%29-t%E8%BD%A6%E5%85%AC%E5%BA%99.html" >车公庙</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s1%E5%8F%B7%E7%BA%BF%28%E7%BD%97%E5%AE%9D%E7%BA%BF%29-t%E7%AB%B9%E5%AD%90%E6%9E%97.html" >竹子林</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s1%E5%8F%B7%E7%BA%BF%28%E7%BD%97%E5%AE%9D%E7%BA%BF%29-t%E4%BE%A8%E5%9F%8E%E4%B8%9C.html" >侨城东</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s1%E5%8F%B7%E7%BA%BF%28%E7%BD%97%E5%AE%9D%E7%BA%BF%29-t%E5%8D%8E%E4%BE%A8%E5%9F%8E.html" >华侨城</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s1%E5%8F%B7%E7%BA%BF%28%E7%BD%97%E5%AE%9D%E7%BA%BF%29-t%E4%B8%96%E7%95%8C%E4%B9%8B%E7%AA%97.html" >世界之窗</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s1%E5%8F%B7%E7%BA%BF%28%E7%BD%97%E5%AE%9D%E7%BA%BF%29-t%E7%99%BD%E7%9F%B3%E6%B4%B2.html" >白石洲</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s1%E5%8F%B7%E7%BA%BF%28%E7%BD%97%E5%AE%9D%E7%BA%BF%29-t%E9%AB%98%E6%96%B0%E5%9B%AD.html" >高新园</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s1%E5%8F%B7%E7%BA%BF%28%E7%BD%97%E5%AE%9D%E7%BA%BF%29-t%E6%B7%B1%E5%A4%A7.html" >深大</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s1%E5%8F%B7%E7%BA%BF%28%E7%BD%97%E5%AE%9D%E7%BA%BF%29-t%E6%A1%83%E5%9B%AD.html" >桃园</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s1%E5%8F%B7%E7%BA%BF%28%E7%BD%97%E5%AE%9D%E7%BA%BF%29-t%E5%A4%A7%E6%96%B0.html" >大新</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s1%E5%8F%B7%E7%BA%BF%28%E7%BD%97%E5%AE%9D%E7%BA%BF%29-t%E9%B2%A4%E9%B1%BC%E9%97%A8.html" >鲤鱼门</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s1%E5%8F%B7%E7%BA%BF%28%E7%BD%97%E5%AE%9D%E7%BA%BF%29-t%E5%89%8D%E6%B5%B7%E6%B9%BE.html" >前海湾</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s1%E5%8F%B7%E7%BA%BF%28%E7%BD%97%E5%AE%9D%E7%BA%BF%29-t%E6%96%B0%E5%AE%89.html" >新安</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s1%E5%8F%B7%E7%BA%BF%28%E7%BD%97%E5%AE%9D%E7%BA%BF%29-t%E5%AE%9D%E5%AE%89%E4%B8%AD%E5%BF%83.html" >宝安中心</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s1%E5%8F%B7%E7%BA%BF%28%E7%BD%97%E5%AE%9D%E7%BA%BF%29-t%E5%AE%9D%E4%BD%93.html" >宝体</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s1%E5%8F%B7%E7%BA%BF%28%E7%BD%97%E5%AE%9D%E7%BA%BF%29-t%E5%9D%AA%E6%B4%B2.html" >坪洲</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s1%E5%8F%B7%E7%BA%BF%28%E7%BD%97%E5%AE%9D%E7%BA%BF%29-t%E8%A5%BF%E4%B9%A1.html" >西乡</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s1%E5%8F%B7%E7%BA%BF%28%E7%BD%97%E5%AE%9D%E7%BA%BF%29-t%E5%9B%BA%E6%88%8D.html" >固戍</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s1%E5%8F%B7%E7%BA%BF%28%E7%BD%97%E5%AE%9D%E7%BA%BF%29-t%E5%90%8E%E7%91%9E.html" >后瑞</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s1%E5%8F%B7%E7%BA%BF%28%E7%BD%97%E5%AE%9D%E7%BA%BF%29-t%E6%9C%BA%E5%9C%BA%E4%B8%9C.html" >机场东</a>
+                                    </span>
+                                                                    </div>
+                                                            </li>
+                                                        <li>
+                                                                <span class="tag">
+                                    <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s2%E5%8F%B7%E7%BA%BF%28%E8%9B%87%E5%8F%A3%E7%BA%BF%29.html" >2号线(蛇口线)</a><b></b>
+                                </span>
+                                <div class="con">
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s2%E5%8F%B7%E7%BA%BF%28%E8%9B%87%E5%8F%A3%E7%BA%BF%29.html" >全部</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s2%E5%8F%B7%E7%BA%BF%28%E8%9B%87%E5%8F%A3%E7%BA%BF%29-t%E8%9B%87%E5%8F%A3%E6%B8%AF.html" >蛇口港</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s2%E5%8F%B7%E7%BA%BF%28%E8%9B%87%E5%8F%A3%E7%BA%BF%29-t%E6%B5%B7%E4%B8%8A%E4%B8%96%E7%95%8C.html" >海上世界</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s2%E5%8F%B7%E7%BA%BF%28%E8%9B%87%E5%8F%A3%E7%BA%BF%29-t%E6%B0%B4%E6%B9%BE.html" >水湾</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s2%E5%8F%B7%E7%BA%BF%28%E8%9B%87%E5%8F%A3%E7%BA%BF%29-t%E4%B8%9C%E8%A7%92%E5%A4%B4.html" >东角头</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s2%E5%8F%B7%E7%BA%BF%28%E8%9B%87%E5%8F%A3%E7%BA%BF%29-t%E6%B9%BE%E5%8E%A6.html" >湾厦</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s2%E5%8F%B7%E7%BA%BF%28%E8%9B%87%E5%8F%A3%E7%BA%BF%29-t%E6%B5%B7%E6%9C%88.html" >海月</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s2%E5%8F%B7%E7%BA%BF%28%E8%9B%87%E5%8F%A3%E7%BA%BF%29-t%E7%99%BB%E8%89%AF.html" >登良</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s2%E5%8F%B7%E7%BA%BF%28%E8%9B%87%E5%8F%A3%E7%BA%BF%29-t%E5%90%8E%E6%B5%B7.html" >后海</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s2%E5%8F%B7%E7%BA%BF%28%E8%9B%87%E5%8F%A3%E7%BA%BF%29-t%E7%A7%91%E8%8B%91.html" >科苑</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s2%E5%8F%B7%E7%BA%BF%28%E8%9B%87%E5%8F%A3%E7%BA%BF%29-t%E4%B8%96%E7%95%8C%E4%B9%8B%E7%AA%97.html" >世界之窗</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s2%E5%8F%B7%E7%BA%BF%28%E8%9B%87%E5%8F%A3%E7%BA%BF%29-t%E4%BE%A8%E5%9F%8E%E5%8C%97.html" >侨城北</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s2%E5%8F%B7%E7%BA%BF%28%E8%9B%87%E5%8F%A3%E7%BA%BF%29-t%E6%B7%B1%E5%BA%B7.html" >深康</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s2%E5%8F%B7%E7%BA%BF%28%E8%9B%87%E5%8F%A3%E7%BA%BF%29-t%E5%AE%89%E6%89%98%E5%B1%B1.html" >安托山</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s2%E5%8F%B7%E7%BA%BF%28%E8%9B%87%E5%8F%A3%E7%BA%BF%29-t%E4%BE%A8%E9%A6%99.html" >侨香</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s2%E5%8F%B7%E7%BA%BF%28%E8%9B%87%E5%8F%A3%E7%BA%BF%29-t%E9%A6%99%E8%9C%9C.html" >香蜜</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s2%E5%8F%B7%E7%BA%BF%28%E8%9B%87%E5%8F%A3%E7%BA%BF%29-t%E9%A6%99%E6%A2%85%E5%8C%97.html" >香梅北</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s2%E5%8F%B7%E7%BA%BF%28%E8%9B%87%E5%8F%A3%E7%BA%BF%29-t%E6%99%AF%E7%94%B0.html" >景田</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s2%E5%8F%B7%E7%BA%BF%28%E8%9B%87%E5%8F%A3%E7%BA%BF%29-t%E8%8E%B2%E8%8A%B1%E8%A5%BF.html" >莲花西</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s2%E5%8F%B7%E7%BA%BF%28%E8%9B%87%E5%8F%A3%E7%BA%BF%29-t%E7%A6%8F%E7%94%B0.html" >福田</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s2%E5%8F%B7%E7%BA%BF%28%E8%9B%87%E5%8F%A3%E7%BA%BF%29-t%E5%B8%82%E6%B0%91%E4%B8%AD%E5%BF%83.html" >市民中心</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s2%E5%8F%B7%E7%BA%BF%28%E8%9B%87%E5%8F%A3%E7%BA%BF%29-t%E5%B2%97%E5%8E%A6%E5%8C%97.html" >岗厦北</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s2%E5%8F%B7%E7%BA%BF%28%E8%9B%87%E5%8F%A3%E7%BA%BF%29-t%E5%8D%8E%E5%BC%BA%E5%8C%97.html" >华强北</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s2%E5%8F%B7%E7%BA%BF%28%E8%9B%87%E5%8F%A3%E7%BA%BF%29-t%E7%87%95%E5%8D%97.html" >燕南</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s2%E5%8F%B7%E7%BA%BF%28%E8%9B%87%E5%8F%A3%E7%BA%BF%29-t%E6%B9%96%E8%B4%9D.html" >湖贝</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s2%E5%8F%B7%E7%BA%BF%28%E8%9B%87%E5%8F%A3%E7%BA%BF%29-t%E9%BB%84%E8%B4%9D%E5%B2%AD.html" >黄贝岭</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s2%E5%8F%B7%E7%BA%BF%28%E8%9B%87%E5%8F%A3%E7%BA%BF%29-t%E6%96%B0%E7%A7%80.html" >新秀</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s2%E5%8F%B7%E7%BA%BF%28%E8%9B%87%E5%8F%A3%E7%BA%BF%29-t%E7%BA%A2%E6%A0%91%E6%B9%BE.html" >红树湾</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s2%E5%8F%B7%E7%BA%BF%28%E8%9B%87%E5%8F%A3%E7%BA%BF%29-t%E8%B5%A4%E6%B9%BE.html" >赤湾</a>
+                                    </span>
+                                                                    </div>
+                                                            </li>
+                                                        <li>
+                                                                <span class="tag">
+                                    <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s3%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%B2%97%E7%BA%BF%29.html" >3号线(龙岗线)</a><b></b>
+                                </span>
+                                <div class="con">
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s3%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%B2%97%E7%BA%BF%29.html" >全部</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s3%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%B2%97%E7%BA%BF%29-t%E6%9C%A8%E6%A3%89%E6%B9%BE.html" >木棉湾</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s3%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%B2%97%E7%BA%BF%29-t%E5%B8%83%E5%90%89.html" >布吉</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s3%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%B2%97%E7%BA%BF%29-t%E8%8D%89%E5%9F%94.html" >草埔</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s3%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%B2%97%E7%BA%BF%29-t%E6%B0%B4%E8%B4%9D.html" >水贝</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s3%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%B2%97%E7%BA%BF%29-t%E7%94%B0%E8%B4%9D.html" >田贝</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s3%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%B2%97%E7%BA%BF%29-t%E7%BF%A0%E7%AB%B9.html" >翠竹</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s3%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%B2%97%E7%BA%BF%29-t%E6%99%92%E5%B8%83.html" >晒布</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s3%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%B2%97%E7%BA%BF%29-t%E8%80%81%E8%A1%97.html" >老街</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s3%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%B2%97%E7%BA%BF%29-t%E7%BA%A2%E5%B2%AD.html" >红岭</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s3%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%B2%97%E7%BA%BF%29-t%E9%80%9A%E6%96%B0%E5%B2%AD.html" >通新岭</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s3%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%B2%97%E7%BA%BF%29-t%E5%8D%8E%E6%96%B0.html" >华新</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s3%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%B2%97%E7%BA%BF%29-t%E8%8E%B2%E8%8A%B1%E6%9D%91.html" >莲花村</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s3%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%B2%97%E7%BA%BF%29-t%E5%B0%91%E5%B9%B4%E5%AE%AB.html" >少年宫</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s3%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%B2%97%E7%BA%BF%29-t%E7%A6%8F%E7%94%B0.html" >福田</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s3%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%B2%97%E7%BA%BF%29-t%E8%B4%AD%E7%89%A9%E5%85%AC%E5%9B%AD.html" >购物公园</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s3%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%B2%97%E7%BA%BF%29-t%E7%9F%B3%E5%8E%A6.html" >石厦</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s3%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%B2%97%E7%BA%BF%29-t%E7%9B%8A%E7%94%B0.html" >益田</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s3%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%B2%97%E7%BA%BF%29-t%E5%A4%A7%E8%8A%AC.html" >大芬</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s3%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%B2%97%E7%BA%BF%29-t%E4%B8%B9%E7%AB%B9%E5%A4%B4.html" >丹竹头</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s3%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%B2%97%E7%BA%BF%29-t%E5%85%AD%E7%BA%A6.html" >六约</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s3%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%B2%97%E7%BA%BF%29-t%E5%A1%98%E5%9D%91.html" >塘坑</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s3%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%B2%97%E7%BA%BF%29-t%E6%A8%AA%E5%B2%97.html" >横岗</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s3%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%B2%97%E7%BA%BF%29-t%E6%B0%B8%E6%B9%96.html" >永湖</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s3%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%B2%97%E7%BA%BF%29-t%E8%8D%B7%E5%9D%B3.html" >荷坳</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s3%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%B2%97%E7%BA%BF%29-t%E5%A4%A7%E8%BF%90.html" >大运</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s3%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%B2%97%E7%BA%BF%29-t%E7%88%B1%E8%81%94.html" >爱联</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s3%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%B2%97%E7%BA%BF%29-t%E5%90%89%E7%A5%A5.html" >吉祥</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s3%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%B2%97%E7%BA%BF%29-t%E9%BE%99%E5%9F%8E%E5%B9%BF%E5%9C%BA.html" >龙城广场</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s3%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%B2%97%E7%BA%BF%29-t%E5%8D%97%E8%81%94.html" >南联</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s3%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%B2%97%E7%BA%BF%29-t%E5%8F%8C%E9%BE%99.html" >双龙</a>
+                                    </span>
+                                                                    </div>
+                                                            </li>
+                                                        <li>
+                                                                <span class="tag">
+                                    <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s4%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%8D%8E%E7%BA%BF%29.html" >4号线(龙华线)</a><b></b>
+                                </span>
+                                <div class="con">
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s4%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%8D%8E%E7%BA%BF%29.html" >全部</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s4%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%8D%8E%E7%BA%BF%29-t%E7%A6%8F%E7%94%B0%E5%8F%A3%E5%B2%B8.html" >福田口岸</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s4%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%8D%8E%E7%BA%BF%29-t%E7%A6%8F%E6%B0%91.html" >福民</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s4%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%8D%8E%E7%BA%BF%29-t%E4%BC%9A%E5%B1%95%E4%B8%AD%E5%BF%83.html" >会展中心</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s4%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%8D%8E%E7%BA%BF%29-t%E5%B8%82%E6%B0%91%E4%B8%AD%E5%BF%83.html" >市民中心</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s4%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%8D%8E%E7%BA%BF%29-t%E5%B0%91%E5%B9%B4%E5%AE%AB.html" >少年宫</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s4%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%8D%8E%E7%BA%BF%29-t%E8%8E%B2%E8%8A%B1%E5%8C%97.html" >莲花北</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s4%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%8D%8E%E7%BA%BF%29-t%E4%B8%8A%E6%A2%85%E6%9E%97.html" >上梅林</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s4%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%8D%8E%E7%BA%BF%29-t%E6%B0%91%E4%B9%90.html" >民乐</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s4%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%8D%8E%E7%BA%BF%29-t%E7%99%BD%E7%9F%B3%E9%BE%99.html" >白石龙</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s4%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%8D%8E%E7%BA%BF%29-t%E6%B7%B1%E5%9C%B3%E5%8C%97%E7%AB%99.html" >深圳北站</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s4%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%8D%8E%E7%BA%BF%29-t%E7%BA%A2%E5%B1%B1.html" >红山</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s4%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%8D%8E%E7%BA%BF%29-t%E4%B8%8A%E5%A1%98.html" >上塘</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s4%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%8D%8E%E7%BA%BF%29-t%E9%BE%99%E8%83%9C.html" >龙胜</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s4%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%8D%8E%E7%BA%BF%29-t%E6%B8%85%E6%B9%96.html" >清湖</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s4%E5%8F%B7%E7%BA%BF%28%E9%BE%99%E5%8D%8E%E7%BA%BF%29-t%E9%BE%99%E5%8D%8E.html" >龙华</a>
+                                    </span>
+                                                                    </div>
+                                                            </li>
+                                                        <li>
+                                                                <span class="tag">
+                                    <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s5%E5%8F%B7%E7%BA%BF%28%E7%8E%AF%E4%B8%AD%E7%BA%BF%29.html" >5号线(环中线)</a><b></b>
+                                </span>
+                                <div class="con">
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s5%E5%8F%B7%E7%BA%BF%28%E7%8E%AF%E4%B8%AD%E7%BA%BF%29.html" >全部</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s5%E5%8F%B7%E7%BA%BF%28%E7%8E%AF%E4%B8%AD%E7%BA%BF%29-t%E5%89%8D%E6%B5%B7%E6%B9%BE.html" >前海湾</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s5%E5%8F%B7%E7%BA%BF%28%E7%8E%AF%E4%B8%AD%E7%BA%BF%29-t%E4%B8%B4%E6%B5%B7.html" >临海</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s5%E5%8F%B7%E7%BA%BF%28%E7%8E%AF%E4%B8%AD%E7%BA%BF%29-t%E5%AE%9D%E5%8D%8E.html" >宝华</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s5%E5%8F%B7%E7%BA%BF%28%E7%8E%AF%E4%B8%AD%E7%BA%BF%29-t%E5%AE%9D%E5%AE%89%E4%B8%AD%E5%BF%83.html" >宝安中心</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s5%E5%8F%B7%E7%BA%BF%28%E7%8E%AF%E4%B8%AD%E7%BA%BF%29-t%E7%BF%BB%E8%BA%AB.html" >翻身</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s5%E5%8F%B7%E7%BA%BF%28%E7%8E%AF%E4%B8%AD%E7%BA%BF%29-t%E7%81%B5%E8%8A%9D.html" >灵芝</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s5%E5%8F%B7%E7%BA%BF%28%E7%8E%AF%E4%B8%AD%E7%BA%BF%29-t%E6%B4%AA%E6%B5%AA%E5%8C%97.html" >洪浪北</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s5%E5%8F%B7%E7%BA%BF%28%E7%8E%AF%E4%B8%AD%E7%BA%BF%29-t%E5%85%B4%E4%B8%9C.html" >兴东</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s5%E5%8F%B7%E7%BA%BF%28%E7%8E%AF%E4%B8%AD%E7%BA%BF%29-t%E7%95%99%E4%BB%99%E6%B4%9E.html" >留仙洞</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s5%E5%8F%B7%E7%BA%BF%28%E7%8E%AF%E4%B8%AD%E7%BA%BF%29-t%E8%A5%BF%E4%B8%BD.html" >西丽</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s5%E5%8F%B7%E7%BA%BF%28%E7%8E%AF%E4%B8%AD%E7%BA%BF%29-t%E5%A4%A7%E5%AD%A6%E5%9F%8E.html" >大学城</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s5%E5%8F%B7%E7%BA%BF%28%E7%8E%AF%E4%B8%AD%E7%BA%BF%29-t%E6%B7%B1%E5%9C%B3%E5%8C%97%E7%AB%99.html" >深圳北站</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s5%E5%8F%B7%E7%BA%BF%28%E7%8E%AF%E4%B8%AD%E7%BA%BF%29-t%E6%B0%91%E6%B2%BB.html" >民治</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s5%E5%8F%B7%E7%BA%BF%28%E7%8E%AF%E4%B8%AD%E7%BA%BF%29-t%E4%BA%94%E5%92%8C.html" >五和</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s5%E5%8F%B7%E7%BA%BF%28%E7%8E%AF%E4%B8%AD%E7%BA%BF%29-t%E5%9D%82%E7%94%B0.html" >坂田</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s5%E5%8F%B7%E7%BA%BF%28%E7%8E%AF%E4%B8%AD%E7%BA%BF%29-t%E6%9D%A8%E7%BE%8E.html" >杨美</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s5%E5%8F%B7%E7%BA%BF%28%E7%8E%AF%E4%B8%AD%E7%BA%BF%29-t%E5%B8%83%E5%90%89.html" >布吉</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s5%E5%8F%B7%E7%BA%BF%28%E7%8E%AF%E4%B8%AD%E7%BA%BF%29-t%E7%99%BE%E9%B8%BD%E7%AC%BC.html" >百鸽笼</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s5%E5%8F%B7%E7%BA%BF%28%E7%8E%AF%E4%B8%AD%E7%BA%BF%29-t%E5%B8%83%E5%BF%83.html" >布心</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s5%E5%8F%B7%E7%BA%BF%28%E7%8E%AF%E4%B8%AD%E7%BA%BF%29-t%E5%A4%AA%E5%AE%89.html" >太安</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s5%E5%8F%B7%E7%BA%BF%28%E7%8E%AF%E4%B8%AD%E7%BA%BF%29-t%E6%80%A1%E6%99%AF.html" >怡景</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s5%E5%8F%B7%E7%BA%BF%28%E7%8E%AF%E4%B8%AD%E7%BA%BF%29-t%E9%BB%84%E8%B4%9D%E5%B2%AD.html" >黄贝岭</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s5%E5%8F%B7%E7%BA%BF%28%E7%8E%AF%E4%B8%AD%E7%BA%BF%29-t%E5%A1%98%E6%9C%97.html" >塘朗</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s5%E5%8F%B7%E7%BA%BF%28%E7%8E%AF%E4%B8%AD%E7%BA%BF%29-t%E9%95%BF%E5%B2%AD%E9%99%82.html" >长岭陂</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s5%E5%8F%B7%E7%BA%BF%28%E7%8E%AF%E4%B8%AD%E7%BA%BF%29-t%E4%B8%8A%E6%B0%B4%E5%BE%84.html" >上水径</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s5%E5%8F%B7%E7%BA%BF%28%E7%8E%AF%E4%B8%AD%E7%BA%BF%29-t%E4%B8%8B%E6%B0%B4%E5%BE%84.html" >下水径</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s5%E5%8F%B7%E7%BA%BF%28%E7%8E%AF%E4%B8%AD%E7%BA%BF%29-t%E9%95%BF%E9%BE%99.html" >长龙</a>
+                                    </span>
+                                                                    </div>
+                                                            </li>
+                                                        <li>
+                                                                <span class="tag">
+                                    <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s7%E5%8F%B7%E7%BA%BF.html" >7号线</a><b></b>
+                                </span>
+                                <div class="con">
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s7%E5%8F%B7%E7%BA%BF.html" >全部</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s7%E5%8F%B7%E7%BA%BF-t%E8%A5%BF%E4%B8%BD.html" >西丽</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s7%E5%8F%B7%E7%BA%BF-t%E8%8C%B6%E5%85%89.html" >茶光</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s7%E5%8F%B7%E7%BA%BF-t%E7%8F%A0%E5%85%89.html" >珠光</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s7%E5%8F%B7%E7%BA%BF-t%E9%BE%99%E4%BA%95.html" >龙井</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s7%E5%8F%B7%E7%BA%BF-t%E6%A1%83%E6%BA%90%E6%9D%91.html" >桃源村</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s7%E5%8F%B7%E7%BA%BF-t%E5%AE%89%E6%89%98%E5%B1%B1.html" >安托山</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s7%E5%8F%B7%E7%BA%BF-t%E5%86%9C%E6%9E%97.html" >农林</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s7%E5%8F%B7%E7%BA%BF-t%E8%BD%A6%E5%85%AC%E5%BA%99.html" >车公庙</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s7%E5%8F%B7%E7%BA%BF-t%E4%B8%8A%E6%B2%99.html" >上沙</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s7%E5%8F%B7%E7%BA%BF-t%E6%B2%99%E5%B0%BE.html" >沙尾</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s7%E5%8F%B7%E7%BA%BF-t%E7%9F%B3%E5%8E%A6.html" >石厦</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s7%E5%8F%B7%E7%BA%BF-t%E7%9A%87%E5%B2%97%E6%9D%91.html" >皇岗村</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s7%E5%8F%B7%E7%BA%BF-t%E7%A6%8F%E6%B0%91.html" >福民</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s7%E5%8F%B7%E7%BA%BF-t%E7%9A%87%E5%B2%97%E5%8F%A3%E5%B2%B8.html" >皇岗口岸</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s7%E5%8F%B7%E7%BA%BF-t%E8%B5%A4%E5%B0%BE.html" >赤尾</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s7%E5%8F%B7%E7%BA%BF-t%E5%8D%8E%E5%BC%BA%E5%8D%97.html" >华强南</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s7%E5%8F%B7%E7%BA%BF-t%E5%8D%8E%E5%BC%BA%E5%8C%97.html" >华强北</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s7%E5%8F%B7%E7%BA%BF-t%E5%8D%8E%E6%96%B0.html" >华新</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s7%E5%8F%B7%E7%BA%BF-t%E9%BB%84%E6%9C%A8%E5%B2%97.html" >黄木岗</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s7%E5%8F%B7%E7%BA%BF-t%E5%85%AB%E5%8D%A6%E5%B2%AD.html" >八卦岭</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s7%E5%8F%B7%E7%BA%BF-t%E7%BA%A2%E5%B2%AD%E5%8C%97.html" >红岭北</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s7%E5%8F%B7%E7%BA%BF-t%E7%AC%8B%E5%B2%97.html" >笋岗</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s7%E5%8F%B7%E7%BA%BF-t%E6%B4%AA%E6%B9%96.html" >洪湖</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s7%E5%8F%B7%E7%BA%BF-t%E7%94%B0%E8%B4%9D.html" >田贝</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s7%E5%8F%B7%E7%BA%BF-t%E5%A4%AA%E5%AE%89.html" >太安</a>
+                                    </span>
+                                                                    </div>
+                                                            </li>
+                                                        <li>
+                                                                <span class="tag">
+                                    <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s9%E5%8F%B7%E7%BA%BF.html" >9号线</a><b></b>
+                                </span>
+                                <div class="con">
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s9%E5%8F%B7%E7%BA%BF.html" >全部</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s9%E5%8F%B7%E7%BA%BF-t%E4%B8%8B%E6%B2%99.html" >下沙</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s9%E5%8F%B7%E7%BA%BF-t%E8%BD%A6%E5%85%AC%E5%BA%99.html" >车公庙</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s9%E5%8F%B7%E7%BA%BF-t%E9%A6%99%E6%A2%85.html" >香梅</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s9%E5%8F%B7%E7%BA%BF-t%E6%99%AF%E7%94%B0.html" >景田</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s9%E5%8F%B7%E7%BA%BF-t%E6%A2%85%E6%99%AF.html" >梅景</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s9%E5%8F%B7%E7%BA%BF-t%E4%B8%8B%E6%A2%85%E6%9E%97.html" >下梅林</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s9%E5%8F%B7%E7%BA%BF-t%E6%A2%85%E6%9D%91.html" >梅村</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s9%E5%8F%B7%E7%BA%BF-t%E4%B8%8A%E6%A2%85%E6%9E%97.html" >上梅林</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s9%E5%8F%B7%E7%BA%BF-t%E5%AD%96%E5%B2%AD.html" >孖岭</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s9%E5%8F%B7%E7%BA%BF-t%E6%B3%A5%E5%B2%97.html" >泥岗</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s9%E5%8F%B7%E7%BA%BF-t%E7%BA%A2%E5%B2%AD%E5%8C%97.html" >红岭北</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s9%E5%8F%B7%E7%BA%BF-t%E5%9B%AD%E5%B2%AD.html" >园岭</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s9%E5%8F%B7%E7%BA%BF-t%E7%BA%A2%E5%B2%AD.html" >红岭</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s9%E5%8F%B7%E7%BA%BF-t%E7%BA%A2%E5%B2%AD%E5%8D%97.html" >红岭南</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s9%E5%8F%B7%E7%BA%BF-t%E9%B9%BF%E4%B8%B9%E6%9D%91.html" >鹿丹村</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s9%E5%8F%B7%E7%BA%BF-t%E4%BA%BA%E6%B0%91%E5%8D%97.html" >人民南</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s9%E5%8F%B7%E7%BA%BF-t%E5%90%91%E8%A5%BF%E6%9D%91.html" >向西村</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s9%E5%8F%B7%E7%BA%BF-t%E6%96%87%E9%94%A6.html" >文锦</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s9%E5%8F%B7%E7%BA%BF-t%E9%93%B6%E6%B9%96.html" >银湖</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s9%E5%8F%B7%E7%BA%BF-t%E6%B7%B1%E5%9C%B3%E6%B9%BE%E5%85%AC%E5%9B%AD.html" >深圳湾公园</a>
+                                    </span>
+                                                                    </div>
+                                                            </li>
+                                                        <li>
+                                                                <span class="tag">
+                                    <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s11%E5%8F%B7%E7%BA%BF.html" >11号线</a><b></b>
+                                </span>
+                                <div class="con">
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s11%E5%8F%B7%E7%BA%BF.html" >全部</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s11%E5%8F%B7%E7%BA%BF-t%E7%A6%8F%E7%94%B0.html" >福田</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s11%E5%8F%B7%E7%BA%BF-t%E8%BD%A6%E5%85%AC%E5%BA%99.html" >车公庙</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s11%E5%8F%B7%E7%BA%BF-t%E5%90%8E%E6%B5%B7.html" >后海</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s11%E5%8F%B7%E7%BA%BF-t%E5%8D%97%E5%B1%B1.html" >南山</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s11%E5%8F%B7%E7%BA%BF-t%E5%89%8D%E6%B5%B7%E6%B9%BE.html" >前海湾</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s11%E5%8F%B7%E7%BA%BF-t%E5%AE%9D%E5%AE%89.html" >宝安</a>
+                                    </span>
+                                                                        <span class="tag">
+                                        <a href="//sz.ziroom.com/z/nl/z1-u1-x6-s11%E5%8F%B7%E7%BA%BF-t%E7%A2%A7%E6%B5%B7%E6%B9%BE.html" >碧海湾</a>
+                                    </span>
+                                                                    </div>
+                                                            </li>
+                                                    </ul>
+                    </dd>
+                </dl>
+                                                    <dl class="clearfix zIndex4">
+                        <dt>租金：</dt>
+                        <dd>
+                            <div class="clearfix t">
+                                                                    <a href="//sz.ziroom.com/z/nl/z1-d23008679-u1-x6.html" class="active2" >不限</a>
+                                                                    <a href="//sz.ziroom.com/z/nl/z1-d23008679-u1-x6-r1.html"  >1500元以下</a>
+                                                                    <a href="//sz.ziroom.com/z/nl/z1-d23008679-u1-x6-r2.html"  >1500~2000元</a>
+                                                                    <a href="//sz.ziroom.com/z/nl/z1-d23008679-u1-x6-r3.html"  >2000~3000元</a>
+                                                                    <a href="//sz.ziroom.com/z/nl/z1-d23008679-u1-x6-r4.html"  >3000~5000元</a>
+                                                                    <a href="//sz.ziroom.com/z/nl/z1-d23008679-u1-x6-r5.html"  >5000~6500元</a>
+                                                                    <a href="//sz.ziroom.com/z/nl/z1-d23008679-u1-x6-r6.html"  >6500~8000元</a>
+                                                                    <a href="//sz.ziroom.com/z/nl/z1-d23008679-u1-x6-r7.html"  >8000元以上</a>
+                                                                <span class="pricebetween">
+                                    <input id="pricedown" class="textipt posi1" value="" type="text" /><i class="posi4">-</i>
+                                    <input id="priceup" class="textipt posi2" value="" type="text" /><i class="posi5">元</i>
+                                    <input class="buttipt posi3" name="" type="button" onclick="url_date11();" value="确定" />
+                                </span>
+                            </div>
+                        </dd>
+                    </dl>
+                                                    <dl class="clearfix zIndex3">
+                        <dt>居室：</dt>
+                        <dd>
+                            <div class="clearfix t">
+                                                                <a href="//sz.ziroom.com/z/nl/z1-d23008679-x6.html"  >不限</a>
+                                                                <a href="//sz.ziroom.com/z/nl/z1-d23008679-u1-x6.html"   class="active2"   >1居</a>
+                                                                <a href="//sz.ziroom.com/z/nl/z1-d23008679-u2-x6.html"  >2居</a>
+                                                                <a href="//sz.ziroom.com/z/nl/z1-d23008679-u3-x6.html"  >3居</a>
+                                                                <a href="//sz.ziroom.com/z/nl/z1-d23008679-u4-x6.html"  >4居</a>
+                                                                <a href="//sz.ziroom.com/z/nl/z1-d23008679-u5-x6.html"  >4居以上</a>
+                                                            </div>
+                        </dd>
+                    </dl>
+                                                    <dl class="clearfix zIndex2">
+                        <dt>面积：</dt>
+                        <dd>
+                            <div class="clearfix t">
+                                                                <a href="//sz.ziroom.com/z/nl/z1-d23008679-u1-x6.html" class="active2" >不限</a>
+                                                                <a href="//sz.ziroom.com/z/nl/z1-d23008679-u1-x6-a1.html"  >40㎡以下</a>
+                                                                <a href="//sz.ziroom.com/z/nl/z1-d23008679-u1-x6-a2.html"  >40~60㎡</a>
+                                                                <a href="//sz.ziroom.com/z/nl/z1-d23008679-u1-x6-a3.html"  >60~80㎡</a>
+                                                                <a href="//sz.ziroom.com/z/nl/z1-d23008679-u1-x6-a4.html"  >80~100㎡</a>
+                                                                <a href="//sz.ziroom.com/z/nl/z1-d23008679-u1-x6-a5.html"  >100~120㎡</a>
+                                                                <a href="//sz.ziroom.com/z/nl/z1-d23008679-u1-x6-a6.html"  >120㎡以上</a>
+                                                            </div>
+                        </dd>
+                    </dl>
+                                
+                <dl class="clearfix last zIndex1">
+                    <dt>更多：</dt>
+                    <dd class="t_more_dd">
+                        <script>
+                            $(function() {
+                                $(".has_downmenu_li").t_downmenu_fn();
+                            });
+                        </script>
+                        <ul class="fl" id="more_radio_list">
+                            <li class="has_downmenu_li">
+                                <a class="t_li" href="javascript:void(0)">朝向<b></b></a>
+                                <ul class="t_ul">
+                                                                        <li><a href="//sz.ziroom.com/z/nl/z1-d23008679-u1-x6.html" class="bor" >不限</a></li>
+                                                                        <li><a href="//sz.ziroom.com/z/nl/z1-d23008679-u1-x6-g1.html" >东</a></li>
+                                                                        <li><a href="//sz.ziroom.com/z/nl/z1-d23008679-u1-x6-g2.html" >南</a></li>
+                                                                        <li><a href="//sz.ziroom.com/z/nl/z1-d23008679-u1-x6-g3.html" >西</a></li>
+                                                                        <li><a href="//sz.ziroom.com/z/nl/z1-d23008679-u1-x6-g4.html" >北</a></li>
+                                                                        <li><a href="//sz.ziroom.com/z/nl/z1-d23008679-u1-x6-g5.html" >东南</a></li>
+                                                                        <li><a href="//sz.ziroom.com/z/nl/z1-d23008679-u1-x6-g6.html" >东西</a></li>
+                                                                        <li><a href="//sz.ziroom.com/z/nl/z1-d23008679-u1-x6-g7.html" >东北</a></li>
+                                                                        <li><a href="//sz.ziroom.com/z/nl/z1-d23008679-u1-x6-g8.html" >西南</a></li>
+                                                                        <li><a href="//sz.ziroom.com/z/nl/z1-d23008679-u1-x6-g9.html" >南北</a></li>
+                                                                        <li><a href="//sz.ziroom.com/z/nl/z1-d23008679-u1-x6-g10.html" >西北</a></li>
+                                                                    </ul>
+                            </li>
+                                                                                                                <li><a class="checkbox checkboxActive" href="//sz.ziroom.com/z/nl/z1-d23008679-u1.html" >地铁十分钟</a></li>
+                                                        <li><a class="checkbox " href="//sz.ziroom.com/z/nl/z1-d23008679-u1-x6%2C4.html" >智能锁</a></li>
+                                                    </ul>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="none_id" class="t_shuaichoose_keyword area clearfix">
+        <b class="pl20">你已选择:</b>
+        <span><a href="//sz.ziroom.com/z/nl/z1-u1-x6.html">南山区<i class="s_close"></i></a></span>
+        <span><a href="//sz.ziroom.com/z/nl/d23008679-u1-x6.html">自如整租<i class="s_close"></i></a></span>
+        <span><a href="//sz.ziroom.com/z/nl/z1-d23008679-x6.html">1居<i class="s_close"></i></a></span>
+        <span><a href="//sz.ziroom.com/z/nl/z1-d23008679-u1.html">地铁十分钟<i class="s_close"></i></a></span>
+        <i></i><span class="delete"><a href="//sz.ziroom.com/z/nl/z3.html">全部删除</a></span>
+    </div>
+
+<div class="t_myarea t_mainbox clearfix mt15 t_zindex0">
+    <div class="t_newlistbox">
+        <div class="t_shuaichoose_order">
+                        <ul class="clearfix" id="order_ul">
+                                <li class='grayarr1'><a href='//sz.ziroom.com/z/nl/z1-d23008679-u1-x6.html' title='默认排序'>默认排序</a></li>
+                                <li class='grayarr'><a href='//sz.ziroom.com/z/nl/z1-d23008679-u1-x6-o1.html' title='点击按价格从低到高排序'>价格<i></i></a></li>
+                                <li class='grayarr'><a href='//sz.ziroom.com/z/nl/z1-d23008679-u1-x6-o4.html' title='点击按面积从大到小排序'>面积<i></i></a></li>
+                            </ul>
+                        <div class="t_shuaichoose_order_page">
+                 <a class="next" href="//sz.ziroom.com/z/nl/z1-d23008679-u1-x6.html?p=2"><span class="nextpage"></span></a> <span class="pagenum"><b class="corg1">1</b>/3</span> <a class="prev" href="//sz.ziroom.com/z/nl/z1-d23008679-u1-x6.html?p=1"><span class="prepage"></span></a>            </div>
+        </div>
+                <ul id="houseList">
+                            <li class="clearfix">
+                    <div class="img pr">
+                        <a target="_blank" href="//sz.ziroom.com/z/vr/61469660.html"><img src="//static8.ziroom.com/phoenix/pc/images/list/loading.jpg" _src="//img.ziroom.com/pic/house_images/g2/M00/93/DE/ChAFD1tfCQ2AFPioACMbZgdbROM613.jpg_C_264_198_Q80.jpg" _webpsrc="//img.ziroom.com/pic/house_images/g2/M00/93/DE/ChAFD1tfCQ2AFPioACMbZgdbROM613.jpg_C_264_198_Q80.webp" alt="学子荔园" /></a>
+                    </div>
+                    <div class="txt">
+                        <h3><a target="_blank" href="//sz.ziroom.com/z/vr/61469660.html" class="t1">整租 · 学子荔园1居室-南</a></h3>
+                        <h4><a target="_blank" href="//sz.ziroom.com/z/vr/61469660.html">[南山区大学城] 5号线(环中线)留仙洞</a></h4>
+                        <div class="detail">
+                            <p>
+                                <span>30 ㎡</span>|
+                                <span>6/7层</span>|
+                                <span>1室1厅</span>
+                            </p>
+                            <p><span>距5号线(环中线)留仙洞站645米</span></p>
+                                                    </div>
+                        <p class="room_tags clearfix">
+                                                <span class="subway">离地铁近</span>
+                                                                                                                                                                                                <span class="style">整租4.0 优格</span>
+                                                </p>
+                    </div>
+                    <div class="priceDetail">
+                        <p value="" class="price">
+                            <span class="gray-6">(每月)</span>
+                        </p>
+                        <p class="more"><a href="//sz.ziroom.com/z/vr/61469660.html" target="_blank">查看更多</a></p>
+                    </div>
+                </li>
+                            <li class="clearfix">
+                    <div class="img pr">
+                        <a target="_blank" href="//sz.ziroom.com/z/vr/61561901.html"><img src="//static8.ziroom.com/phoenix/pc/images/list/loading.jpg" _src="//img.ziroom.com/pic/house_images/g2m1/M00/0A/0B/ChAFBltkW2OAKvnAAB3kJyqwt4w106.JPG_C_264_198_Q80.jpg" _webpsrc="//img.ziroom.com/pic/house_images/g2m1/M00/0A/0B/ChAFBltkW2OAKvnAAB3kJyqwt4w106.JPG_C_264_198_Q80.webp" alt="桃苑小区" /></a>
+                    </div>
+                    <div class="txt">
+                        <h3><a target="_blank" href="//sz.ziroom.com/z/vr/61561901.html" class="t1">整租 · 桃苑小区1居室-南</a></h3>
+                        <h4><a target="_blank" href="//sz.ziroom.com/z/vr/61561901.html">[南山区南头] 1号线(罗宝线)桃园</a></h4>
+                        <div class="detail">
+                            <p>
+                                <span>31.58 ㎡</span>|
+                                <span>6/7层</span>|
+                                <span>1室1厅</span>
+                            </p>
+                            <p><span>距1号线(罗宝线)桃园站423米</span></p>
+                                                    </div>
+                        <p class="room_tags clearfix">
+                                                <span class="subway">离地铁近</span>
+                                                                                                                                                                                                <span class="style">整租4.0 清语</span>
+                                                </p>
+                    </div>
+                    <div class="priceDetail">
+                        <p value="" class="price">
+                            <span class="gray-6">(每月)</span>
+                        </p>
+                        <p class="more"><a href="//sz.ziroom.com/z/vr/61561901.html" target="_blank">查看更多</a></p>
+                    </div>
+                </li>
+                            <li class="clearfix">
+                    <div class="img pr">
+                        <a target="_blank" href="//sz.ziroom.com/z/vr/61522120.html"><img src="//static8.ziroom.com/phoenix/pc/images/list/loading.jpg" _src="//img.ziroom.com/pic/house_images/g2/M00/7E/1F/ChAFD1tW3aOAO1MrAAYsVvPeh5A732.JPG_C_264_198_Q80.jpg" _webpsrc="//img.ziroom.com/pic/house_images/g2/M00/7E/1F/ChAFD1tW3aOAO1MrAAYsVvPeh5A732.JPG_C_264_198_Q80.webp" alt="绿海名都" /></a>
+                    </div>
+                    <div class="txt">
+                        <h3><a target="_blank" href="//sz.ziroom.com/z/vr/61522120.html" class="t1">整租 · 绿海名都1居室-南</a></h3>
+                        <h4><a target="_blank" href="//sz.ziroom.com/z/vr/61522120.html">[南山区南头] 1号线(罗宝线)大新</a></h4>
+                        <div class="detail">
+                            <p>
+                                <span>40 ㎡</span>|
+                                <span>3/18层</span>|
+                                <span>1室1厅</span>
+                            </p>
+                            <p><span>距1号线(罗宝线)大新站322米</span></p>
+                                                    </div>
+                        <p class="room_tags clearfix">
+                                                <span class="subway">离地铁近</span>
+                                                                                                <span class="balcony">独立阳台</span>
+                                                                                                                                                <span class="style">整租4.0 清语</span>
+                                                </p>
+                    </div>
+                    <div class="priceDetail">
+                        <p value="" class="price">
+                            <span class="gray-6">(每月)</span>
+                        </p>
+                        <p class="more"><a href="//sz.ziroom.com/z/vr/61522120.html" target="_blank">查看更多</a></p>
+                    </div>
+                </li>
+                            <li class="clearfix">
+                    <div class="img pr">
+                        <a target="_blank" href="//sz.ziroom.com/z/vr/61502274.html"><img src="//static8.ziroom.com/phoenix/pc/images/list/loading.jpg" _src="//img.ziroom.com/pic/house_images/g2/M00/77/0B/ChAFfVtUCpuAN9ycAAWEAQFM50c697.JPG_C_264_198_Q80.jpg" _webpsrc="//img.ziroom.com/pic/house_images/g2/M00/77/0B/ChAFfVtUCpuAN9ycAAWEAQFM50c697.JPG_C_264_198_Q80.webp" alt="荔馨村南山区" /></a>
+                    </div>
+                    <div class="txt">
+                        <h3><a target="_blank" href="//sz.ziroom.com/z/vr/61502274.html" class="t1">整租 · 荔馨村南山区1居室-南</a></h3>
+                        <h4><a target="_blank" href="//sz.ziroom.com/z/vr/61502274.html">[南山区南头] 1号线(罗宝线)桃园</a></h4>
+                        <div class="detail">
+                            <p>
+                                <span>41 ㎡</span>|
+                                <span>2/7层</span>|
+                                <span>1室1厅</span>
+                            </p>
+                            <p><span>距1号线(罗宝线)桃园站462米</span></p>
+                                                    </div>
+                        <p class="room_tags clearfix">
+                                                <span class="subway">离地铁近</span>
+                                                                                                <span class="balcony">独立阳台</span>
+                                                                                                                                                <span class="style">整租4.0 清语</span>
+                                                </p>
+                    </div>
+                    <div class="priceDetail">
+                        <p value="" class="price">
+                            <span class="gray-6">(每月)</span>
+                        </p>
+                        <p class="more"><a href="//sz.ziroom.com/z/vr/61502274.html" target="_blank">查看更多</a></p>
+                    </div>
+                </li>
+                            <li class="clearfix">
+                    <div class="img pr">
+                        <a target="_blank" href="//sz.ziroom.com/z/vr/61509029.html"><img src="//static8.ziroom.com/phoenix/pc/images/list/loading.jpg" _src="//img.ziroom.com/pic/house_images/g2m1/M00/05/FE/ChAFBlti0muAYuPEAAnXQqbPe28806.jpg_C_264_198_Q80.jpg" _webpsrc="//img.ziroom.com/pic/house_images/g2m1/M00/05/FE/ChAFBlti0muAYuPEAAnXQqbPe28806.jpg_C_264_198_Q80.webp" alt="天骄华庭" /></a>
+                    </div>
+                    <div class="txt">
+                        <h3><a target="_blank" href="//sz.ziroom.com/z/vr/61509029.html" class="t1">整租 · 天骄华庭1居室-南</a></h3>
+                        <h4><a target="_blank" href="//sz.ziroom.com/z/vr/61509029.html">[南山区] 2号线(蛇口线)海月</a></h4>
+                        <div class="detail">
+                            <p>
+                                <span>40 ㎡</span>|
+                                <span>6/16层</span>|
+                                <span>1室1厅</span>
+                            </p>
+                            <p><span>距2号线(蛇口线)海月站158米</span></p>
+                                                    </div>
+                        <p class="room_tags clearfix">
+                                                <span class="subway">离地铁近</span>
+                                                                                                                                                                                                <span class="style">整租4.0 清语</span>
+                                                </p>
+                    </div>
+                    <div class="priceDetail">
+                        <p value="" class="price">
+                            <span class="gray-6">(每月)</span>
+                        </p>
+                        <p class="more"><a href="//sz.ziroom.com/z/vr/61509029.html" target="_blank">查看更多</a></p>
+                    </div>
+                </li>
+                            <li class="clearfix">
+                    <div class="img pr">
+                        <a target="_blank" href="//sz.ziroom.com/z/vr/61564557.html"><img src="//static8.ziroom.com/phoenix/pc/images/list/loading.jpg" _src="//img.ziroom.com/pic/house_images/g2/M00/93/52/ChAFfVte6uKAX-LQAAqrciG5-Gs628.jpg_C_264_198_Q80.jpg" _webpsrc="//img.ziroom.com/pic/house_images/g2/M00/93/52/ChAFfVte6uKAX-LQAAqrciG5-Gs628.jpg_C_264_198_Q80.webp" alt="天骄华庭" /></a>
+                    </div>
+                    <div class="txt">
+                        <h3><a target="_blank" href="//sz.ziroom.com/z/vr/61564557.html" class="t1">整租 · 天骄华庭1居室-南</a></h3>
+                        <h4><a target="_blank" href="//sz.ziroom.com/z/vr/61564557.html">[南山区] 2号线(蛇口线)海月</a></h4>
+                        <div class="detail">
+                            <p>
+                                <span>40 ㎡</span>|
+                                <span>12/16层</span>|
+                                <span>1室1厅</span>
+                            </p>
+                            <p><span>距2号线(蛇口线)海月站158米</span></p>
+                                                    </div>
+                        <p class="room_tags clearfix">
+                                                <span class="subway">离地铁近</span>
+                                                                                                                                                                                                <span class="style">整租4.0 清语</span>
+                                                </p>
+                    </div>
+                    <div class="priceDetail">
+                        <p value="" class="price">
+                            <span class="gray-6">(每月)</span>
+                        </p>
+                        <p class="more"><a href="//sz.ziroom.com/z/vr/61564557.html" target="_blank">查看更多</a></p>
+                    </div>
+                </li>
+                            <li class="clearfix">
+                    <div class="img pr">
+                        <a target="_blank" href="//sz.ziroom.com/z/vr/61501191.html"><img src="//static8.ziroom.com/phoenix/pc/images/list/loading.jpg" _src="//img.ziroom.com/pic/house_images/g2/M00/7E/20/ChAFD1tW3eaALA5DAAZl8aZi3YY164.JPG_C_264_198_Q80.jpg" _webpsrc="//img.ziroom.com/pic/house_images/g2/M00/7E/20/ChAFD1tW3eaALA5DAAZl8aZi3YY164.JPG_C_264_198_Q80.webp" alt="苏豪名厦" /></a>
+                    </div>
+                    <div class="txt">
+                        <h3><a target="_blank" href="//sz.ziroom.com/z/vr/61501191.html" class="t1">整租 · 苏豪名厦1居室-西</a></h3>
+                        <h4><a target="_blank" href="//sz.ziroom.com/z/vr/61501191.html">[南山区南头] 1号线(罗宝线)大新</a></h4>
+                        <div class="detail">
+                            <p>
+                                <span>51 ㎡</span>|
+                                <span>28/28层</span>|
+                                <span>1室1厅</span>
+                            </p>
+                            <p><span>距1号线(罗宝线)大新站406米</span></p>
+                                                    </div>
+                        <p class="room_tags clearfix">
+                                                <span class="subway">离地铁近</span>
+                                                                                                                                                                                                <span class="style">整租4.0 清语</span>
+                                                </p>
+                    </div>
+                    <div class="priceDetail">
+                        <p value="" class="price">
+                            <span class="gray-6">(每月)</span>
+                        </p>
+                        <p class="more"><a href="//sz.ziroom.com/z/vr/61501191.html" target="_blank">查看更多</a></p>
+                    </div>
+                </li>
+                            <li class="clearfix">
+                    <div class="img pr">
+                        <a target="_blank" href="//sz.ziroom.com/z/vr/61432104.html"><img src="//static8.ziroom.com/phoenix/pc/images/list/loading.jpg" _src="//img.ziroom.com/pic/house_images/g2/M00/36/FA/ChAFfVs2ISqAHwcfAB2zE-BR7xg490.JPG_C_264_198_Q80.jpg" _webpsrc="//img.ziroom.com/pic/house_images/g2/M00/36/FA/ChAFfVs2ISqAHwcfAB2zE-BR7xg490.JPG_C_264_198_Q80.webp" alt="好来居" /></a>
+                    </div>
+                    <div class="txt">
+                        <h3><a target="_blank" href="//sz.ziroom.com/z/vr/61432104.html" class="t1">整租 · 好来居1居室-北</a></h3>
+                        <h4><a target="_blank" href="//sz.ziroom.com/z/vr/61432104.html">[南山区南山中心] 11号线南山</a></h4>
+                        <div class="detail">
+                            <p>
+                                <span>26 ㎡</span>|
+                                <span>7/20层</span>|
+                                <span>1室1厅</span>
+                            </p>
+                            <p><span>距11号线南山站308米</span></p>
+                                                    </div>
+                        <p class="room_tags clearfix">
+                                                <span class="subway">离地铁近</span>
+                                                                                                                                                                                                <span class="style">整租4.0 清语</span>
+                                                </p>
+                    </div>
+                    <div class="priceDetail">
+                        <p value="" class="price">
+                            <span class="gray-6">(每月)</span>
+                        </p>
+                        <p class="more"><a href="//sz.ziroom.com/z/vr/61432104.html" target="_blank">查看更多</a></p>
+                    </div>
+                </li>
+                            <li class="clearfix">
+                    <div class="img pr">
+                        <a target="_blank" href="//sz.ziroom.com/z/vr/61245608.html"><img src="//static8.ziroom.com/phoenix/pc/images/list/loading.jpg" _src="//img.ziroom.com/pic/house_images/g2/M00/97/57/ChAFfVtgaP2ATDZjACICazV5gOg341.jpg_C_264_198_Q80.jpg" _webpsrc="//img.ziroom.com/pic/house_images/g2/M00/97/57/ChAFfVtgaP2ATDZjACICazV5gOg341.jpg_C_264_198_Q80.webp" alt="德意名居一期" /></a>
+                    </div>
+                    <div class="txt">
+                        <h3><a target="_blank" href="//sz.ziroom.com/z/vr/61245608.html" class="t1">整租 · 德意名居一期1居室-北</a></h3>
+                        <h4><a target="_blank" href="//sz.ziroom.com/z/vr/61245608.html">[南山区] 5号线(环中线)大学城</a></h4>
+                        <div class="detail">
+                            <p>
+                                <span>32.16 ㎡</span>|
+                                <span>2/5层</span>|
+                                <span>1室1厅</span>
+                            </p>
+                            <p><span>距5号线(环中线)大学城站916米</span></p>
+                                                    </div>
+                        <p class="room_tags clearfix">
+                                                <span class="subway">离地铁近</span>
+                                                                                                                                                                                                <span class="style">整租4.0 优格</span>
+                                                </p>
+                    </div>
+                    <div class="priceDetail">
+                        <p value="" class="price">
+                            <span class="gray-6">(每月)</span>
+                        </p>
+                        <p class="more"><a href="//sz.ziroom.com/z/vr/61245608.html" target="_blank">查看更多</a></p>
+                    </div>
+                </li>
+                            <li class="clearfix">
+                    <div class="img pr">
+                        <a target="_blank" href="//sz.ziroom.com/z/vr/61524901.html"><img src="//static8.ziroom.com/phoenix/pc/images/list/loading.jpg" _src="//img.ziroom.com/pic/house_images/g2/M00/6F/0F/ChAFD1tQjvGAZI5kABK0rX7v_Qg094.JPG_C_264_198_Q80.jpg" _webpsrc="//img.ziroom.com/pic/house_images/g2/M00/6F/0F/ChAFD1tQjvGAZI5kABK0rX7v_Qg094.JPG_C_264_198_Q80.webp" alt="沙河观景阁" /></a>
+                    </div>
+                    <div class="txt">
+                        <h3><a target="_blank" href="//sz.ziroom.com/z/vr/61524901.html" class="t1">整租 · 沙河观景阁1居室-北</a></h3>
+                        <h4><a target="_blank" href="//sz.ziroom.com/z/vr/61524901.html">[南山区世界之窗] 1号线(罗宝线)白石洲</a></h4>
+                        <div class="detail">
+                            <p>
+                                <span>45 ㎡</span>|
+                                <span>10/15层</span>|
+                                <span>1室1厅</span>
+                            </p>
+                            <p><span>距1号线(罗宝线)白石洲站393米</span></p>
+                                                    </div>
+                        <p class="room_tags clearfix">
+                                                <span class="subway">离地铁近</span>
+                                                                                                                                                                                                <span class="style">整租4.0 清语</span>
+                                                </p>
+                    </div>
+                    <div class="priceDetail">
+                        <p value="" class="price">
+                            <span class="gray-6">(每月)</span>
+                        </p>
+                        <p class="more"><a href="//sz.ziroom.com/z/vr/61524901.html" target="_blank">查看更多</a></p>
+                    </div>
+                </li>
+                            <li class="clearfix">
+                    <div class="img pr">
+                        <a target="_blank" href="//sz.ziroom.com/z/vr/61555450.html"><img src="//static8.ziroom.com/phoenix/pc/images/list/loading.jpg" _src="//img.ziroom.com/pic/house_images/g2/M00/89/4A/ChAFD1tbEY6Ad457AASJ7fkY0Os520.JPG_C_264_198_Q80.jpg" _webpsrc="//img.ziroom.com/pic/house_images/g2/M00/89/4A/ChAFD1tbEY6Ad457AASJ7fkY0Os520.JPG_C_264_198_Q80.webp" alt="深蓝季节" /></a>
+                    </div>
+                    <div class="txt">
+                        <h3><a target="_blank" href="//sz.ziroom.com/z/vr/61555450.html" class="t1">整租 · 深蓝季节1居室-东</a></h3>
+                        <h4><a target="_blank" href="//sz.ziroom.com/z/vr/61555450.html">[南山区南油] 2号线(蛇口线)登良</a></h4>
+                        <div class="detail">
+                            <p>
+                                <span>45 ㎡</span>|
+                                <span>16/32层</span>|
+                                <span>1室1厅</span>
+                            </p>
+                            <p><span>距2号线(蛇口线)登良站945米</span></p>
+                                                    </div>
+                        <p class="room_tags clearfix">
+                                                <span class="subway">离地铁近</span>
+                                                                                                                                                                                                <span class="style">整租4.0 清语</span>
+                                                </p>
+                    </div>
+                    <div class="priceDetail">
+                        <p value="" class="price">
+                            <span class="gray-6">(每月)</span>
+                        </p>
+                        <p class="more"><a href="//sz.ziroom.com/z/vr/61555450.html" target="_blank">查看更多</a></p>
+                    </div>
+                </li>
+                            <li class="clearfix">
+                    <div class="img pr">
+                        <a target="_blank" href="//sz.ziroom.com/z/vr/61566278.html"><img src="//static8.ziroom.com/phoenix/pc/images/list/loading.jpg" _src="//img.ziroom.com/pic/house_images/g2m1/M00/08/CA/ChAFB1tkVhaAFfyiAB4MZKR0nc4323.JPG_C_264_198_Q80.jpg" _webpsrc="//img.ziroom.com/pic/house_images/g2m1/M00/08/CA/ChAFB1tkVhaAFfyiAB4MZKR0nc4323.JPG_C_264_198_Q80.webp" alt="前海时代广场" /></a>
+                    </div>
+                    <div class="txt">
+                        <h3><a target="_blank" href="//sz.ziroom.com/z/vr/61566278.html" class="t1">整租 · 前海时代广场1居室-东</a></h3>
+                        <h4><a target="_blank" href="//sz.ziroom.com/z/vr/61566278.html">[南山区] 1号线(罗宝线)鲤鱼门</a></h4>
+                        <div class="detail">
+                            <p>
+                                <span>49 ㎡</span>|
+                                <span>18/27层</span>|
+                                <span>1室1厅</span>
+                            </p>
+                            <p><span>距1号线(罗宝线)鲤鱼门站683米</span></p>
+                                                    </div>
+                        <p class="room_tags clearfix">
+                                                <span class="subway">离地铁近</span>
+                                                                                                                                                                                                <span class="style">整租4.0 清语</span>
+                                                </p>
+                    </div>
+                    <div class="priceDetail">
+                        <p value="" class="price">
+                            <span class="gray-6">(每月)</span>
+                        </p>
+                        <p class="more"><a href="//sz.ziroom.com/z/vr/61566278.html" target="_blank">查看更多</a></p>
+                    </div>
+                </li>
+                            <li class="clearfix">
+                    <div class="img pr">
+                        <a target="_blank" href="//sz.ziroom.com/z/vr/61558419.html"><img src="//static8.ziroom.com/phoenix/pc/images/list/loading.jpg" _src="//img.ziroom.com/pic/house_images/g2m1/M00/02/3B/ChAFB1thoc-Aek5YAAOVs9BINcQ938.JPG_C_264_198_Q80.jpg" _webpsrc="//img.ziroom.com/pic/house_images/g2m1/M00/02/3B/ChAFB1thoc-Aek5YAAOVs9BINcQ938.JPG_C_264_198_Q80.webp" alt="金钟大厦" /></a>
+                    </div>
+                    <div class="txt">
+                        <h3><a target="_blank" href="//sz.ziroom.com/z/vr/61558419.html" class="t1">整租 · 金钟大厦1居室-西</a></h3>
+                        <h4><a target="_blank" href="//sz.ziroom.com/z/vr/61558419.html">[南山区南山中心] 11号线南山</a></h4>
+                        <div class="detail">
+                            <p>
+                                <span>37 ㎡</span>|
+                                <span>19/30层</span>|
+                                <span>1室1厅</span>
+                            </p>
+                            <p><span>距11号线南山站859米</span></p>
+                                                    </div>
+                        <p class="room_tags clearfix">
+                                                <span class="subway">离地铁近</span>
+                                                                                                                                                                                                <span class="style">整租4.0 清语</span>
+                                                </p>
+                    </div>
+                    <div class="priceDetail">
+                        <p value="" class="price">
+                            <span class="gray-6">(每月)</span>
+                        </p>
+                        <p class="more"><a href="//sz.ziroom.com/z/vr/61558419.html" target="_blank">查看更多</a></p>
+                    </div>
+                </li>
+                            <li class="clearfix">
+                    <div class="img pr">
+                        <a target="_blank" href="//sz.ziroom.com/z/vr/61553025.html"><img src="//static8.ziroom.com/phoenix/pc/images/list/loading.jpg" _src="//img.ziroom.com/pic/static/images/slist_1207/defaultPZZ/fresh-canbook.jpg_C_264_198_Q80.jpg" _webpsrc="//img.ziroom.com/pic/static/images/slist_1207/defaultPZZ/fresh-canbook.jpg_C_264_198_Q80.webp" alt="中兴之家" /></a>
+                    </div>
+                    <div class="txt">
+                        <h3><a target="_blank" href="//sz.ziroom.com/z/vr/61553025.html" class="t1">整租 · 中兴之家1居室-南</a></h3>
+                        <h4><a target="_blank" href="//sz.ziroom.com/z/vr/61553025.html">[南山区南头] 11号线南山</a></h4>
+                        <div class="detail">
+                            <p>
+                                <span>约30 ㎡</span>|
+                                <span>7/8层</span>|
+                                <span>1室1厅</span>
+                            </p>
+                            <p><span>距11号线南山站363米</span></p>
+                                                    </div>
+                        <p class="room_tags clearfix">
+                                                <span class="subway">离地铁近</span>
+                                                                                                                                                                                                <span class="style">整租4.0 清语</span>
+                                                </p>
+                    </div>
+                    <div class="priceDetail">
+                        <p value="" class="price">
+                            <span class="gray-6">(每月)</span>
+                        </p>
+                        <p class="more"><a href="//sz.ziroom.com/z/vr/61553025.html" target="_blank">查看更多</a></p>
+                    </div>
+                </li>
+                            <li class="clearfix">
+                    <div class="img pr">
+                        <a target="_blank" href="//sz.ziroom.com/z/vr/60993105.html"><img src="//static8.ziroom.com/phoenix/pc/images/list/loading.jpg" _src="//img.ziroom.com/pic/house_images/g2/M00/88/49/ChAFfVta2HeAHUHHAATwuWzrghY014.JPG_C_264_198_Q80.jpg" _webpsrc="//img.ziroom.com/pic/house_images/g2/M00/88/49/ChAFfVta2HeAHUHHAATwuWzrghY014.JPG_C_264_198_Q80.webp" alt="太古城南" /></a>
+                    </div>
+                    <div class="txt">
+                        <h3><a target="_blank" href="//sz.ziroom.com/z/vr/60993105.html" class="t1">整租 · 太古城南1居室-南</a></h3>
+                        <h4><a target="_blank" href="//sz.ziroom.com/z/vr/60993105.html">[南山区海岸城] 2号线(蛇口线)海月</a></h4>
+                        <div class="detail">
+                            <p>
+                                <span>42 ㎡</span>|
+                                <span>16/24层</span>|
+                                <span>1室1厅</span>
+                            </p>
+                            <p><span>距2号线(蛇口线)海月站98米</span></p>
+                                                    </div>
+                        <p class="room_tags clearfix">
+                                                <span class="subway">离地铁近</span>
+                                                                                                                                                                                                <span class="style">整租4.0 清语</span>
+                                                </p>
+                    </div>
+                    <div class="priceDetail">
+                        <p value="" class="price">
+                            <span class="gray-6">(每月)</span>
+                        </p>
+                        <p class="more"><a href="//sz.ziroom.com/z/vr/60993105.html" target="_blank">查看更多</a></p>
+                    </div>
+                </li>
+                            <li class="clearfix">
+                    <div class="img pr">
+                        <a target="_blank" href="//sz.ziroom.com/z/vr/40003600.html"><img src="//static8.ziroom.com/phoenix/pc/images/list/loading.jpg" _src="//img.ziroom.com/pic/house_images/g2/M00/96/69/ChAFD1tgNlOABAEpAByH0bJpocA661.jpg_C_264_198_Q80.jpg" _webpsrc="//img.ziroom.com/pic/house_images/g2/M00/96/69/ChAFD1tgNlOABAEpAByH0bJpocA661.jpg_C_264_198_Q80.webp" alt="万象新园" /></a>
+                    </div>
+                    <div class="txt">
+                        <h3><a target="_blank" href="//sz.ziroom.com/z/vr/40003600.html" class="t1">整租 · 万象新园1居室-北</a></h3>
+                        <h4><a target="_blank" href="//sz.ziroom.com/z/vr/40003600.html">[南山区愉康] 11号线南山</a></h4>
+                        <div class="detail">
+                            <p>
+                                <span>35.1 ㎡</span>|
+                                <span>30/32层</span>|
+                                <span>1室1厅</span>
+                            </p>
+                            <p><span>距11号线南山站279米</span></p>
+                                                    </div>
+                        <p class="room_tags clearfix">
+                                                <span class="subway">离地铁近</span>
+                                                                                                                        <span class="subway">独立供暖</span>
+                                                                                                                        <span class="style">整租1.0 布丁</span>
+                                                </p>
+                    </div>
+                    <div class="priceDetail">
+                        <p value="" class="price">
+                            <span class="gray-6">(每天)</span>
+                        </p>
+                        <p class="more"><a href="//sz.ziroom.com/z/vr/40003600.html" target="_blank">查看更多</a></p>
+                    </div>
+                </li>
+                            <li class="clearfix">
+                    <div class="img pr">
+                        <a target="_blank" href="//sz.ziroom.com/z/vr/61515360.html"><img src="//static8.ziroom.com/phoenix/pc/images/list/loading.jpg" _src="//img.ziroom.com/pic/house_images/g2/M00/72/29/ChAFfVtR226ABW1bABCdmfRHUyU851.JPG_C_264_198_Q80.jpg" _webpsrc="//img.ziroom.com/pic/house_images/g2/M00/72/29/ChAFfVtR226ABW1bABCdmfRHUyU851.JPG_C_264_198_Q80.webp" alt="泰阳硅谷公寓" /></a>
+                    </div>
+                    <div class="txt">
+                        <h3><a target="_blank" href="//sz.ziroom.com/z/vr/61515360.html" class="t1">整租 · 泰阳硅谷公寓1居室-北</a></h3>
+                        <h4><a target="_blank" href="//sz.ziroom.com/z/vr/61515360.html">[南山区科技园北] 1号线(罗宝线)高新园</a></h4>
+                        <div class="detail">
+                            <p>
+                                <span>28 ㎡</span>|
+                                <span>2/7层</span>|
+                                <span>1室1厅</span>
+                            </p>
+                            <p><span>距1号线(罗宝线)高新园站604米</span></p>
+                                                    </div>
+                        <p class="room_tags clearfix">
+                                                <span class="subway">离地铁近</span>
+                                                                                                                                                                                                <span class="style">整租4.0 清语</span>
+                                                </p>
+                    </div>
+                    <div class="priceDetail">
+                        <p value="" class="price">
+                            <span class="gray-6">(每月)</span>
+                        </p>
+                        <p class="more"><a href="//sz.ziroom.com/z/vr/61515360.html" target="_blank">查看更多</a></p>
+                    </div>
+                </li>
+                            <li class="clearfix">
+                    <div class="img pr">
+                        <a target="_blank" href="//sz.ziroom.com/z/vr/61503400.html"><img src="//static8.ziroom.com/phoenix/pc/images/list/loading.jpg" _src="//img.ziroom.com/pic/static/images/slist_1207/defaultPZZ/fresh-canbook.jpg_C_264_198_Q80.jpg" _webpsrc="//img.ziroom.com/pic/static/images/slist_1207/defaultPZZ/fresh-canbook.jpg_C_264_198_Q80.webp" alt="新德家园" /></a>
+                    </div>
+                    <div class="txt">
+                        <h3><a target="_blank" href="//sz.ziroom.com/z/vr/61503400.html" class="t1">整租 · 新德家园1居室-东</a></h3>
+                        <h4><a target="_blank" href="//sz.ziroom.com/z/vr/61503400.html">[南山区前海] 1号线(罗宝线)大新</a></h4>
+                        <div class="detail">
+                            <p>
+                                <span>约47 ㎡</span>|
+                                <span>5/32层</span>|
+                                <span>1室2厅</span>
+                            </p>
+                            <p><span>距1号线(罗宝线)大新站292米</span></p>
+                                                    </div>
+                        <p class="room_tags clearfix">
+                                                <span class="subway">离地铁近</span>
+                                                                                                                                                                                                <span class="style">整租4.0 清语</span>
+                                                </p>
+                    </div>
+                    <div class="priceDetail">
+                        <p value="" class="price">
+                            <span class="gray-6">(每月)</span>
+                        </p>
+                        <p class="more"><a href="//sz.ziroom.com/z/vr/61503400.html" target="_blank">查看更多</a></p>
+                    </div>
+                </li>
+                    </ul>
+                <div class="pages" id="page">
+          <a class="active" href="//sz.ziroom.com/z/nl/z1-d23008679-u1-x6.html?p=1">1</a>
+<a href="//sz.ziroom.com/z/nl/z1-d23008679-u1-x6.html?p=2">2</a>
+<a href="//sz.ziroom.com/z/nl/z1-d23008679-u1-x6.html?p=3">3</a> <a class="next" href="//sz.ziroom.com/z/nl/z1-d23008679-u1-x6.html?p=2">下一页</a>  <span>共3页</span><span class="marL20">到</span><span><input type="text" class="num" id="JumpToPage" value="1"></span><span>页</span><input type="button" class="go" value="确定">        </div>
+    </div>
+</div>
+<!--t_mainbox -->
+<div class="area">
+    <div class="title">
+        <span class="line"></span>
+        <h2 class="cn">
+            <span class="s"></span><span class="t" id="recommendation">精品推荐</span><span class="y2">●</span><span class="gray-a t" id="history">浏览记录</span><span class="y">●</span>
+        </h2>
+        <p class="en">Recommend Room<span class="y">●</span></p>
+    </div>
+<ul class="imgInfo_list clearfix" id="imgInfo_list_1">
+</ul>
+<ul class="imgInfo_list clearfix" id="imgInfo_list_2">
+</ul>    
+</div>
+
+<script>
+var offset_unit = 30;        
+if(window.devicePixelRatio >1){
+    $('body').addClass('ratio2');
+}
+var ROOM_PRICE = {"image":"//static8.ziroom.com/phoenix/pc/images/price/9c859d903436631fdb9fa12ac7139612s.png","offset":[[7,1,2,4],[8,8,7,4],[1,5,2,4],[1,1,0,4],[0,5,2,4],[0,2,0,4],[1,3,0,4],[1,5,4,4],[8,9,2,4],[0,6,0,4],[0,8,7,4],[1,2,2,4],[0,3,0,4],[7,5,2,4],[9,0,7,4],[3,6,2],[1,6,2,4],[0,6,7,4]]};
+
+
+$('#houseList p.price').each(function(i){
+	var dom = $(this);
+	if(!ROOM_PRICE['offset'] || !ROOM_PRICE['offset'][i]) return ;
+	var pos = ROOM_PRICE['offset'][i];
+	for(i in pos){
+		var inx = pos.length -i -1;
+		var seg = $('<span>', {'style':'background-position:-'+(pos[inx]*offset_unit)+'px', 'class':'num'});
+		dom.prepend(seg);
+	}
+	var seg = $('<span>', {'style':'background-position:1000px', 'class':'num rmb'}).html('￥');
+	dom.prepend(seg);
+});
+</script>
+
+<!--/area-->
+<style>
+.price span.num{		
+	display:inline-block;
+	width:20px;
+	height:30px;
+	background-position:1000px;
+	background-repeat:no-repeat;
+	background-image:url(//static8.ziroom.com/phoenix/pc/images/price/9c859d903436631fdb9fa12ac7139612s.png);
+}
+
+	
+body.ratio2 .price span.num{
+    background-size:auto 30px;
+    background-image:url(//static8.ziroom.com/phoenix/pc/images/price/9c859d903436631fdb9fa12ac7139612.png);
+}
+
+.S_customerService{
+    display: none;
+    position: fixed;
+    right: 10px;
+    top: 35%;
+    background-color: #fff;
+    width: 250px;
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 4px 8px;
+    z-index: 999;
+}
+.S_customerTit{
+    height: 40px;
+    background-color: #ffa000;
+    padding: 0 15px;
+}
+.S_customerTit>h3{
+    margin: 0;
+    color: #fff;
+    font-size: 14px;
+    float: left;
+    height: 40px;
+    line-height: 40px;
+}
+.S_customerTit>b{
+    float: right;
+    height: 20px;
+    width: 20px;
+    line-height: 17px;
+    font-size: 16px;
+    color: #fff;
+    margin-top: 9px;
+    border: 1px solid #ffddcc;
+    border-radius: 3px;
+    text-align: center;
+    cursor: pointer;
+}
+.S_customerList{
+    padding: 20px;
+    background-color: #fbfbfb;
+}
+.S_customerListUl{
+    color: #444;
+    padding-left: 15px;
+}
+.S_customerListUl>li{
+    margin-bottom: 15px;
+    cursor: pointer;
+}
+.S_customerListUl>li>a{
+    font-size: 14px;
+    color: #666;
+    text-decoration: none;
+}
+.S_customerListUl>li>a:hover{
+    color: #ffa000;
+    text-decoration: underline;
+}
+.S_customerListUl>li>a.S_customerListBack{
+    font-size: 12px;
+    color: #ffa000;
+}
+</style>
+
+<!-- 客服dom -->
+<div class="S_customerService" id="J_serviceBox">
+
+    <div class="S_customerTit clearfix">
+        <h3 id="J_serviceTit">请选择要咨询的业务</h3>
+        <b id="J_closeService">×</b>
+    </div>
+
+    <div class="S_customerList">
+        <ul class="S_customerListUl" id="J_serviceUl"></ul>
+    </div>
+
+</div>
+
+<div id="slideBar">
+    <ul>
+        <li class="u first">
+            <a href="//passport.ziroom.com/login.html?return_url=//www.ziroom.com"><i class="tab-tip"></i><i class="tab-ico"></i><em class="tab-text">登录注册</em></a>
+        </li>
+        <!--/登录注册-->
+        <li class="w">
+            <a href="//passport.ziroom.com/login.html?return_url=//www.ziroom.com/servicecentre"><i class="tab-tip"></i><i class="tab-ico"></i><em class="tab-text">在线报修</em></a>
+        </li>
+        <!--/维修-->
+        <li class="k" id="slideKefu">
+            <a href="javascript:;"  id="J_openService"><i class="tab-tip"></i><i class="tab-ico"></i><em class="tab-text">在线客服</em></a>
+        </li>
+        <!--/客服-->
+        
+        <li class="y" id="slidePay">
+            <a href="//passport.ziroom.com/login.html?return_url=//i.ziroom.com/?uri=contract/pay"><i class="tab-tip"></i><i class="tab-ico"></i><em class="tab-text">在线交租</em></a>
+        </li>
+        <!--/交租-->
+        <li class="x" id="fankui">
+            <a href="javascript:;"><i class="tab-tip"></i><i class="tab-ico"></i><em class="tab-text">意见反馈</em></a>
+        </li>
+        <!--/反馈-->
+        <li class="m">
+            <a href="javascript:;"><i class="tab-tip"></i><i class="tab-ico"></i><em class="tab-text"><img src="//static8.ziroom.com/phoenix/pc/images/common/ewm.png"></em></a>
+        </li>
+        <!--/二维码-->
+        <li class="t" id="goTop">
+            <a href="javascript:;"><i class="tab-tip"></i><i class="tab-ico"></i><em class="tab-text">返回顶部</em></a>
+        </li>
+        <!--/top-->
+    </ul>
+</div>
+<script src='http://kefu.easemob.com/webim/easemob.js' async='async'></script>
+        <script>
+
+        var SER_URL='http://zmcapi.ziroom.com';
+        var FIRST_MENU=null;
+        var nowId='';
+
+        //页面加载完进行请求获取一级菜单
+        (function(){
+
+            $.ajax({
+                url:SER_URL+'/base/customer-service/getBusinessType',
+                type:'GET',
+                dataType:'jsonp',
+                success:function(data){
+                    if(data.status=='1'){
+                        FIRST_MENU=data.data;
+                        forMenuDom(FIRST_MENU,true);
+                    }
+                    else{
+                        console.log(data);
+                    }
+                }
+            });
+
+        })();
+
+        //打开关闭交互
+        (function(){
+
+            $('#J_openService').click(function(){
+                if(getCookie('emGroup')){
+                    openEaseMobim(getCookie('emGroup'));
+                }
+                else{
+                    $('#J_serviceBox').show();
+                }
+            });
+
+            $('#J_closeService').click(function(){
+                $('#J_serviceBox').hide();
+            });
+
+        })();
+
+        function setCookie(c_name,value,expiredays) {
+            var exdate=new Date();
+            exdate.setDate(exdate.getDate()+expiredays);
+            document.cookie=c_name+ "=" +escape(value)+
+                    ((expiredays==null) ? "" : ";expires="+exdate.toGMTString())
+        }
+
+        function getCookie(c_name) {
+            if (document.cookie.length>0)
+            {
+                var c_start=document.cookie.indexOf(c_name + "=");
+                if (c_start!=-1)
+                {
+                    c_start=c_start + c_name.length+1;
+                    var c_end=document.cookie.indexOf(";",c_start);
+                    if (c_end==-1) c_end=document.cookie.length;
+                    return unescape(document.cookie.substring(c_start,c_end));
+                }
+            }
+            return "";
+        }
+
+        //渲染菜单
+        function forMenuDom(aData,isFirst){
+            $('#J_serviceUl').html('');
+
+            if(isFirst){
+                for(var i=0;i<aData.length;i++){
+                    $('<li><a href="javascript:;" data-id="'+aData[i].id+'" data-hasSub="'+aData[i].hasSubType+'" onclick="clickItem(this)">'+aData[i].value+'</a></li>').appendTo('#J_serviceUl');
+                }
+                $('#J_serviceTit').html('请选择要咨询的业务类型');
+            }
+            else{
+                for(var j=0;j<aData.length;j++){
+                    $('<li><a href="javascript:;" data-id2="'+aData[j].id+'" data-id="'+nowId+'" onclick="clickItem(this)">'+aData[j].value+'</a></li>').appendTo('#J_serviceUl');
+                }
+                $('<li><a href="javascript:;" class="S_customerListBack" data-type="return" onclick="clickItem(this)">返回上一级</a></li>').appendTo('#J_serviceUl');
+                $('#J_serviceTit').html('请选择要咨询的问题类型');
+            }
+
+        }
+
+        //打开easemobim
+        function openEaseMobim(emgroup){
+            easemobim.bind({
+                //请使用自己的租户ID
+                tenantId: "3902",
+                //是否隐藏小的悬浮按钮
+                hide: true,
+                emgroup:emgroup,
+                to:'ziroomerPro',//环信客服中心渠道管理查看
+                appKey:'ziroom#ziroom',
+                onsessionclosed:function(){
+                    setCookie('emGroup','',-1);//清除cookie
+                    forMenuDom(FIRST_MENU,true);//重置菜单
+                }
+            })
+        }
+
+        //点击菜单选项
+        function clickItem(obj){
+            if($(obj).attr('data-type')=='return'){
+                //返回上一级
+                nowId='';
+                forMenuDom(FIRST_MENU,true);
+            }
+            else if($(obj).attr('data-hasSub')=='1'){
+                //一级菜单切有二级
+                nowId=$(obj).attr('data-id');
+                $.ajax({
+                    url:SER_URL+'/base/customer-service/getQuestionType',
+                    type:'GET',
+                    dataType:'jsonp',
+                    data:{param:'{"businessTypeId":"'+nowId+'"}'},
+                    success:function(data){
+                        if(data.status=='1'){
+                            forMenuDom(data.data,false);
+                        }
+                        else{
+                            console.log(data);
+                        }
+                    }
+                });
+            }
+            else if($(obj).attr('data-hasSub')=='0'){
+                //一级菜单直接请求技能组
+                $.ajax({
+                    url:SER_URL+'/base/customer-service/1/getSkillGroup',
+                    type:'GET',
+                    dataType:'jsonp',
+                    data:{param:'{"businessTypeId":"'+$(obj).attr('data-id')+'"}'},
+                    success:function(data){
+                        if(data.status=='1'){
+                            openEaseMobim(data.data.skillGroup);
+                            setCookie('emGroup',data.data.skillGroup,3);
+                            $('#J_serviceBox').hide();
+                        }
+                        else{
+                            console.log(data);
+                        }
+                    }
+                });
+            }
+            else{
+                //二级菜单请求技能组
+                $.ajax({
+                    url:SER_URL+'/base/customer-service/1/getSkillGroup',
+                    type:'GET',
+                    dataType:'jsonp',
+                    data:{param:'{"businessTypeId":"'+$(obj).attr('data-id')+'","questionTypeId":"'+$(obj).attr('data-id2')+'"}'},
+                    success:function(data){
+                        if(data.status=='1'){
+                            openEaseMobim(data.data.skillGroup);
+                            setCookie('emGroup',data.data.skillGroup,3);
+                            $('#J_serviceBox').hide();
+                        }
+                        else{
+                            console.log(data);
+                        }
+                    }
+                });
+            }
+        }
+
+    </script>        <div id="footer">
+            <div class="area">
+                <div class="clearfix">
+                    <div class="glbLeft">
+                        <dl class="fList">
+                            <dt>关于我们</dt>
+                            <dd>
+                                <a href="//www.ziroom.com/zhaopin/index.php?r=site/about">关于自如</a>
+                                <a href="//www.ziroom.com/about/lianxi.html">联系自如</a>
+                                <a href="//www.ziroom.com/zhaopin/">加入自如</a>
+                            </dd>
+                        </dl>
+                        <dl class="fList">
+                            <dt>自如业务</dt>
+                            <dd>
+                                <a href="//www.ziroom.com/about/fuwu.html">业务体系</a>
+                                <a href="//www.ziroom.com/about/fuwu.html">自如产品</a>
+                                <a href="//www.ziroom.com/servicecentre/">自如服务</a>
+                            </dd>
+                        </dl>
+                        <dl class="fList">
+                            <dt>关注自如</dt>
+                            <dd>
+                                <a>自如客微信</a>
+                                <a>下载app</a>
+                            </dd>
+                        </dl>
+                    </div>
+                    <div class="glbRight">
+                        <div class="img">
+                            <img src="//static8.ziroom.com/phoenix/pc/images/common/zrk_ewm.png">
+                            <p>关注自如客微信</p>
+                        </div>
+                        <div class="img">
+                            <img src="//static8.ziroom.com/phoenix/pc/images/qrcode/2017/pc-homepage-footer-free-qrcode.png">
+                            <p>下载自如app</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="linksFooter">
+                    <dl class="clearfix">
+                        <dt>友情链接</dt>
+                        <dd>
+                            <div class="box" id="linksFooterList">
+                                <p>
+                                    <a target="_blank" href="http://bj.loupan.com">北京房产网</a>
+                                    <a target="_blank" href="http://www.landzestate.com">豪宅别墅</a>
+                                    <a target="_blank" href="http://bj.xkhouse.com">星空地产网</a>
+                                    <a target="_blank" href="http://www.wenchangfc.com">文昌房产网</a>
+                                    <a target="_blank" href="http://www.zhuna.cn/ditie">地铁线路图</a>
+                                    <a target="_blank" href="http://bj.offcn.com">北京人事考试网</a>
+                                    <a target="_blank" href="http://chongqing.anjuke.com/sale">重庆二手房</a>
+                                    <a target="_blank" href="http://bj.lanfw.com">北京蓝房网</a>
+                                    <a target="_blank" href="http://dali.focus.cn">大理房产</a>
+                                    <a target="_blank" href="http://www.0731jiaju.com">家居网</a>
+                                    <a target="_blank" href="http://tj.lianjia.com">天津二手房</a>
+                                    <a target="_blank" href="http://m.ziroom.com">北京租房</a>
+                                    <a target="_blank" href="http://bt.focus.cn">包头房产网</a>
+                                    <a target="_blank" href="http://house.365jia.cn">合肥房产网</a>
+                                    <a target="_blank" href="http://chaozhou.ganji.com">潮州赶集网</a>
+                                    <a target="_blank" href="http://datong.focus.cn">大同房地产</a>
+                                    <a target="_blank" href="http://beijing.qd8.com.cn">北京分类信息网</a>
+                                    <a target="_blank" href="http://xf.fccs.com">襄阳房产</a>
+                                    <a target="_blank" href="http://www.lianjia.com">房产网</a>
+                                    <a target="_blank" href="http://zufangzi.com">丁丁租房</a>
+                                    <a target="_blank" href="http://www.517best.com">旅游百事通</a>
+                                    <a target="_blank" href="http://www.shangceng.com.cn">别墅装修</a>
+                                    <a target="_blank" href="http://bj.house.163.com">网易北京房产</a></p>
+                                <p>
+                                    <a target="_blank" href="http://bj.loupan.com">北京房产网</a>
+                                    <a target="_blank" href="http://www.landzestate.com">豪宅别墅</a>
+                                    <a target="_blank" href="http://bj.xkhouse.com">星空地产网</a>
+                                    <a target="_blank" href="http://www.wenchangfc.com">文昌房产网</a>
+                                    <a target="_blank" href="http://www.zhuna.cn/ditie">地铁线路图</a>
+                                    <a target="_blank" href="http://bj.offcn.com">北京人事考试网</a>
+                                    <a target="_blank" href="http://chongqing.anjuke.com/sale">重庆二手房</a>
+                                    <a target="_blank" href="http://bj.lanfw.com">北京蓝房网</a>
+                                    <a target="_blank" href="http://dali.focus.cn">大理房产</a>
+                                    <a target="_blank" href="http://www.0731jiaju.com">家居网</a>
+                                    <a target="_blank" href="http://tj.lianjia.com">天津二手房</a>
+                                    <a target="_blank" href="http://m.ziroom.com">北京租房</a>
+                                    <a target="_blank" href="http://bt.focus.cn">包头房产网</a>
+                                    <a target="_blank" href="http://house.365jia.cn">合肥房产网</a>
+                                    <a target="_blank" href="http://chaozhou.ganji.com">潮州赶集网</a>
+                                    <a target="_blank" href="http://datong.focus.cn">大同房地产</a>
+                                    <a target="_blank" href="http://beijing.qd8.com.cn">北京分类信息网</a>
+                                    <a target="_blank" href="http://xf.fccs.com">襄阳房产</a>
+                                    <a target="_blank" href="http://www.lianjia.com">房产网</a>
+                                    <a target="_blank" href="http://zufangzi.com">丁丁租房</a>
+                                    <a target="_blank" href="http://www.517best.com">旅游百事通</a>
+                                    <a target="_blank" href="http://www.shangceng.com.cn">别墅装修</a>
+                                    <a target="_blank" href="http://bj.house.163.com">网易北京房产</a></p>
+                            </div>
+                        </dd>
+                    </dl>
+                </div>
+                <div class="footerBottom pr">
+                    <p>Copyright@2018 ziroom.com 版权所有 京ICP备16015349号-1</p>
+                    <p>联系客服：自如客微信 周一至周日09:00-22:00</p>
+                    <a key="553dfddf58725379d18ae6b4" style="position: absolute; right: 0; top: 0;" logo_size="124x47" logo_type="business" href="//www.anquan.org"><script src="//static.anquan.org/static/outer/js/aq_auth.js"></script></a>
+                </div>
+            </div>
+        </div>
+        <!--/footer-->
+        <script src="//static8.ziroom.com/phoenix/pc/js/list.min.js?v=1533455603"></script>
+<script src="//catcher.ziroom.com/assets/js/boomerang.min.js"></script>
+<script type="text/javascript">ZIROOM.tongji('www', 'searchlist');
+BOOMR.init({beacon_url:'//catcher.ziroom.com/beacon', beacon_type:'POST', page_key:'phoenix-pc-hz-list-index'});</script>        <span class="hide">
+                        <script type="text/javascript">
+                var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+                document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F038002b56790c097b74c818a80e3a68e' type='text/javascript'%3E%3C/script%3E"));
+            </script>
+                    </span>
+    </body>
+</html>

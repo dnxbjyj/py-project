@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta property="wb:webmaster" content="572c54c2cc00c6fb" />
+    <meta name="referrer" content="always">
+    
+    <title>
+    dnxbjyj的帐号
+</title>
+    
+<style>
+html{color:#111;background:#fff}body,div,dl,dt,dd,ul,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,button,textarea,blockquote,p{margin:0;padding:0}table{border-collapse:collapse;border-spacing:0}fieldset,img{border:0}address,caption,cite,code,dfn,em,i,strong,th,var,optgroup{font-style:normal;font-weight:normal}ul,ol{list-style:none}caption,th{text-align:left}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal}q:before,q:after{content:""}abbr,acronym{border:0;font-variant:normal}sup{vertical-align:baseline}sub{vertical-align:baseline}legend{color:#000}input,button,textarea,select,optgroup,option{font-family:inherit;font-size:inherit;font-style:inherit;font-weight:inherit}input,button,textarea,select{*font-size:100%}pre{white-space:pre-wrap;word-wrap:break-word}a{cursor:pointer}a:link{color:#369;text-decoration:none}a:visited{color:#669;text-decoration:none}a:hover{color:#fff;text-decoration:none;background:#039}a:active{color:#fff;text-decoration:none;background:#f93}a img{border-width:0;vertical-align:middle}body,td,th{font:12px Helvetica,Arial,sans-serif;line-height:1.62}table{border-collapse:collapse;border:none;padding:0;margin:0}wbr:after{content:"\00200B"}textarea{resize:none}input[type=text]:focus,input[type=password]:focus,input[type=tel]:focus,textarea:focus{outline:none}body{-webkit-text-size-adjust:none;-webkit-touch-callout:none;-webkit-tap-highlight-color:transparent}.bn-small,a.bn-cta,.bn-cta input,.bn-flat input{margin:0;border:none;background:transparent;cursor:pointer;-webkit-appearance:none}.lnk-flat,.bn-flat{display:inline-block;*display:inline;zoom:1;overflow:hidden;vertical-align:middle;color:#444;border-width:1px;border-style:solid;border-color:#bbb #bbb #999;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px}.lnk-flat,.bn-flat input{height:2.1em;padding:0 1.16em 2px;line-height:2.2;*line-height:2.3;font-size:12px;cursor:pointer;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;background:url(https://img3.doubanio.com/f/accounts/23850eee993fea8be43be857dcbaa23961de56aa/pics/bn_ie_bg.png) repeat-x top;background-image:-webkit-gradient(linear, left top, left bottom, from(#fcfcfc), to(#e9e9e9));background-image:-webkit-linear-gradient(top, #fcfcfc, #e9e9e9);background-image:-moz-linear-gradient(top, #fcfcfc, #e9e9e9);background-image:-ms-linear-gradient(top, #fcfcfc, #e9e9e9);background-image:-o-linear-gradient(top, #fcfcfc, #e9e9e9);background-image:linear-gradient(top, #fcfcfc, #e9e9e9)}.lnk-flat:hover,.bn-flat input:hover,.bn-flat-over{color:#333;border-color:#999 #999 #666;background-color:transparent;filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#f8f8f8', endColorstr='#dddddd',GradientType=0 );background-image:-webkit-gradient(linear, left top, left bottom, from(#f8f8f8), to(#ddd));background-image:-webkit-linear-gradient(top, #f8f8f8, #ddd);background-image:-moz-linear-gradient(top, #f8f8f8, #ddd);background-image:-ms-linear-gradient(top, #f8f8f8, #ddd);background-image:-o-linear-gradient(top, #f8f8f8, #ddd);background-image:linear-gradient(top, #f8f8f8, #ddd)}.lnk-flat:active,.bn-flat input:active,.bn-flat-active input{color:#333;border-color:#999 #999 #666;background:#ddd}.lnk-flat{line-height:2.2em}.lnk-flat:link,.lnk-flat:visited{text-decoration:none}a.bn-cta,.bn-cta input{display:inline-block;padding:4px 20px;border:1px solid #528641;background:#3fa156;color:#fff;font-size:14px;letter-spacing:2px;*position:relative;*display:inline;zoom:1;*padding:6px 20px 4px;*line-height:1.2;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px}a.bn-cta{vertical-align:middle}.bn-cta input{padding:5px 18px;*padding:4px 10px 2px;*vertical-align:middle}a.bn-cta:link,a.bn-cta:visited{color:#fff}.bn-cta input:hover,a.bn-cta:hover{background-color:#4fca6c;border-color:#6aad54}.bn-cta input:active,a.bn-cta:active{background-color:#3fa156;border-color:#528641}.bn-small{padding:1px 2px;border:1px solid #ffabab;color:#ff7676;background:#ffdddd;height:1.5em\9;line-height:1.56;*line-height:1.4;*position:relative;-webkit-appearance:none;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px}a.bn-small:link,a.bn-small:visited,a.bn-small:hover,a.bn-small:active{padding:0 4px;line-height:1.8;font-size:12px;*line-height:1.3;zoom:1;*height:13px;*overflow:hidden;color:#ff7676;background:#ffdddd}a.bn-small:hover,a.bn-small:active{border-color:#ff7676;background-color:#ff7676;color:#ffdddd}.recsubmit .bn-flat{margin:0 10px}.basic-input,.basic-textarea{padding:5px;height:18px;font-size:14px;vertical-align:middle;border:1px solid #c9c9c9;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px}.basic-input:focus,.basic-textarea:focus{border:1px solid #a9a9a9}.disabled-input{background:#eee;color:#999}.basic-textarea{height:auto}ul,ol{margin:0;padding:0}.wrapper,.header,.footer{width:950px;margin:0 auto 40px;overflow:hidden;zoom:1}.header{margin-bottom:40px}.article{float:left;width:590px;margin-right:50px}.aside{color:#666;overflow:hidden;zoom:1}.aside h2{font-size:15px;color:#072;margin:0 0 12px 0;line-height:150%}.single-nav{padding-top:30px}.sidenav{margin-top:1em}.sidenav li{margin-bottom:1em}h1{display:block;margin:0;padding:0 0 15px 0;font-size:25px;font-weight:bold;color:#494949;line-height:1.1}p{margin:1em 0}.site-nav-logo a:hover{background:none}
+
+.btn-submit { cursor: pointer; color: #ffffff; background: #3fa156; border: 1px solid #528641; font-size: 14px; font-weight: bold; padding: 6px 26px; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; *width: 100px }
+
+</style>
+
+    <link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/74c498dc755bca57.css">
+    
+  <script type="text/javascript" src="https://img3.doubanio.com/f/accounts/235752090cae6e105c6bb570481adfb4fcdc7b4e/js/lib/cookie.js"></script>
+  <script type="text/javascript" src="https://img3.doubanio.com/f/accounts/c5268df4c1f0bada95cb3d2b80089a50b494b5ee/js/lib/jquery.min.js"></script>
+  <script type="text/javascript" src="https://img3.doubanio.com/f/accounts/bbd909b4dd82f6e1c664380ff01325ec129436a1/js/lib/do.js" data-cfg-corelib="https://img3.doubanio.com/f/accounts/c5268df4c1f0bada95cb3d2b80089a50b494b5ee/js/lib/jquery.min.js"></script>
+
+    
+<script type="text/javascript" src="https://img3.doubanio.com/f/accounts/bbd909b4dd82f6e1c664380ff01325ec129436a1/js/lib/do.js" data-cfg-autoload="false"></script>
+
+  </head>
+  <body>
+    <div class="header">
+      
+<div id="header">
+  <div class="site-nav single-nav">
+    <div class="site-nav-logo">
+      <a href="https://www.douban.com/accounts/">
+          <img src="https://img3.doubanio.com/dae/accounts/static/pics/douban/lg_account.png" alt="豆瓣">
+      </a>
+    </div>
+  </div>
+</div>
+
+    </div>
+    
+  <div class="wrapper">
+    
+    <div class="article">
+      
+
+
+
+
+
+
+
+
+    <div class="clear"></div>
+    <div class="xbar"><div>
+    
+            <a href="/accounts/apptokens">第三方应用授权</a>
+            <span class="now"><span>基本设置</span></span>
+    </div></div>
+    <div class="clear"></div>
+
+<form id="lzform" name="lzform" method="post"><div style="display:none;"><input type="hidden" name="ck" value="qvd3"/></div>
+    
+
+
+
+
+
+
+<table style="clear:both" width="100%" align="center" cellpadding="5">
+    <tr>
+        <td class="m" valign="top" align="right">名　号: </td>
+        <td valign="top">
+<input name="pf_name" type="text" size="15" maxlength="15" value="dnxbjyj"/>
+<br/>名号30天内只能修改一次。<br/>
+        </td>
+    </tr>
+
+    <tr>
+        <td class="m" valign="top" align="right">我的域名:</td>
+        <td valign="top">
+            <input name="pf_uid" type="text" size="15" maxlength="15" value="" />
+            <br/>最多15个字符，字母开头，设置后不能修改<br/>
+        </td>
+    </tr>
+
+    <tr><td class="m" valign="top" align="right">头　像:</td>
+
+     <td valign="top"><a href="/accounts/user_icon/">放你的头像上来</a>
+     <br/><br/></td></tr>
+
+
+    <tr><td class="m" valign="top" align="right">常居地:</td>
+    <td valign="top">
+湖北武汉 <a href="https://www.douban.com/location/wuhan/?move=away&amp;ck=qvd3" id="edloc">搬家</a>
+    <br/><br/></td></tr>
+
+    <tr>
+        <td class="m" align="right">登录邮箱: </td>
+        <td valign="top">
+                <span>dnxbjyj@126.com</span>
+                <a href="/accounts/pre_emailchange">更改</a>
+        </td>
+    </tr>
+
+    <tr>
+        <td class="m" align="right">登录密码: </td>
+        <td valign="top">
+            <a href="/accounts/editpassword">更改</a>
+        </td>
+    </tr>
+
+    <tr>
+        <td class="m" align="right">手机号: </td>
+        <td>135****4335
+            &nbsp;<a href="/accounts/phone/unbind?ck=qvd3">解除绑定</a>
+        </td>
+    </tr>
+
+    <tr>
+        <td></td>
+        <td><span class="bn-flat"><input name="pf_submit" type="submit" value="更新设置" tabindex="8"></span></td>
+    </tr>
+
+    </table>
+    <div class="group_banned">
+        <span class="gact fright">&gt;&nbsp;<a rel="nofollow" href="/accounts/suicide/?ck=qvd3">删除帐号</a></span>
+    </div>
+
+    
+
+<style type="text/css">
+/* for pop dialog */
+.loading { font-size: 14px; margin: 12px; color: #888; background-position: left center; padding: 0 0 0 20px; float: none; width: auto; height: auto }
+#l_tabs li { display: inline-block; padding: 0px 12px }
+#l_tabs li { *display: inline }
+.selected { background: #93b77b;  border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; color: #ffffff }
+.selected a, .selected a:link { color: #fff!important; background: none; cursor: default; }
+.panel ul { border-top: 1px solid #cccccc; padding: 12px 0 0 12px; margin: 10px 0 }
+.panel a { font-size: 14px }
+.panel ul li { display: inline-block; padding: 0 3px ; margin-right: 15px }
+.panel ul li { *display: inline }
+.off { display: none }
+.panel li.on , .panel li.off { margin-right: 8px }
+.panel li.on a , .panel li.off a { font-size: 12px; line-height: 15px }
+.expand , .contract { margin: 0; text-align: right; padding-right: 10px }
+.panel .expand a , .panel .contract a { font-size: 12px }
+.panel .expand { background: url(https://img3.doubanio.com/f/shire/479b9d6dcc35cd548d9cd1a2d826f23213f5868c/pics/icon/tongcheng_tab_down.gif) no-repeat right 2px }
+.panel .contract { background: url(https://img3.doubanio.com/f/shire/0badd8bb59652acb2f2823388150bdf1c02502f8/pics/icon/tongcheng_tab_up.gif) no-repeat right 2px }
+</style>
+
+<script type="text/javascript">
+;(function(){
+Do.add('dialog-css',{path: 'https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',type:'css'});
+Do.add('dialog',{path: 'https://img3.doubanio.com/f/shire/4ea3216519a6183c7bcd4f7d1a6d4fd57ce1a244/js/ui/dialog.js',type:'js',requires:['dialog-css']});
+Do('dialog',function(){
+var where = 'profile';
+function getLocations(t){var e=t.attr("id"),a=$.trim(e).substring($.trim(e).indexOf("_")+1),i="/j/location/"+a+"/",l="p_"+a,n=$("<div></div>").insertAfter(t.parent().parent()).attr("id",l),d=$("<ul></ul>").appendTo(n).wrapAll("<div></div>");d.parent().addClass("panel"),$.getJSON(i,function(t){if($("#l_tabs").nextAll(".loading").hide(),$.each(t.locations,function(t,e){var a=$('<a href="#"></a>');e.habitable?a.addClass("habitable"):a.addClass("unhabitable"),a.text(e.name).attr({id:e.id,title:e.population+"人"}).appendTo(d).wrapAll("<li></li>"),e.population<=100&&a.parent().hide().addClass("off")}),$("<li></li>").css({display:"block",height:"10px"}).insertBefore(d.children("li.off:first")),d.children(".off").length){var e=$("<p></p>").addClass("expand");e.appendTo(d),$("<a></a>").appendTo(e).text("更多")}dlg.updateSize(),dlg.updatePosition()})}function getChildren(t){var e=t.attr("id"),a=$.trim(e).substring($.trim(e).indexOf("_")+1),i="/j/location/"+a+"/",l="p_"+a,n=$("<div></div>").insertAfter(t.parent().parent()).attr("id",l),d=$("<ul></ul>").appendTo(n).wrapAll("<div></div>");d.parent().addClass("panel"),$.getJSON(i,function(t){$("#l_tabs").nextAll(".loading").hide(),$.each(t.locations,function(t,e){return e.has_child?void $.each(e.children,function(t,e){var a=$('<a href="#"></a>');e.habitable?a.addClass("habitable"):a.addClass("unhabitable"),a.text(e.name).attr({id:e.id,title:e.population+"人"}).appendTo(d).wrapAll("<li></li>")}):(alert("此地区不能作为常居地，请选择其他城市"),n.remove(),!1)}),dlg.updateSize(),dlg.updatePosition()})}var dlg=dui.Dialog();dlg.set({title:"选择你的常居地",url:"/j/misc/location_form",width:/device-mobile/i.test(document.documentElement.className)?.9*document.documentElement.offsetWidth:560,cache:!0,callback:function(t,e){$(".selected .loc-type").each(function(){getLocations($(this))}),$("body").delegate("a.habitable","click",function(t){t.preventDefault(),"register"==where?($("#l_tabs").nextAll(".loading").show(),$("input[name='loc']").val($(this).attr("id")),$("em#location").html("<strong>"+$(this).text()+"</strong>"),$("em#location").next().html("重新选择"),e.close(),$(".loc-item .validate-error").hide()):$.post("/j/location/move",{loc:$(this).attr("id"),ck:get_cookie("ck")},function(t){t.r?(e.close(),window.location.reload()):alert("请求失败，请重试。")})}),$("body").delegate("a.unhabitable, a.loc-type","click",function(t){t.preventDefault();var e=$.trim($(this).attr("id")).substring($.trim($(this).attr("id")).indexOf("_")+1),a="#p_"+e;$("#l_tabs").nextAll(".loading").show(),$(this).hasClass("unhabitable")&&getChildren($(this)),$(this).hasClass("loc-type")&&getLocations($(this)),$(this).parent().siblings("li.selected").removeClass("selected"),$(this).parent().addClass("selected"),$(a).siblings("div").remove(),dlg.updateSize(),dlg.updatePosition()})}}),$("body").delegate("p.expand a","click",function(t){t.preventDefault(),$("li.off").show().addClass("on").removeClass("off"),$(this).text("收起").parent().removeClass("expand").addClass("contract"),dlg.updateSize(),dlg.updatePosition()}),$("body").delegate("p.contract a","click",function(t){t.preventDefault(),$("li.on").hide().addClass("off").removeClass("on"),$(this).text("更多").parent().removeClass("contract").addClass("expand"),dlg.updateSize(),dlg.updatePosition()}),$("#edloc,#btnLocation").click(function(t){t.preventDefault(),$(".loading").hide(),dlg.open(),dlg.updateSize(),dlg.updatePosition()});
+});
+})();
+</script>
+
+
+</form>
+
+    </div>
+    <div class="aside">
+      
+
+
+    <h2>
+        寻找“个人介绍”或“邮件提醒”设置？
+            
+    </h2>
+
+去<a href="https://www.douban.com/mine/">我的豆瓣</a>，个人介绍可以直接编辑，邮件提醒位于名号下方的“设置”里
+<br/>
+<br/>
+
+
+
+    <h2>
+        我的域名：
+            
+    </h2>
+
+个性化域名将用作个人主页网址的一部分，最多15个数字或字母，字母开头，一经设定则不可更改。
+<br/>如果现在你不是非常确定，可以先留空，以后再说。
+
+
+
+    </div>
+  </div>
+
+    <div class="footer">
+      
+<div id="footer">
+
+
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2018 douban.com, all rights reserved
+</span>
+
+<span class="fright">
+    <a href="https://www.douban.com/about">关于豆瓣</a>
+    · <a href="https://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="https://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="https://www.douban.com/about?policy=disclaimer">免责声明</a>
+    
+    · <a href="https://www.douban.com/help/">帮助中心</a>
+    · <a href="https://developers.douban.com/" target="_blank">开发者</a>
+    · <a href="https://www.douban.com/mobile/">移动应用</a>
+    · <a href="https://www.douban.com/partner/">豆瓣广告</a>
+</span>
+
+
+
+
+</div>
+
+    </div>
+    <!-- main -->
+    <!-- COLLECTED JS -->
+    
+  </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
