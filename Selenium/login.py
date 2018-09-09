@@ -46,6 +46,9 @@ def main():
     for cookie in cookies:
         s.cookies.set(cookie['name'],cookie['value'])
 
+    # 关闭driver
+    driver.close()
+        
     # 需要登录才能看到的页面URL
     page_url = 'https://www.douban.com/accounts/'
     # 获取该页面的HTML
