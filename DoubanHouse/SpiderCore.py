@@ -1,76 +1,82 @@
 # coding:utf-8
-# ¶¹°êÅÀ³æºËĞÄ·½·¨
+# è±†ç“£çˆ¬è™«æ ¸å¿ƒæ–¹æ³•
+from __future__ import unicode_literals
 from selenium import webdriver
 import requests
 import time
 import json
+from lxml import etree
+import random
+from operator import itemgetter
+from jinja2 import Environment, FileSystemLoader
+
 import sys
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
 class DoubanSpider(object):
     '''
-    ¶¹°êÅÀ³æ
+    è±†ç“£çˆ¬è™«
     '''
     def __init__(self, user_name, password, headless = False):
         '''
-        ³õÊ¼»¯
-        :param user_name: ¶¹°êµÇÂ¼ÓÃ»§Ãû
-        :param password: ¶¹°êµÇÂ¼ÓÃ»§ÃÜÂë
-        :param headless: ÊÇ·ñÏÔÊ¾webdriverä¯ÀÀÆ÷´°¿Ú
+        åˆå§‹åŒ–
+        :param user_name: è±†ç“£ç™»å½•ç”¨æˆ·å
+        :param password: è±†ç“£ç™»å½•ç”¨æˆ·å¯†ç 
+        :param headless: æ˜¯å¦æ˜¾ç¤ºwebdriveræµè§ˆå™¨çª—å£
         :return: None
         '''
         self.user_name = user_name
         self.password = password
         self.headless = headless
 
-        # µÇÂ¼
+        # ç™»å½•
         self.login()
         
     def login(self):
         '''
-        µÇÂ¼£¬²¢³Ö¾Ã»¯cookie
+        ç™»å½•ï¼Œå¹¶æŒä¹…åŒ–cookie
         :return: None
         '''
-        # ¶¹°êµÇÂ¼Ò³ÃæURL
+        # è±†ç“£ç™»å½•é¡µé¢URL
         login_url = 'https://www.douban.com/accounts/login'
 
-        # »ñÈ¡chromeµÄÅäÖÃ
+        # è·å–chromeçš„é…ç½®
         opt = webdriver.ChromeOptions()
-        # ÔÚÔËĞĞµÄÊ±ºò²»µ¯³öä¯ÀÀÆ÷´°¿Ú
+        # åœ¨è¿è¡Œçš„æ—¶å€™ä¸å¼¹å‡ºæµè§ˆå™¨çª—å£
         if self.headless:
             opt.set_headless()
 
-        # »ñÈ¡driver¶ÔÏó
+        # è·å–driverå¯¹è±¡
         self.driver = webdriver.Chrome(chrome_options = opt)
-        # ´ò¿ªµÇÂ¼Ò³Ãæ
+        # æ‰“å¼€ç™»å½•é¡µé¢
         self.driver.get(login_url)
 
         print '[login] opened login page...'
 
-        # Ïòä¯ÀÀÆ÷·¢ËÍÓÃ»§Ãû¡¢ÃÜÂë£¬²¢µã»÷µÇÂ¼°´Å¥
+        # å‘æµè§ˆå™¨å‘é€ç”¨æˆ·åã€å¯†ç ï¼Œå¹¶ç‚¹å‡»ç™»å½•æŒ‰é’®
         self.driver.find_element_by_name('form_email').send_keys(self.user_name)
         self.driver.find_element_by_name('form_password').send_keys(self.password)
-        # ¶à´ÎµÇÂ¼ĞèÒªÊäÈëÑéÖ¤Âë£¬ÕâÀï¸øÒ»¸öÊÖ¹¤ÊäÈëÑéÖ¤ÂëµÄÊ±¼ä
+        # å¤šæ¬¡ç™»å½•éœ€è¦è¾“å…¥éªŒè¯ç ï¼Œè¿™é‡Œç»™ä¸€ä¸ªæ‰‹å·¥è¾“å…¥éªŒè¯ç çš„æ—¶é—´
         time.sleep(6)
         self.driver.find_element_by_class_name('btn-submit').submit()
         print '[login] submited...'
-        # µÈ´ı2ÃëÖÓ
+        # ç­‰å¾…2ç§’é’Ÿ
         time.sleep(2)
 
-        # ´´½¨Ò»¸örequests session¶ÔÏó
+        # åˆ›å»ºä¸€ä¸ªrequests sessionå¯¹è±¡
         self.session = requests.Session()
-        # ´ÓdriverÖĞ»ñÈ¡cookieÁĞ±í£¨ÊÇÒ»¸öÁĞ±í£¬ÁĞ±íµÄÃ¿¸öÔªËØ¶¼ÊÇÒ»¸ö×Öµä£©
+        # ä»driverä¸­è·å–cookieåˆ—è¡¨ï¼ˆæ˜¯ä¸€ä¸ªåˆ—è¡¨ï¼Œåˆ—è¡¨çš„æ¯ä¸ªå…ƒç´ éƒ½æ˜¯ä¸€ä¸ªå­—å…¸ï¼‰
         cookies = self.driver.get_cookies()
-        # °ÑcookiesÉèÖÃµ½sessionÖĞ
+        # æŠŠcookiesè®¾ç½®åˆ°sessionä¸­
         for cookie in cookies:
             self.session.cookies.set(cookie['name'],cookie['value'])
 
     def get_page_source(self, url):
         '''
-        »ñÈ¡ä¯ÀÀÆ÷´°¿ÚÖĞµÄÒ³ÃæHTMLÄÚÈİ
-        :param url: ÍøÒ³Á´½Ó
-        :return: ÍøÒ³Ò³ÃæHTMLÄÚÈİ
+        è·å–æµè§ˆå™¨çª—å£ä¸­çš„é¡µé¢HTMLå†…å®¹
+        :param url: ç½‘é¡µé“¾æ¥
+        :return: ç½‘é¡µé¡µé¢HTMLå†…å®¹
         '''
         self.driver.get(url)
         page_source = self.driver.page_source
@@ -79,78 +85,174 @@ class DoubanSpider(object):
     
     def get(self, url, params = None):
         '''
-        ÏòÒ»¸öurl·¢ËÍgetÇëÇó£¬·µ»Øresponse¶ÔÏó
-        :param url: ÍøÒ³Á´½Ó
-        :param params: URL²ÎÊı×Öµä
-        :return: ·¢ËÍÇëÇóºó»ñÈ¡µÄresponse¶ÔÏó
+        å‘ä¸€ä¸ªurlå‘é€getè¯·æ±‚ï¼Œè¿”å›responseå¯¹è±¡
+        :param url: ç½‘é¡µé“¾æ¥
+        :param params: URLå‚æ•°å­—å…¸
+        :return: å‘é€è¯·æ±‚åè·å–çš„responseå¯¹è±¡
         '''
-        resp = self.session.get(url, params = params)
+        resp = self.session.get(url, params = params, headers = self.get_headers())
 
         if resp:
-            print '[get] status_code = {0}'.format(resp.status_code)
+            print '[get] url = {0}, status_code = {1}'.format(url, resp.status_code)
             resp.encoding = 'utf-8'
-            # ÕâÀïºÜÖØÒª£¬Ã¿´Î·¢ËÍÇëÇóºó£¬¶¼¸üĞÂsessionµÄcookie£¬·ÀÖ¹cookie¹ıÆÚ
+            # è¿™é‡Œå¾ˆé‡è¦ï¼Œæ¯æ¬¡å‘é€è¯·æ±‚åï¼Œéƒ½æ›´æ–°sessionçš„cookieï¼Œé˜²æ­¢cookieè¿‡æœŸ
             if resp.cookies.get_dict():
                 self.session.update(resp.cookies)
                 print '[get] updated cookies, new cookies = {0}'.format(resp.cookies.get_dict())
             return resp
         else:
-            print '[get] response is None'
+            print '[get] url = {0}, response is None'.format(url)
             return None
     def get_html(self,url, params = None):
         '''
-        »ñÈ¡Ò»¸öurl¶ÔÓ¦µÄÒ³ÃæµÄHTML´úÂë
-        :param url: ÍøÒ³Á´½Ó
-        :param params: URL²ÎÊı×Öµä
-        :return: ÍøÒ³µÄHTML´úÂë
+        è·å–ä¸€ä¸ªurlå¯¹åº”çš„é¡µé¢çš„HTMLä»£ç 
+        :param url: ç½‘é¡µé“¾æ¥
+        :param params: URLå‚æ•°å­—å…¸
+        :return: ç½‘é¡µçš„HTMLä»£ç 
         '''
         resp = self.get(url)
         if resp:
             return resp.text
         else:
             return ''
+    def get_headers(self):
+        '''
+        éšæœºè·å–ä¸€ä¸ªheaders
+        '''
+        user_agents =  ['Mozilla/5.0 (Windows NT 6.1; rv:2.0.1) Gecko/20100101 Firefox/4.0.1','Mozilla/5.0 (Windows; U; Windows NT 6.1; en-us) AppleWebKit/534.50 (KHTML, like Gecko) Version/5.1 Safari/534.50','Opera/9.80 (Windows NT 6.1; U; en) Presto/2.8.131 Version/11.11']
+        headers = {'User-Agent':random.choice(user_agents)}
+        return headers
 
 class DoubanDiscussionSpider(DoubanSpider):
     '''
-    ¶¹°êĞ¡×éÌÖÂÛ»°ÌâÅÀ³æ
+    è±†ç“£å°ç»„è®¨è®ºè¯é¢˜çˆ¬è™«
     '''
     def __init__(self, user_name, password, group_name, headless = False):
         '''
-        ³õÊ¼»¯
-        :param user_name: ¶¹°êµÇÂ¼ÓÃ»§Ãû
-        :param password: ¶¹°êµÇÂ¼ÓÃ»§ÃÜÂë
-        :param group_name: ¶¹°êĞ¡×éÃû³Æ
-        :param headless: ÊÇ·ñÏÔÊ¾webdriverä¯ÀÀÆ÷´°¿Ú
+        åˆå§‹åŒ–
+        :param user_name: è±†ç“£ç™»å½•ç”¨æˆ·å
+        :param password: è±†ç“£ç™»å½•ç”¨æˆ·å¯†ç 
+        :param group_name: è±†ç“£å°ç»„åç§°
+        :param headless: æ˜¯å¦æ˜¾ç¤ºwebdriveræµè§ˆå™¨çª—å£
         :return: None
         '''
         super(DoubanDiscussionSpider,self).__init__(user_name, password, headless)
         self.group_name = group_name
 
-        # ¶¹°êĞ¡×éÌÖÂÛÁĞ±íURLÄ£°å
-        self.url = 'https://www.douban.com/group/{group_name}/discussion'.format(group_name = self.group_name)
-        print '[__init__] url = {0}'.format(self.url)
+        # è±†ç“£å°ç»„è®¨è®ºåˆ—è¡¨URLæ¨¡æ¿
+        self.url_tpl = 'https://www.douban.com/group/{group_name}/discussion?start={start}&limit={limit}'.format(group_name = self.group_name,start = '{start}', limit = '{limit}')
+        print '[__init__] url = {0}'.format(self.url_tpl)
 
-    def get_discussion_list(self, start=0, limit=100):
+    def get_discussion_list(self, start=0, limit=100, filter = []):
         '''
-        »ñÈ¡ÌÖÂÛÁĞ±í
+        è·å–è®¨è®ºåˆ—è¡¨
+        :param start: å¼€å§‹æ¡ç›®æ•°ï¼Œé»˜è®¤å€¼ä¸º0
+        :param limit: æ€»æ¡æ•°ï¼Œé»˜è®¤å€¼ä¸º100ï¼Œæœ€å¤§å€¼ä¹Ÿä¸º100
+        :param filter: å…³é”®è¯åˆ—è¡¨ï¼Œåªè¿‡æ»¤å‡ºæ ‡é¢˜æˆ–è¯¦æƒ…ä¸­å«æœ‰å…³é”®è¯åˆ—è¡¨ä¸­å…³é”®è¯çš„é¡¹
+        :return: è¯é¢˜è®¨è®ºå†…å®¹å­—å…¸åˆ—è¡¨
         '''
+        list_url = self.url_tpl.format(start = start, limit = limit)
+        page_html = self.get_html(list_url)
+        
+        html = etree.HTML(page_html)
+        # è§£æè¯é¢˜è®¨è®ºåˆ—è¡¨
+        trs = html.xpath('//*[@class="olt"]/tr')[1:]
+        # è¯é¢˜å­—å…¸åˆ—è¡¨
+        topics = []
+        # å·²ç»“è¢«æ·»åŠ çš„topic linkåˆ—è¡¨ï¼Œç”¨äºå»é‡
+        added_links = []
+        for tr in trs:
+            title = tr.xpath('./td[1]/a/text()')[0].strip()
+            link = tr.xpath('./td[1]/a/@href')[0].strip()
+            # ç»§ç»­è§£æè¯é¢˜è¯¦æƒ…é¡µé¢ï¼Œä»ä¸­è§£æå‡ºå‘å¸ƒæ—¶é—´ã€æè¿°è¯¦æƒ…
+            topic_page_html = self.get_html(link)
+            topic = etree.HTML(topic_page_html)
+            # å‘å¸ƒæ—¶é—´å­—ç¬¦ä¸²
+            post_time_str = topic.xpath('//*[@class="topic-doc"]/h3[1]/span[2]/text()')[0].strip()
+            # è¯¦æƒ…
+            detail = topic.xpath('//*[@class="topic-content"]')[0].xpath('string(.)').strip()
 
+            # æ ¹æ®å…³é”®è¯è¿‡æ»¤
+            if filter and not self.contains(title, filter) and not self.contains(detail, filter):
+                continue
+            
+            topic_dict = {}
+            topic_dict['title'] = title
+            topic_dict['link'] = link
+            if link in added_links:
+                continue
+            else:
+                added_links.append(link)
+            
+            topic_dict['post_time_str'] = post_time_str
+            topic_dict['post_time'] = time.mktime(time.strptime(post_time_str,'%Y-%m-%d %H:%M:%S'))
+            topic_dict['detail'] = detail
+            topics.append(topic_dict)
+            print '[get_discussion_list] parse topic: {0} finished'.format(link)
+        print '[get_discussion_list] get all topics finished, count of topics = {0}'.format(len(topics))
+        # å¯¹topicsæŒ‰ç…§å‘å¸ƒæ—¶é—´æ’åºï¼ˆé™åºï¼‰
+        topics = sorted(topics, key = itemgetter('post_time'), reverse = True)
+        return topics
+    def get_discussion_list_cyclely(self, start = 0, limit = 100, filter = []):
+        '''
+        å¾ªç¯è·å–è®¨è®ºåˆ—è¡¨
+        :param start: å¼€å§‹æ¡ç›®æ•°ï¼Œé»˜è®¤å€¼ä¸º0
+        :param limit: æ€»æ¡æ•°ï¼Œé»˜è®¤å€¼ä¸º100
+        :param filter: å…³é”®è¯åˆ—è¡¨ï¼Œåªè¿‡æ»¤å‡ºæ ‡é¢˜æˆ–è¯¦æƒ…ä¸­å«æœ‰å…³é”®è¯åˆ—è¡¨ä¸­å…³é”®è¯çš„é¡¹
+        :return: è¯é¢˜è®¨è®ºå†…å®¹å­—å…¸åˆ—è¡¨
+        '''
+        topics = []
+        if limit <= 100:
+            topics = self.get_discussion_list(start, limit, filter)
+        else:
+            for start in range(start, limit, 100):
+                topics.extend(self.get_discussion_list(start, 100, filter))
+        print '[get_discussion_list_cyclely] get all topics finished, count of topics = {0}'.format(len(topics))
+        # å¯¹topicsæŒ‰ç…§å‘å¸ƒæ—¶é—´æ’åºï¼ˆé™åºï¼‰
+        topics = sorted(topics, key = itemgetter('post_time'), reverse = True)
+        return topics
+
+    def contains(self, text, filter):
+        '''
+        åˆ¤æ–­ä¸€ä¸ªå­—ç¬¦ä¸²ä¸­æ˜¯å¦åŒ…å«äº†ä¸€ä¸ªå…³é”®è¯åˆ—è¡¨ä¸­çš„è‡³å°‘ä¸€ä¸ªå…³é”®è¯
+        :param text: å­—ç¬¦ä¸²
+        :param filter: å…³é”®è¯å­—ç¬¦ä¸²åˆ—è¡¨
+        :return: bool
+        '''
+        for kw in filter:
+            if kw in text:
+                return True
+        return False
+
+    def render_topics(self, topics):
+        '''
+        æŠŠtopicåˆ—è¡¨å†…å®¹æ¸²æŸ“åˆ°HTMLæ–‡ä»¶ä¸­
+        :param topics: topicåˆ—è¡¨
+        :return: None
+        '''
+        env = Environment(loader = FileSystemLoader('E:/code/py-project/DoubanHouse/'))
+        tpl = env.get_template('topics_tpl.html')
+        with open('topics.html','w+') as fout:
+            render_content = tpl.render(topics = topics)
+            fout.write(render_content)
+        print '[render_topics] render finished'
+        
 def sample():
     '''
-    ²âÊÔ
+    æµ‹è¯•
     '''
     user_name = sys.argv[1]
     password = sys.argv[2]
+    start = int(sys.argv[3])
+    limit = int(sys.argv[4])
     group_name = 'nanshanzufang'
     spider = DoubanDiscussionSpider(user_name, password, group_name)
-
-    # ĞèÒªµÇÂ¼²ÅÄÜ¿´µ½µÄÒ³ÃæURL
-    page_url = 'https://www.douban.com/accounts/'
-    # »ñÈ¡ÍøÒ³ÄÚÈİ
-    html = spider.get_page_source(page_url)
-    # ½«ÍøÒ³ÄÚÈİ´æÈëÎÄ¼ş
-    with open('html.txt','w+') as  fout:
-        fout.write(html)    
+    
+    # è·å–å½“å‰å°ç»„çš„è¯é¢˜åˆ—è¡¨ï¼ŒæŒ‰ç…§å…³é”®è¯åˆ—è¡¨è¿‡æ»¤å†…å®¹
+    filter = ['ä¸»å§','ä¸»äºº','ç‹¬å«','ç”²é†›','å¤§å§','ç‹¬ç«‹å«ç”Ÿé—´']
+    topics = spider.get_discussion_list_cyclely(start,limit, filter)
+    # å°†topicsåˆ—è¡¨å†…å®¹æ¸²æŸ“åˆ°HTMLè¡¨æ ¼ä¸­
+    spider.render_topics(topics)
 
 if __name__ == '__main__':
     sample()
