@@ -1,5 +1,6 @@
 # coding:utf-8
 # 豆瓣爬虫核心方法
+# python SpiderCore.py 13544053839 jia-1993yongji 0 100
 from __future__ import unicode_literals
 from selenium import webdriver
 import requests
@@ -90,6 +91,8 @@ class DoubanSpider(object):
         :param params: URL参数字典
         :return: 发送请求后获取的response对象
         '''
+        # 等待一个随机的时间，防止被封IP
+        time.sleep(6 * random.random())
         resp = self.session.get(url, params = params, headers = self.get_headers())
 
         if resp:
