@@ -1,6 +1,5 @@
 # coding:utf-8
 # 豆瓣爬虫核心方法
-# python SpiderCore.py 13544053839 jia-1993yongji 0 100
 from __future__ import unicode_literals
 from selenium import webdriver
 import requests
@@ -91,7 +90,7 @@ class DoubanSpider(object):
         :param params: URL参数字典
         :return: 发送请求后获取的response对象
         '''
-        # 等待一个随机的时间，防止被封IP
+        # 等待一个随机的时间，防止被封IP，这里随机等待0~6秒，亲测可用有效地避免触发豆瓣的反爬虫机制
         time.sleep(6 * random.random())
         resp = self.session.get(url, params = params, headers = self.get_headers())
 
@@ -244,14 +243,19 @@ def sample():
     '''
     测试
     '''
+    # 豆瓣账号用户名、密码
     user_name = sys.argv[1]
     password = sys.argv[2]
+    # 起始位置
     start = int(sys.argv[3])
+    # 打算爬取的小组讨论条数
     limit = int(sys.argv[4])
+    # 小组名称
     group_name = 'nanshanzufang'
+    # 创建爬虫spider对象
     spider = DoubanDiscussionSpider(user_name, password, group_name)
     
-    # 获取当前小组的话题列表，按照关键词列表过滤内容
+    # 获取当前小组的话题列表，按照关键词列表过滤内容，只有讨论的标题或详情中包含这个列表中至少一个关键词的时候，才保留
     filter = ['主卧','主人','独卫','甲醛','大卧','独立卫生间']
     topics = spider.get_discussion_list_cyclely(start,limit, filter)
     # 将topics列表内容渲染到HTML表格中
