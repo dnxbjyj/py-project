@@ -1,0 +1,43 @@
+<style type="text/css">
+table.gridtable {
+	font-family: verdana,arial,sans-serif;
+	font-size:11px;
+	color:#333333;
+	border-width: 1px;
+	border-color: #666666;
+	border-collapse: collapse;
+}
+table.gridtable th {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #666666;
+	background-color: #dedede;
+}
+table.gridtable td {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #666666;
+	background-color: #ffffff;
+}
+</style>
+
+<table class="gridtable">
+<!-- 表头 -->
+<tr>
+  {%- for t in title -%}
+  <th>{{t}}</th>
+  {% endfor %}
+</tr>
+
+<!-- 表格内容 -->
+{%- for data in data_dicts -%}
+<tr>
+  <!-- 数据字典key列表 -->
+  {%- for k in keys -%}
+    <td>{{data[k]}}</td>
+  {% endfor %}
+</tr>
+{% endfor %}
+</table>
