@@ -1,8 +1,0 @@
-# coding:utf-8
-# 飪國鰾單瞄陑源楊
-
-class DoubanSpider(object):
-    '''
-    飪國鰾單
-    '''
-    def __init__(self,)
