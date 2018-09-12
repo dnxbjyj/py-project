@@ -4,11 +4,13 @@ from __future__ import unicode_literals
 from selenium import webdriver
 import requests
 import time
+import datetime
 import json
 from lxml import etree
 import random
 from operator import itemgetter
 from jinja2 import Environment, FileSystemLoader
+import traceback
 
 import sys
 reload(sys)
@@ -234,7 +236,7 @@ class DoubanDiscussionSpider(DoubanSpider):
         '''
         env = Environment(loader = FileSystemLoader('E:/code/py-project/DoubanHouse/'))
         tpl = env.get_template('topics_tpl.html')
-        with open('topics.html','w+') as fout:
+        with open('douban-house-topics-{0}.html'.format(datetime.datetime.now().strftime('%Y-%m-%d')),'w+') as fout:
             render_content = tpl.render(topics = topics)
             fout.write(render_content)
         print '[render_topics] render finished'
@@ -262,5 +264,8 @@ def sample():
     spider.render_topics(topics)
 
 if __name__ == '__main__':
-    sample()
-    print 'end'
+    try:
+        sample()
+        print 'end'
+    except Exception as e:
+        print 'error occurs! traceback: {0}'.format(traceback.format_exc())
