@@ -1,0 +1,1 @@
+git add -A & git commit -m "daily commit" & git push origin master & timeout 10

@@ -11,6 +11,7 @@ import random
 from operator import itemgetter
 from jinja2 import Environment, FileSystemLoader
 import traceback
+import ConfigParser
 
 import sys
 reload(sys)
@@ -248,17 +249,25 @@ def sample():
     # 豆瓣账号用户名、密码
     user_name = sys.argv[1]
     password = sys.argv[2]
-    # 起始位置
-    start = int(sys.argv[3])
-    # 打算爬取的小组讨论条数
-    limit = int(sys.argv[4])
+
+    # 创建配置文件对象
+    config = ConfigParser.SafeConfigParser()
+    config.read('config.conf')
+
     # 小组名称
-    group_name = 'nanshanzufang'
+    group_name = config.get('base','douban_group_name')    
+    # 起始位置
+    start = int(config.get('base','start'))
+    # 打算爬取的小组讨论条数
+    limit = int(config.get('base','limit'))
+
+    # 关键词
+    filter = [x.strip() for x in config.get('content','filter').split(',')]
+    # 排除词
+    exclude = [x.strip() for x in config.get('content','exclude').split(',')]
+
     # 创建爬虫spider对象
-    spider = DoubanDiscussionSpider(user_name, password, group_name)
-    
-    # 获取当前小组的话题列表，按照关键词列表过滤内容，只有讨论的标题或详情中包含这个列表中至少一个关键词的时候，才保留
-    filter = ['主卧','主人','独卫','甲醛','大卧','独立卫生间']
+    spider = DoubanDiscussionSpider(user_name, password, group_name)    
     topics = spider.get_discussion_list_cyclely(start,limit, filter)
     # 将topics列表内容渲染到HTML表格中
     spider.render_topics(topics)
